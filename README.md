@@ -1,5 +1,6 @@
-### Hi folks 👋, I am Victoria
+### Hi folks, I am Victoria 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriacheng15)](https://github.com/anuraghazra/github-readme-stats)
 
