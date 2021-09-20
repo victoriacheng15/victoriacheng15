@@ -1,21 +1,29 @@
-### Hi folks, I am Victoria 👋
+![banner](https://user-images.githubusercontent.com/35031228/134054674-a32b6eb0-0631-4f2f-b298-d5369e6eb10f.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+### 👋 Hi folks!
 
-[![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+My name is Victoria, a self-taugh developer. I am currently looking to make a career change and set my foot into the Tech industry.
 
+### 😃 About me
 
-<!--
-**victoriacheng15/victoriacheng15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Pronouns: She/her
+- Coding Enviornment: dark mode!
+- Drinks: ☕ coffee and 🍵 tea
+- Find me somewhere on: <a href="https://twitter.com/theviccheng15" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat&logo=twitter&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Toolbox
+
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
+
+- Plan to learning
+
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&hide=Shell,Ruby&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
