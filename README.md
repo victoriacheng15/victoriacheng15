@@ -2,7 +2,7 @@
 
 ### 👋 Hi folks!
 
-My name is Victoria, a self-taugh developer. I am currently looking to make a career change and set my foot into the Tech industry.
+My name is Victoria, a self-taught developer. I am currently looking to make a career change and set my foot into the Tech industry.
 
 ### 😃 About me
 
