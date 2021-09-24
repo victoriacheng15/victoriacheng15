@@ -6,7 +6,7 @@ My name is Victoria, a self-taught developer. I am currently looking to make a c
 
 ### 😃 About me
 
-- Pronouns: She/her
+- Pronouns: she/her
 - Coding Enviornment: dark mode!
 - Drinks: ☕ coffee and 🍵 tea
 - Find me somewhere on: <a href="https://twitter.com/theviccheng15" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat&logo=twitter&logoColor=white" /></a>
