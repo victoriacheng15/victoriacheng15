@@ -1,15 +1,20 @@
 ![banner](https://user-images.githubusercontent.com/35031228/134054674-a32b6eb0-0631-4f2f-b298-d5369e6eb10f.png)
 
+<div align="center">
+
+[Website](https://victoriacheng15.vercel.app/) || [Twitter](https://twitter.com/theviccheng15) || [Frontend Mentor](https://www.frontendmentor.io/profile/victoriacheng15) || [CodeSandbox](https://codesandbox.io/u/victoriacheng15) || [CodePen](https://codepen.io/victoriacheng15)
+
+</div>
+
 ### 👋 Hi folks!
 
-My name is Victoria, a self-taught developer. I am currently looking to make a career change and set my foot into the Tech industry.
+I am Victoria, an asipring full stack developer. Outside of coding time, I play video games and watch Netflix.
 
 ### 😃 About me
 
 - Pronouns: she/her
 - Coding Enviornment: dark mode!
 - Drinks: ☕ coffee and 🍵 tea
-- Find me somewhere on: <a href="https://twitter.com/theviccheng15" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat&logo=twitter&logoColor=white" /></a>
 
 ---
 
