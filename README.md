@@ -8,7 +8,7 @@
 
 ### 👋 Hi folks!
 
-I am Victoria, an asipring full stack developer. Outside of coding time, I play video games and watch Netflix.
+I am Victoria. Outside of coding time, I play video games and watch Netflix.
 
 ### 😃 About me
 
