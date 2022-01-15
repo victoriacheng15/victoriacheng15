@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Website](https://victoriacheng15.vercel.app/) || [Twitter](https://twitter.com/theviccheng15) || [Frontend Mentor](https://www.frontendmentor.io/profile/victoriacheng15) || [CodeSandbox](https://codesandbox.io/u/victoriacheng15) || [CodePen](https://codepen.io/victoriacheng15)
+[Website](https://victoriacheng15.vercel.app/) || [Twitter](https://twitter.com/viktoriacheng15) || [Frontend Mentor](https://www.frontendmentor.io/profile/victoriacheng15) || [CodeSandbox](https://codesandbox.io/u/victoriacheng15) || [CodePen](https://codepen.io/victoriacheng15)
 
 </div>
 
