@@ -8,7 +8,7 @@
 
 ### 👋 Hi folks!
 
-I am Victoria. Since March 2021, I have been teaching myself HTML/CSS and JavaScript. Currently, I am in 100Devs cohort and learning MongoDB, Express, React and Node (MERN) stack.
+I am Victoria. Since March 2021, I have been teaching myself HTML/CSS and JavaScript. Currently, I am in 100Devs cohort and learning the MERN (MongoDB, Express, React and Node) stack.
 
 ### 😃 About me
 
