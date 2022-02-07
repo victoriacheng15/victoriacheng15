@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[Website](https://victoriacheng15.vercel.app/) || [Twitter](https://twitter.com/viktoriacheng15) || [Frontend Mentor](https://www.frontendmentor.io/profile/victoriacheng15) || [CodeSandbox](https://codesandbox.io/u/victoriacheng15) || [Glitch](https://glitch.com/@victoriacheng15) || [CodePen](https://codepen.io/victoriacheng15)
+[![aboutdotme](https://img.shields.io/badge/-About.me-d3d3d3?&style=flat-square&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.vercel.app/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/) [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=black)](https://www.frontendmentor.io/profile/victoriacheng15) [![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=flat-square&logo=glitch&logoColor=white)](https://glitch.com/@victoriacheng15) [![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/victoriacheng15) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/victoriacheng15)
 
 </div>
 
 ### 👋 Hi folks!
 
-I am Victoria. Since March 2021, I have been teaching myself HTML/CSS and JavaScript. Currently, I am in 100Devs cohort and learning the MERN (MongoDB, Express, React and Node) stack.
+Welcome! Since March 2021, I have been teaching myself HTML/CSS and JavaScript. Currently, I am in 100Devs cohort and learning the MERN (MongoDB, Express, React and Node) stack.
 
 ### 😃 About me
 
@@ -17,6 +17,7 @@ I am Victoria. Since March 2021, I have been teaching myself HTML/CSS and JavaSc
 - Pronouns: she/her
 - Coding Enviornment: dark mode!
 - Drinks: ☕ coffee and 🍵 tea
+- Languages: English, Mandarin and American Sign Language
 
 ### 🌱 I am currently learning
 
