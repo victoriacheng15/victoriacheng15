@@ -2,7 +2,12 @@
 
 <div align="center">
 
-[![aboutdotme](https://img.shields.io/badge/-About.me-d3d3d3?&style=flat-square&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.vercel.app/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/) [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=black)](https://www.frontendmentor.io/profile/victoriacheng15) [![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=flat-square&logo=glitch&logoColor=white)](https://glitch.com/@victoriacheng15) [![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/victoriacheng15) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/victoriacheng15)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=flat-square&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.vercel.app/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://victoriacheng15.hashnode.dev/)
+[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/victoriacheng15)
+
 
 </div>
 
