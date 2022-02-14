@@ -20,7 +20,7 @@ Welcome! Since March 2021, I have been teaching myself HTML/CSS and JavaScript. 
 - I'm looking to collaborate projects or contribute to open sources
 - I'm currently working on improving my skills!
 - Pronouns: she/her
-- Coding Enviornment: dark mode!
+- Coding Environment: dark mode!
 - Drinks: ☕ coffee and 🍵 tea
 - Languages: English, Mandarin and American Sign Language
 
