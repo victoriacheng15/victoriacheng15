@@ -39,7 +39,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&hide=Shell,Ruby&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&hide=Shell,Ruby&layout=compact&theme=prussian" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian" /></a>
 
