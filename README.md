@@ -37,6 +37,10 @@
 
 # 👇 My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
+- [What is PowerToys? 🤔](https://victoriacheng15.hashnode.dev/what-is-powertoys-ckzsvrn8u0631fes19xet2tpt)
+- [Responsive Website Deep Dive!](https://victoriacheng15.hashnode.dev/responsive-website-deep-dive-ckznj9pgc08rmn1s1ci52ck8s)
+- [Networking - 100Devs](https://victoriacheng15.hashnode.dev/networking-100devs-ckzef845e06ekabs1g2i2bajr)
+- [100Devs Cohort](https://victoriacheng15.hashnode.dev/100devs-cohort-ckzbjvo1l023hxts15glue5uj)
 <!-- HASHNODE_BLOG:END -->
 
 # 📈 GitHub Stats
