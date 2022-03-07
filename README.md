@@ -13,7 +13,7 @@
 
 ## 😃 About me
 
-- I am in 100Devs bootcamp and learning the MERN stack
+- I am in 100Devs cohort and learning the MERN stack
 - I'm looking to collaborate projects or contribute to open sources!
 - I'm currently working on improving my skills!
 - Pronouns: she/her
