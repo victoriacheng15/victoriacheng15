@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=flat-square&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.vercel.app/) -->
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://victoriacheng15.hashnode.dev/)
-[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/victoriacheng15)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://victoriacheng15.hashnode.dev/)
+[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/victoriacheng15)
 
 </div>
 
@@ -35,8 +35,10 @@
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-## 👇 My Latest Blog Posts 
+## 👇 My Latest Blog Posts
+
 <!-- HASHNODE_BLOG:START -->
+
 - [JavaScript - Functions](https://victoriacheng15.hashnode.dev/javascript-functions-cl08cqxyt008nksnv3w8fer2z)
 - [onclick vs addEventListener in JavaScript](https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript-cl02jj6h3017ivenv6o20duav)
 - [What is PowerToys? 🤔](https://victoriacheng15.hashnode.dev/what-is-powertoys-ckzsvrn8u0631fes19xet2tpt)
@@ -44,5 +46,5 @@
 <!-- HASHNODE_BLOG:END -->
 
 ## 📈 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&hide=Shell,Ruby&layout=compact&theme=prussian" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian" /></a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&hide=Shell,Ruby&layout=compact&theme=prussian" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian" /></a>
