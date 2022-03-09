@@ -38,7 +38,6 @@
 ## 👇 My Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
-
 - [JavaScript - Functions](https://victoriacheng15.hashnode.dev/javascript-functions-cl08cqxyt008nksnv3w8fer2z)
 - [onclick vs addEventListener in JavaScript](https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript-cl02jj6h3017ivenv6o20duav)
 - [What is PowerToys? 🤔](https://victoriacheng15.hashnode.dev/what-is-powertoys-ckzsvrn8u0631fes19xet2tpt)
