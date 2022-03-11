@@ -14,18 +14,18 @@
 ## 😃 About me
 
 - I am in 100Devs cohort and learning the MERN stack
-- I'm looking to collaborate projects or contribute to open sources!
-- I'm currently working on improving my skills!
+- I'm looking to collaborate projects or contribute to open sources
+- I'm currently working on improving my skills
 - Pronouns: she/her
-- Coding Environment: dark mode!
+- Coding Environment: dark mode
 - Drinks: ☕ coffee and 🍵 tea
 - Languages: English, Mandarin and American Sign Language
 
-#### 🌱 I am currently learning
+### 🌱 I am currently learning
 
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-#### 🏫 I am planning to learning
+### 🏫 I am planning to learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
