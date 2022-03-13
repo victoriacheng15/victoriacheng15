@@ -1,8 +1,6 @@
-<div align="center">
-
-    ![banner](./banner/github-banner.png)
-    
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35031228/158080363-9d12bf09-3ca7-49d7-941c-56f697b8d4ec.png" />
+</p>
 
 <div align="center">
 
