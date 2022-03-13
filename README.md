@@ -1,4 +1,8 @@
-![banner](https://user-images.githubusercontent.com/35031228/148818032-decdd9a3-4d4a-4193-8148-f26eafa5c0dc.png)
+<div align="center">
+
+    ![banner](./banner/github-banner.png)
+    
+</div>
 
 <div align="center">
 
