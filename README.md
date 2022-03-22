@@ -30,10 +30,10 @@
 ### 🏫 I am planning to learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<!-- 
 ## 📽️ Projects
 
-[A list of projects](https://github.com/victoriacheng15/projects-highlight)
+[A list of projects](https://github.com/victoriacheng15/projects-highlight) -->
 
 ## 💼 Tech Stack
 
