@@ -4,8 +4,7 @@
 
 <div align="center">
 
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=flat-square&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.vercel.app/) -->
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://victoriacheng15.hashnode.dev/)
