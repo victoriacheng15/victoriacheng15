@@ -44,10 +44,10 @@
 ## 👇 My Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [😬 Regular Expressions - Letter Edition 😬](https://victoriacheng15.hashnode.dev/regular-expressions-letter-edition-cl30lyhoj01itdwnv2uvshevt)
 - [My Journey into the Tech](https://victoriacheng15.hashnode.dev/my-journey-into-the-tech-cl2s0jthg01hndmnvetom9s0y)
 - [JavaScript - Functions](https://victoriacheng15.hashnode.dev/javascript-functions-cl08cqxyt008nksnv3w8fer2z)
 - [onclick vs addEventListener in JavaScript](https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript-cl02jj6h3017ivenv6o20duav)
-- [What is PowerToys? 🤔](https://victoriacheng15.hashnode.dev/what-is-powertoys-ckzsvrn8u0631fes19xet2tpt)
 <!-- HASHNODE_BLOG:END -->
 
 ## 📈 GitHub Stats
