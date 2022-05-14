@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/35031228/158080363-9d12bf09-3ca7-49d7-941c-56f697b8d4ec.png" />
-</p>
+<div align="center">
+
+  ![banner](./banner/github-banner.png)
+
+  <!-- <img src="https://user-images.githubusercontent.com/35031228/158080363-9d12bf09-3ca7-49d7-941c-56f697b8d4ec.png" /> -->
+
+</div>
 
 <div align="center">
 
@@ -12,22 +16,22 @@
 
 </div>
 
-## 😃 About me
+# Hi 👋 My name is Victoria Cheng
 
-- I am in 100Devs cohort and learning the MERN stack
+- Pronouns: she/her
+- I'm based in Toronto, Canada
 - I'm looking to collaborate projects or contribute to open sources
 - I'm currently working on improving my skills
-- Pronouns: she/her
-- Coding Environment: dark mode
 - Drinks: ☕ coffee and 🍵 tea
+- Coding Environment: dark mode
 - Languages: English, Mandarin and American Sign Language
 
-### 🌱 I am currently learning
+## 🌱 I am currently learning
 
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-### 🏫 I am planning to learning
+## 🏫 I am planning to learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- 
@@ -35,13 +39,13 @@
 
 [A list of projects](https://github.com/victoriacheng15/projects-highlight) -->
 
-## 💼 Tech Stack
+# 💼 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-## 👇 My Latest Blog Posts
+# 👇 My Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
 - [😬 Regular Expressions - Letter Edition 😬](https://victoriacheng15.hashnode.dev/regular-expressions-letter-edition-cl30lyhoj01itdwnv2uvshevt)
@@ -50,6 +54,10 @@
 - [onclick vs addEventListener in JavaScript](https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript-cl02jj6h3017ivenv6o20duav)
 <!-- HASHNODE_BLOG:END -->
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&hide=Shell,Ruby&layout=compact&theme=prussian" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&theme=prussian" /></a>
+<a href="http://www.github.com/victoriacheng15"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="victoriacheng15's GitHub stats" /></a> <a href="http://www.github.com/victoriacheng15"><img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=victoriacheng15&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
+<a href="http://www.github.com/victoriacheng15"><img height="250em" src="https://activity-graph.herokuapp.com/graph?username=victoriacheng15&bg_color=22272e&color=3382ed&line=ffffff&point=3382ed&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/victoriacheng15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
