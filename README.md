@@ -16,7 +16,7 @@
 
 </div>
 
-# Hi 👋 My name is Victoria Cheng
+# Hi 👋 My name is Victoria
 
 - Pronouns: she/her
 - I'm based in Toronto, Canada
@@ -45,7 +45,12 @@
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-# 👇 My Latest Blog Posts
+---
+
+## 👇 My Latest Blog Posts
+
+<details close>
+<summary>Check this out!</summary>
 
 <!-- HASHNODE_BLOG:START -->
 - [🤔 Set in JavaScript 🤔](https://victoriacheng15.hashnode.dev/set-in-javascript-cl3ajupti02agx2nvfcpi76yr)
@@ -54,7 +59,22 @@
 - [JavaScript - Functions](https://victoriacheng15.hashnode.dev/javascript-functions-cl08cqxyt008nksnv3w8fer2z)
 <!-- HASHNODE_BLOG:END -->
 
-# 📈 GitHub Stats
+</details>
+
+---
+## My Latest Activity
+
+<details close>
+<summary>Click me to see activities!</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+## 📈 GitHub Stats
 
 <a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="victoriacheng15's GitHub stats" /></a> <a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=victoriacheng15&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
