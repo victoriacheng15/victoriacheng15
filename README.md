@@ -73,11 +73,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🗣 Commented on [#9](https://github.com/neume-network/message-schema/issues/9) in [neume-network/message-schema](https://github.com/neume-network/message-schema)
-4. 🎉 Merged PR [#30](https://github.com/victoriacheng15/codewars-solutions/pull/30) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 💪 Opened PR [#30](https://github.com/victoriacheng15/codewars-solutions/pull/30) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 🎉 Merged PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+2. 💪 Opened PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. ❗️ Opened issue [#43](https://github.com/neume-network/core/issues/43) in [neume-network/core](https://github.com/neume-network/core)
+4. 🎉 Merged PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 💪 Opened PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
