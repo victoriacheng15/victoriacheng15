@@ -73,11 +73,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3710](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3710) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-2. ❗️ Opened issue [#3708](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3708) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 🗣 Commented on [#140](https://github.com/wil-gerard/git-connected/issues/140) in [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected)
-4. 🎉 Merged PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-5. 💪 Opened PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+1. 💪 Opened PR [#3711](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3711) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. ❗️ Opened issue [#3710](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3710) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. ❗️ Opened issue [#3708](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3708) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+4. 🗣 Commented on [#140](https://github.com/wil-gerard/git-connected/issues/140) in [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
 <!--END_SECTION:activity-->
 
 </details>
