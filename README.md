@@ -66,11 +66,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-2. 💪 Opened PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-3. ❗️ Opened issue [#43](https://github.com/neume-network/core/issues/43) in [neume-network/core](https://github.com/neume-network/core)
-4. 🎉 Merged PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 💪 Opened PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 💪 Opened PR [#13](https://github.com/victoriacheng15/coding-practice/pull/13) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+2. 💪 Opened PR [#3711](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3711) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. ❗️ Opened issue [#3710](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3710) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+4. ❗️ Opened issue [#3708](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3708) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+5. 🗣 Commented on [#140](https://github.com/wil-gerard/git-connected/issues/140) in [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected)
 <!--END_SECTION:activity-->
 
 </details>
