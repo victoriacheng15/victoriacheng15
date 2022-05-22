@@ -2,8 +2,6 @@
 
   ![banner](./banner/github-banner.png)
 
-  <!-- <img src="https://user-images.githubusercontent.com/35031228/158080363-9d12bf09-3ca7-49d7-941c-56f697b8d4ec.png" /> -->
-
 </div>
 
 <div align="center">
@@ -36,11 +34,6 @@
 
 <!-- ## 🏫 I am planning to learning -->
 
-<!-- 
-## 📽️ Projects
-
-[A list of projects](https://github.com/victoriacheng15/projects-highlight) -->
-
 # 💼 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) 
@@ -67,17 +60,17 @@
 </details>
 
 ---
-## My Latest Activity
+## 🎬 My Latest Activity
 
 <details close>
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/victoriacheng15/coding-practice/pull/13) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
-2. 💪 Opened PR [#3711](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3711) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. ❗️ Opened issue [#3710](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3710) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-4. ❗️ Opened issue [#3708](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3708) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-5. 🗣 Commented on [#140](https://github.com/wil-gerard/git-connected/issues/140) in [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected)
+1. 🎉 Merged PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+2. 💪 Opened PR [#3](https://github.com/victoriacheng15/victoriacheng15/pull/3) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. ❗️ Opened issue [#43](https://github.com/neume-network/core/issues/43) in [neume-network/core](https://github.com/neume-network/core)
+4. 🎉 Merged PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 💪 Opened PR [#25](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/25) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
@@ -88,6 +81,6 @@
 
 <a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="victoriacheng15's GitHub stats" /></a> <a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=victoriacheng15&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/victoriacheng15"><img height="250em" src="https://activity-graph.herokuapp.com/graph?username=victoriacheng15&bg_color=22272e&color=3382ed&line=ffffff&point=3382ed&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/victoriacheng15"><img height="250em" src="https://activity-graph.herokuapp.com/graph?username=victoriacheng15&bg_color=22272e&color=3382ed&line=ffffff&point=3382ed&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a href="https://github.com/victoriacheng15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacheng15&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
