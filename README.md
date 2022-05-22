@@ -66,11 +66,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/victoriacheng15/coding-practice/pull/13) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
-2. 💪 Opened PR [#3711](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3711) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. ❗️ Opened issue [#3710](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3710) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-4. ❗️ Opened issue [#3708](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3708) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-5. 🗣 Commented on [#140](https://github.com/wil-gerard/git-connected/issues/140) in [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected)
+1. 🗣 Commented on [#6](https://github.com/victoriacheng15/portfolio-2022/issues/6) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+2. ❗️ Closed issue [#6](https://github.com/victoriacheng15/portfolio-2022/issues/6) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+3. ❗️ Opened issue [#9](https://github.com/victoriacheng15/portfolio-2022/issues/9) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. ❗️ Opened issue [#8](https://github.com/victoriacheng15/portfolio-2022/issues/8) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. ❗️ Opened issue [#7](https://github.com/victoriacheng15/portfolio-2022/issues/7) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
