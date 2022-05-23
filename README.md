@@ -66,11 +66,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426](https://github.com/zero-to-mastery/HTML-project/issues/426) in [zero-to-mastery/HTML-project](https://github.com/zero-to-mastery/HTML-project)
-2. 🗣 Commented on [#6](https://github.com/victoriacheng15/portfolio-2022/issues/6) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-3. ❗️ Closed issue [#6](https://github.com/victoriacheng15/portfolio-2022/issues/6) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-4. ❗️ Opened issue [#9](https://github.com/victoriacheng15/portfolio-2022/issues/9) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-5. ❗️ Opened issue [#8](https://github.com/victoriacheng15/portfolio-2022/issues/8) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. 🎉 Merged PR [#31](https://github.com/victoriacheng15/codewars-solutions/pull/31) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#31](https://github.com/victoriacheng15/codewars-solutions/pull/31) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🗣 Commented on [#426](https://github.com/zero-to-mastery/HTML-project/issues/426) in [zero-to-mastery/HTML-project](https://github.com/zero-to-mastery/HTML-project)
+4. 🗣 Commented on [#6](https://github.com/victoriacheng15/portfolio-2022/issues/6) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. ❗️ Closed issue [#6](https://github.com/victoriacheng15/portfolio-2022/issues/6) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
