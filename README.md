@@ -66,11 +66,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/neume-network/core/pull/46) in [neume-network/core](https://github.com/neume-network/core)
-2. 🎉 Merged PR [#33](https://github.com/victoriacheng15/codewars-solutions/pull/33) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 💪 Opened PR [#33](https://github.com/victoriacheng15/codewars-solutions/pull/33) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 🎉 Merged PR [#12](https://github.com/victoriacheng15/portfolio-2022/pull/12) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-5. 💪 Opened PR [#12](https://github.com/victoriacheng15/portfolio-2022/pull/12) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. 💪 Opened PR [#14](https://github.com/victoriacheng15/coding-practice/pull/14) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+2. 💪 Opened PR [#46](https://github.com/neume-network/core/pull/46) in [neume-network/core](https://github.com/neume-network/core)
+3. 🎉 Merged PR [#33](https://github.com/victoriacheng15/codewars-solutions/pull/33) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#33](https://github.com/victoriacheng15/codewars-solutions/pull/33) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 🎉 Merged PR [#12](https://github.com/victoriacheng15/portfolio-2022/pull/12) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
