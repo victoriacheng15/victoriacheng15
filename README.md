@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/victoriacheng15/portfolio-2022/pull/14) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-2. ❗️ Closed issue [#13](https://github.com/victoriacheng15/portfolio-2022/issues/13) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-3. ❗️ Closed issue [#9](https://github.com/victoriacheng15/portfolio-2022/issues/9) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-4. 💪 Opened PR [#14](https://github.com/victoriacheng15/portfolio-2022/pull/14) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-5. ❗️ Opened issue [#13](https://github.com/victoriacheng15/portfolio-2022/issues/13) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. ❗️ Opened issue [#16](https://github.com/victoriacheng15/portfolio-2022/issues/16) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+2. ❗️ Opened issue [#15](https://github.com/victoriacheng15/portfolio-2022/issues/15) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+3. ❗️ Closed issue [#7](https://github.com/victoriacheng15/portfolio-2022/issues/7) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. 🎉 Merged PR [#14](https://github.com/victoriacheng15/portfolio-2022/pull/14) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. ❗️ Closed issue [#13](https://github.com/victoriacheng15/portfolio-2022/issues/13) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
