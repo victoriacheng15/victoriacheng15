@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/victoriacheng15/codewars-solutions/pull/35) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#35](https://github.com/victoriacheng15/codewars-solutions/pull/35) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 🎉 Merged PR [#34](https://github.com/victoriacheng15/codewars-solutions/pull/34) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#34](https://github.com/victoriacheng15/codewars-solutions/pull/34) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 💪 Opened PR [#14](https://github.com/victoriacheng15/coding-practice/pull/14) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+1. 🎉 Merged PR [#28](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/28) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#28](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/28) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#35](https://github.com/victoriacheng15/codewars-solutions/pull/35) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#35](https://github.com/victoriacheng15/codewars-solutions/pull/35) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 🎉 Merged PR [#34](https://github.com/victoriacheng15/codewars-solutions/pull/34) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
