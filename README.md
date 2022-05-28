@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/29) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#29](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/29) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#36](https://github.com/victoriacheng15/codewars-solutions/pull/36) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#36](https://github.com/victoriacheng15/codewars-solutions/pull/36) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. ❗️ Opened issue [#16](https://github.com/victoriacheng15/portfolio-2022/issues/16) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. 🎉 Merged PR [#37](https://github.com/victoriacheng15/codewars-solutions/pull/37) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#37](https://github.com/victoriacheng15/codewars-solutions/pull/37) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#29](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/29) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#29](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/29) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#36](https://github.com/victoriacheng15/codewars-solutions/pull/36) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
