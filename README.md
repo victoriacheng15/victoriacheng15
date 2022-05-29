@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/victoriacheng15/codewars-solutions/pull/38) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#38](https://github.com/victoriacheng15/codewars-solutions/pull/38) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 🎉 Merged PR [#30](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/30) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#30](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/30) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#37](https://github.com/victoriacheng15/codewars-solutions/pull/37) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/react-template/pull/2) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
+2. 💪 Opened PR [#2](https://github.com/victoriacheng15/react-template/pull/2) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
+3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/react-template/pull/1) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
+4. 💪 Opened PR [#1](https://github.com/victoriacheng15/react-template/pull/1) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
+5. 🎉 Merged PR [#15](https://github.com/victoriacheng15/coding-practice/pull/15) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
 <!--END_SECTION:activity-->
 
 </details>
