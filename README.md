@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/victoriacheng15/coding-practice/issues/14) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
-2. 💪 Opened PR [#3743](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3743) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 🎉 Merged PR [#2](https://github.com/victoriacheng15/react-template/pull/2) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
-4. 💪 Opened PR [#2](https://github.com/victoriacheng15/react-template/pull/2) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/react-template/pull/1) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
+1. 🎉 Merged PR [#31](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/31) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#31](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/31) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🗣 Commented on [#14](https://github.com/victoriacheng15/coding-practice/issues/14) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+4. 💪 Opened PR [#3743](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3743) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+5. 🎉 Merged PR [#2](https://github.com/victoriacheng15/react-template/pull/2) in [victoriacheng15/react-template](https://github.com/victoriacheng15/react-template)
 <!--END_SECTION:activity-->
 
 </details>
