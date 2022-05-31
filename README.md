@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![banner](./banner/github-banner.png)
+  ![banner](./banner/banner.png)
 
 </div>
 
