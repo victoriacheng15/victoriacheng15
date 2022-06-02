@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/victoriacheng15/coding-practice/pull/16) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
-2. 💪 Opened PR [#3774](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3774) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 🎉 Merged PR [#40](https://github.com/victoriacheng15/codewars-solutions/pull/40) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#40](https://github.com/victoriacheng15/codewars-solutions/pull/40) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🎉 Merged PR [#39](https://github.com/victoriacheng15/codewars-solutions/pull/39) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 💪 Opened PR [#17](https://github.com/victoriacheng15/coding-practice/pull/17) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+2. 💪 Opened PR [#16](https://github.com/victoriacheng15/coding-practice/pull/16) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+3. 💪 Opened PR [#3774](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3774) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+4. 🎉 Merged PR [#40](https://github.com/victoriacheng15/codewars-solutions/pull/40) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 💪 Opened PR [#40](https://github.com/victoriacheng15/codewars-solutions/pull/40) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
