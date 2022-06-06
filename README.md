@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/34) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#34](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/34) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#41](https://github.com/victoriacheng15/codewars-solutions/pull/41) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#41](https://github.com/victoriacheng15/codewars-solutions/pull/41) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/my-hashnode-blogs/pull/1) in [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
+1. 💪 Opened PR [#717](https://github.com/codinasion/codinasion-programme/pull/717) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
+2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/codewars-solutions/pull/42) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 💪 Opened PR [#42](https://github.com/victoriacheng15/codewars-solutions/pull/42) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 🎉 Merged PR [#34](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/34) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 💪 Opened PR [#34](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/34) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
