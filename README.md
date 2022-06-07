@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#717](https://github.com/codinasion/codinasion-programme/pull/717) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
-2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/codewars-solutions/pull/42) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 💪 Opened PR [#42](https://github.com/victoriacheng15/codewars-solutions/pull/42) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 🎉 Merged PR [#34](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/34) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 💪 Opened PR [#34](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/34) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 💪 Opened PR [#3803](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/3803) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. ❗️ Opened issue [#8](https://github.com/codinasion/.github/issues/8) in [codinasion/.github](https://github.com/codinasion/.github)
+3. 💪 Opened PR [#717](https://github.com/codinasion/codinasion-programme/pull/717) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
+4. 🎉 Merged PR [#42](https://github.com/victoriacheng15/codewars-solutions/pull/42) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 💪 Opened PR [#42](https://github.com/victoriacheng15/codewars-solutions/pull/42) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
