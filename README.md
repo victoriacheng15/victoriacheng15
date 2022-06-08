@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/35) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#35](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/35) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#43](https://github.com/victoriacheng15/codewars-solutions/pull/43) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#43](https://github.com/victoriacheng15/codewars-solutions/pull/43) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🎉 Merged PR [#19](https://github.com/victoriacheng15/portfolio-2022/pull/19) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. 🎉 Merged PR [#1](https://github.com/victoriacheng15/javascript-projects/pull/1) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+2. 💪 Opened PR [#1](https://github.com/victoriacheng15/javascript-projects/pull/1) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+3. 🎉 Merged PR [#36](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/36) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#36](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/36) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#35](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/35) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
