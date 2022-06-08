@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/victoriacheng15/portfolio-2022/pull/19) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-2. ❗️ Closed issue [#15](https://github.com/victoriacheng15/portfolio-2022/issues/15) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-3. 💪 Opened PR [#19](https://github.com/victoriacheng15/portfolio-2022/pull/19) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-4. 🎉 Merged PR [#18](https://github.com/victoriacheng15/portfolio-2022/pull/18) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-5. 💪 Opened PR [#18](https://github.com/victoriacheng15/portfolio-2022/pull/18) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. 🎉 Merged PR [#43](https://github.com/victoriacheng15/codewars-solutions/pull/43) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#43](https://github.com/victoriacheng15/codewars-solutions/pull/43) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#19](https://github.com/victoriacheng15/portfolio-2022/pull/19) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. ❗️ Closed issue [#15](https://github.com/victoriacheng15/portfolio-2022/issues/15) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. 💪 Opened PR [#19](https://github.com/victoriacheng15/portfolio-2022/pull/19) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
