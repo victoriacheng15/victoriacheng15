@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/victoriacheng15/javascript-projects/pull/1) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-2. 💪 Opened PR [#1](https://github.com/victoriacheng15/javascript-projects/pull/1) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-3. 🎉 Merged PR [#36](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/36) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#36](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/36) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#35](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/35) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#4](https://github.com/victoriacheng15/javascript-projects/pull/4) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+2. 💪 Opened PR [#4](https://github.com/victoriacheng15/javascript-projects/pull/4) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+3. ❗️ Opened issue [#3](https://github.com/victoriacheng15/javascript-projects/issues/3) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/javascript-projects/pull/2) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+5. 💪 Opened PR [#2](https://github.com/victoriacheng15/javascript-projects/pull/2) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
 <!--END_SECTION:activity-->
 
 </details>
