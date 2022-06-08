@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/victoriacheng15/javascript-projects/pull/4) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-2. 💪 Opened PR [#4](https://github.com/victoriacheng15/javascript-projects/pull/4) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-3. ❗️ Opened issue [#3](https://github.com/victoriacheng15/javascript-projects/issues/3) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/javascript-projects/pull/2) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-5. 💪 Opened PR [#2](https://github.com/victoriacheng15/javascript-projects/pull/2) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+1. ❗️ Opened issue [#5](https://github.com/victoriacheng15/javascript-projects/issues/5) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+2. 🗣 Commented on [#3](https://github.com/victoriacheng15/javascript-projects/issues/3) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+3. ❗️ Closed issue [#3](https://github.com/victoriacheng15/javascript-projects/issues/3) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+4. 🎉 Merged PR [#4](https://github.com/victoriacheng15/javascript-projects/pull/4) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+5. 💪 Opened PR [#4](https://github.com/victoriacheng15/javascript-projects/pull/4) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
 <!--END_SECTION:activity-->
 
 </details>
