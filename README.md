@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. ❗️ Opened issue [#5](https://github.com/victoriacheng15/javascript-projects/issues/5) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-4. 🗣 Commented on [#3](https://github.com/victoriacheng15/javascript-projects/issues/3) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
-5. ❗️ Closed issue [#3](https://github.com/victoriacheng15/javascript-projects/issues/3) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
+1. 🎉 Merged PR [#45](https://github.com/victoriacheng15/codewars-solutions/pull/45) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#45](https://github.com/victoriacheng15/codewars-solutions/pull/45) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. ❗️ Opened issue [#5](https://github.com/victoriacheng15/javascript-projects/issues/5) in [victoriacheng15/javascript-projects](https://github.com/victoriacheng15/javascript-projects)
 <!--END_SECTION:activity-->
 
 </details>
