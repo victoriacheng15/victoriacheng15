@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/victoriacheng15/coding-practice/pull/18) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
-2. 🎉 Merged PR [#45](https://github.com/victoriacheng15/codewars-solutions/pull/45) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 💪 Opened PR [#45](https://github.com/victoriacheng15/codewars-solutions/pull/45) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 🎉 Merged PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 💪 Opened PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 💪 Opened PR [#19](https://github.com/victoriacheng15/coding-practice/pull/19) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+2. 💪 Opened PR [#18](https://github.com/victoriacheng15/coding-practice/pull/18) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+3. 🎉 Merged PR [#45](https://github.com/victoriacheng15/codewars-solutions/pull/45) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#45](https://github.com/victoriacheng15/codewars-solutions/pull/45) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 🎉 Merged PR [#44](https://github.com/victoriacheng15/codewars-solutions/pull/44) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
