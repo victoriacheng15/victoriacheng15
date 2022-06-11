@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#821](https://github.com/codinasion/codinasion-programme/pull/821) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
-2. 🎉 Merged PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#19](https://github.com/victoriacheng15/coding-practice/pull/19) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
-5. 💪 Opened PR [#18](https://github.com/victoriacheng15/coding-practice/pull/18) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+1. 🗣 Commented on [#3677](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3677) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. 💪 Opened PR [#821](https://github.com/codinasion/codinasion-programme/pull/821) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
+3. 🎉 Merged PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 💪 Opened PR [#19](https://github.com/victoriacheng15/coding-practice/pull/19) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
 <!--END_SECTION:activity-->
 
 </details>
