@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3677](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3677) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-2. 💪 Opened PR [#821](https://github.com/codinasion/codinasion-programme/pull/821) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
-3. 🎉 Merged PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 💪 Opened PR [#19](https://github.com/victoriacheng15/coding-practice/pull/19) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+1. 🎉 Merged PR [#38](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/38) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#38](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/38) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🗣 Commented on [#3677](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3677) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+4. 💪 Opened PR [#821](https://github.com/codinasion/codinasion-programme/pull/821) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
+5. 🎉 Merged PR [#37](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/37) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
