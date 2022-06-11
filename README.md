@@ -45,11 +45,11 @@
 <summary>See blogs!</summary>
 
 <!-- HASHNODE_BLOG:START -->
+- [The Journey of Contributing to Open Source](https://victoriacheng15.hashnode.dev/the-journey-of-contributing-to-open-source-cl48yhn3r01qzq2nv5m4sf9ut)
 - [My First Round of the 100 Days of Code](https://victoriacheng15.hashnode.dev/my-first-round-of-the-100-days-of-code-cl3yrms0d01a4odnvhart9kqz)
 - [Tailwind CSS - Beginner Edition](https://victoriacheng15.hashnode.dev/tailwind-css-beginner-edition-cl3t5n93a001zfcnv8qofgarb)
 - [🤔 Set in JavaScript 🤔](https://victoriacheng15.hashnode.dev/set-in-javascript-cl3ajupti02agx2nvfcpi76yr)
 - [😬 Regular Expressions - Letter Edition 😬](https://victoriacheng15.hashnode.dev/regular-expressions-letter-edition-cl30lyhoj01itdwnv2uvshevt)
-- [My Journey into the Tech](https://victoriacheng15.hashnode.dev/my-journey-into-the-tech-cl2s0jthg01hndmnvetom9s0y)
 <!-- HASHNODE_BLOG:END -->
 
 </details>
