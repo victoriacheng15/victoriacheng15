@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/victoriacheng15/codewars-solutions/pull/47) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#47](https://github.com/victoriacheng15/codewars-solutions/pull/47) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 🎉 Merged PR [#39](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/39) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#39](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/39) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#46](https://github.com/victoriacheng15/codewars-solutions/pull/46) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 🎉 Merged PR [#21](https://github.com/victoriacheng15/coding-practice/pull/21) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+2. 🎉 Merged PR [#20](https://github.com/victoriacheng15/coding-practice/pull/20) in [victoriacheng15/coding-practice](https://github.com/victoriacheng15/coding-practice)
+3. 🎉 Merged PR [#41](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/41) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#41](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/41) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#40](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/40) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
