@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#852](https://github.com/codinasion/codinasion-programme/pull/852) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
-2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/42) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#42](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/42) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 🎉 Merged PR [#48](https://github.com/victoriacheng15/codewars-solutions/pull/48) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 💪 Opened PR [#48](https://github.com/victoriacheng15/codewars-solutions/pull/48) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 💪 Opened PR [#43](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/43) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#852](https://github.com/codinasion/codinasion-programme/pull/852) in [codinasion/codinasion-programme](https://github.com/codinasion/codinasion-programme)
+3. 🎉 Merged PR [#42](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/42) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#42](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/42) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#48](https://github.com/victoriacheng15/codewars-solutions/pull/48) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
