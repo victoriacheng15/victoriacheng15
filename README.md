@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/victoriacheng15/bubble-tea-api/pull/4) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-2. 💪 Opened PR [#4](https://github.com/victoriacheng15/bubble-tea-api/pull/4) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-3. 🎉 Merged PR [#50](https://github.com/victoriacheng15/codewars-solutions/pull/50) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#50](https://github.com/victoriacheng15/codewars-solutions/pull/50) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🎉 Merged PR [#46](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/46) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#47](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/47) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#47](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/47) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#4](https://github.com/victoriacheng15/bubble-tea-api/pull/4) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+4. 💪 Opened PR [#4](https://github.com/victoriacheng15/bubble-tea-api/pull/4) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+5. 🎉 Merged PR [#50](https://github.com/victoriacheng15/codewars-solutions/pull/50) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
