@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/48) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#48](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/48) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#6](https://github.com/victoriacheng15/bubble-tea-api/pull/6) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. 💪 Opened PR [#6](https://github.com/victoriacheng15/bubble-tea-api/pull/6) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 🎉 Merged PR [#5](https://github.com/victoriacheng15/bubble-tea-api/pull/5) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. ❗️ Opened issue [#9](https://github.com/victoriacheng15/bubble-tea-api/issues/9) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+2. ❗️ Opened issue [#8](https://github.com/victoriacheng15/bubble-tea-api/issues/8) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+3. 🎉 Merged PR [#7](https://github.com/victoriacheng15/bubble-tea-api/pull/7) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+4. 💪 Opened PR [#7](https://github.com/victoriacheng15/bubble-tea-api/pull/7) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+5. 🎉 Merged PR [#48](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/48) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
