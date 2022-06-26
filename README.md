@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/victoriacheng15/bubble-tea-api/issues/12) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-2. 🎉 Merged PR [#19](https://github.com/victoriacheng15/bubble-tea-api/pull/19) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-3. 💪 Opened PR [#19](https://github.com/victoriacheng15/bubble-tea-api/pull/19) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. ❗️ Opened issue [#18](https://github.com/victoriacheng15/bubble-tea-api/issues/18) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 🎉 Merged PR [#17](https://github.com/victoriacheng15/bubble-tea-api/pull/17) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. 🎉 Merged PR [#52](https://github.com/victoriacheng15/codewars-solutions/pull/52) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#52](https://github.com/victoriacheng15/codewars-solutions/pull/52) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. ❗️ Closed issue [#12](https://github.com/victoriacheng15/bubble-tea-api/issues/12) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+4. 🎉 Merged PR [#19](https://github.com/victoriacheng15/bubble-tea-api/pull/19) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+5. 💪 Opened PR [#19](https://github.com/victoriacheng15/bubble-tea-api/pull/19) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 <!--END_SECTION:activity-->
 
 </details>
