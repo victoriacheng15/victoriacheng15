@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/victoriacheng15/bubble-tea-api/pull/25) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-2. 💪 Opened PR [#25](https://github.com/victoriacheng15/bubble-tea-api/pull/25) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-3. 🎉 Merged PR [#24](https://github.com/victoriacheng15/bubble-tea-api/pull/24) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. 💪 Opened PR [#24](https://github.com/victoriacheng15/bubble-tea-api/pull/24) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 🎉 Merged PR [#23](https://github.com/victoriacheng15/bubble-tea-api/pull/23) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. 🎉 Merged PR [#5](https://github.com/victoriacheng15/hello-github-actions/pull/5) in [victoriacheng15/hello-github-actions](https://github.com/victoriacheng15/hello-github-actions)
+2. 💪 Opened PR [#5](https://github.com/victoriacheng15/hello-github-actions/pull/5) in [victoriacheng15/hello-github-actions](https://github.com/victoriacheng15/hello-github-actions)
+3. 🎉 Merged PR [#4](https://github.com/victoriacheng15/hello-github-actions/pull/4) in [victoriacheng15/hello-github-actions](https://github.com/victoriacheng15/hello-github-actions)
+4. 💪 Opened PR [#4](https://github.com/victoriacheng15/hello-github-actions/pull/4) in [victoriacheng15/hello-github-actions](https://github.com/victoriacheng15/hello-github-actions)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/hello-github-actions/pull/3) in [victoriacheng15/hello-github-actions](https://github.com/victoriacheng15/hello-github-actions)
 <!--END_SECTION:activity-->
 
 </details>
