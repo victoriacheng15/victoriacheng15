@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/51) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#51](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/51) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#50](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/50) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#50](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/50) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. ❗️ Opened issue [#28](https://github.com/AccessibleForAll/Support/issues/28) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+1. 🎉 Merged PR [#52](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/52) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#52](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/52) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#51](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/51) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#51](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/51) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#50](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/50) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
