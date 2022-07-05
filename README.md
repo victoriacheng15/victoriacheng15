@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/53) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#53](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/53) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#56](https://github.com/victoriacheng15/codewars-solutions/pull/56) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#56](https://github.com/victoriacheng15/codewars-solutions/pull/56) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🎉 Merged PR [#52](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/52) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#54](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/54) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#54](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/54) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#53](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/53) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#53](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/53) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#56](https://github.com/victoriacheng15/codewars-solutions/pull/56) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
