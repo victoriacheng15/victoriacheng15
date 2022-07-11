@@ -8,10 +8,10 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)](https://victoriacheng15.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/)
-[![AgnelCo](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/victoriacheng15)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viktoriacheng15)
+[![AgnelCo](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/victoriacheng15)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://victoriacheng15.hashnode.dev/)
-[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/victoriacheng15)
+<!-- [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/victoriacheng15) -->
 
 </div>
 
