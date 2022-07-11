@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/victoriacheng15/bubble-tea-api/pull/32) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-2. 🎉 Merged PR [#59](https://github.com/victoriacheng15/codewars-solutions/pull/59) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 💪 Opened PR [#59](https://github.com/victoriacheng15/codewars-solutions/pull/59) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. ❗️ Opened issue [#3985](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3985) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-5. ❗️ Opened issue [#3984](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3984) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+1. 🎉 Merged PR [#32](https://github.com/victoriacheng15/bubble-tea-api/pull/32) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+2. 💪 Opened PR [#32](https://github.com/victoriacheng15/bubble-tea-api/pull/32) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+3. 🎉 Merged PR [#59](https://github.com/victoriacheng15/codewars-solutions/pull/59) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#59](https://github.com/victoriacheng15/codewars-solutions/pull/59) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. ❗️ Opened issue [#3985](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3985) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 <!--END_SECTION:activity-->
 
 </details>
