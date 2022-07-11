@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/victoriacheng15/fem-rest-countries-api/pull/7) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#7](https://github.com/victoriacheng15/fem-rest-countries-api/pull/7) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 🎉 Merged PR [#58](https://github.com/victoriacheng15/codewars-solutions/pull/58) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#58](https://github.com/victoriacheng15/codewars-solutions/pull/58) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/fem-rest-countries-api/pull/6) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. ❗️ Opened issue [#3985](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3985) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. ❗️ Opened issue [#3984](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/3984) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. 🎉 Merged PR [#7](https://github.com/victoriacheng15/fem-rest-countries-api/pull/7) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 💪 Opened PR [#7](https://github.com/victoriacheng15/fem-rest-countries-api/pull/7) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🎉 Merged PR [#58](https://github.com/victoriacheng15/codewars-solutions/pull/58) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
