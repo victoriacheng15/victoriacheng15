@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/60) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#60](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/60) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#59](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/59) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#59](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/59) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#14](https://github.com/victoriacheng15/fem-rest-countries-api/pull/14) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. 🎉 Merged PR [#65](https://github.com/victoriacheng15/codewars-solutions/pull/65) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#65](https://github.com/victoriacheng15/codewars-solutions/pull/65) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#60](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/60) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#60](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/60) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#59](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/59) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
