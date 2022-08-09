@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/victoriacheng15/codewars-solutions/pull/73) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#73](https://github.com/victoriacheng15/codewars-solutions/pull/73) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 🎉 Merged PR [#72](https://github.com/victoriacheng15/codewars-solutions/pull/72) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#72](https://github.com/victoriacheng15/codewars-solutions/pull/72) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 🗣 Commented on [#62](https://github.com/codinasion/codinasion-dsa/issues/62) in [codinasion/codinasion-dsa](https://github.com/codinasion/codinasion-dsa)
+1. 🎉 Merged PR [#74](https://github.com/victoriacheng15/codewars-solutions/pull/74) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#74](https://github.com/victoriacheng15/codewars-solutions/pull/74) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#73](https://github.com/victoriacheng15/codewars-solutions/pull/73) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#73](https://github.com/victoriacheng15/codewars-solutions/pull/73) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 🎉 Merged PR [#72](https://github.com/victoriacheng15/codewars-solutions/pull/72) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
