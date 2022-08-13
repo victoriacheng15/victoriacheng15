@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/victoriacheng15/portfolio-2022/issues/27) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-2. ❗️ Opened issue [#26](https://github.com/victoriacheng15/portfolio-2022/issues/26) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-3. ❗️ Opened issue [#25](https://github.com/victoriacheng15/portfolio-2022/issues/25) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-4. ❗️ Opened issue [#24](https://github.com/victoriacheng15/portfolio-2022/issues/24) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-5. ❗️ Opened issue [#23](https://github.com/victoriacheng15/portfolio-2022/issues/23) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+1. ❌ Closed PR [#62](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/62) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#62](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/62) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#61](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/61) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#61](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/61) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. ❗️ Opened issue [#27](https://github.com/victoriacheng15/portfolio-2022/issues/27) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
