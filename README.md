@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/63) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#63](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/63) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. ❌ Closed PR [#62](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/62) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#62](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/62) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#61](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/61) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#64](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/64) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#64](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/64) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#63](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/63) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#63](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/63) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. ❌ Closed PR [#62](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/62) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
