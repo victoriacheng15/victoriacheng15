@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/chingu-voyages/v40-geckos-team-18/pull/52) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-2. 🎉 Merged PR [#67](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/67) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#67](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/67) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 🎉 Merged PR [#66](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/66) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 💪 Opened PR [#66](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/66) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+2. 💪 Opened PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+3. ❌ Closed PR [#52](https://github.com/chingu-voyages/v40-geckos-team-18/pull/52) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+4. 💪 Opened PR [#52](https://github.com/chingu-voyages/v40-geckos-team-18/pull/52) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+5. 🎉 Merged PR [#67](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/67) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
