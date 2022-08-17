@@ -60,9 +60,9 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/68) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#68](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/68) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+1. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+2. 🎉 Merged PR [#68](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/68) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 💪 Opened PR [#68](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/68) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 4. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 5. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 <!--END_SECTION:activity-->
