@@ -62,9 +62,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 2. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-3. 💪 Opened PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-4. ❌ Closed PR [#52](https://github.com/chingu-voyages/v40-geckos-team-18/pull/52) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-5. 💪 Opened PR [#52](https://github.com/chingu-voyages/v40-geckos-team-18/pull/52) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+3. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+4. 💪 Opened PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+5. ❌ Closed PR [#52](https://github.com/chingu-voyages/v40-geckos-team-18/pull/52) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 <!--END_SECTION:activity-->
 
 </details>
