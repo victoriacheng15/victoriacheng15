@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-4. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-5. 🎉 Merged PR [#68](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/68) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. ❗️ Opened issue [#28](https://github.com/victoriacheng15/portfolio-2022/issues/28) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+2. 🎉 Merged PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 💪 Opened PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 🎉 Merged PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+5. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 <!--END_SECTION:activity-->
 
 </details>
