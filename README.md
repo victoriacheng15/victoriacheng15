@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/victoriacheng15/portfolio-2022/issues/28) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-2. 🎉 Merged PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 🎉 Merged PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-5. 🗣 Commented on [#53](https://github.com/chingu-voyages/v40-geckos-team-18/issues/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+1. ❗️ Opened issue [#29](https://github.com/victoriacheng15/portfolio-2022/issues/29) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+2. ❗️ Opened issue [#28](https://github.com/victoriacheng15/portfolio-2022/issues/28) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+3. 🎉 Merged PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#53](https://github.com/chingu-voyages/v40-geckos-team-18/pull/53) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 <!--END_SECTION:activity-->
 
 </details>
