@@ -18,7 +18,7 @@
 # Hi 👋 My name is Victoria
 
 - Pronouns: she/her
-- I'm based in Toronto, Canada
+- I'm based in Calgary, Canada
 - I'm looking to collaborate projects or contribute to open sources
 - I'm currently working on improving my skills
 - Drinks: ☕ coffee and 🍵 tea
