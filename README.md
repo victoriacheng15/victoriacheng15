@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/victoriacheng15/portfolio-2022/issues/30) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-2. ❗️ Opened issue [#29](https://github.com/victoriacheng15/portfolio-2022/issues/29) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-3. ❗️ Opened issue [#28](https://github.com/victoriacheng15/portfolio-2022/issues/28) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-4. 🎉 Merged PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 💪 Opened PR [#69](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/69) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#78](https://github.com/victoriacheng15/codewars-solutions/pull/78) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#78](https://github.com/victoriacheng15/codewars-solutions/pull/78) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. ❗️ Opened issue [#30](https://github.com/victoriacheng15/portfolio-2022/issues/30) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. ❗️ Opened issue [#29](https://github.com/victoriacheng15/portfolio-2022/issues/29) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. ❗️ Opened issue [#28](https://github.com/victoriacheng15/portfolio-2022/issues/28) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
