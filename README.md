@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/70) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#70](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/70) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🗣 Commented on [#84](https://github.com/chingu-voyages/v40-geckos-team-18/issues/84) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-4. 🎉 Merged PR [#80](https://github.com/victoriacheng15/codewars-solutions/pull/80) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. 💪 Opened PR [#80](https://github.com/victoriacheng15/codewars-solutions/pull/80) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. ❗️ Opened issue [#33](https://github.com/victoriacheng15/portfolio-2022/issues/33) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+2. ❗️ Opened issue [#32](https://github.com/victoriacheng15/portfolio-2022/issues/32) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+3. ❗️ Opened issue [#31](https://github.com/victoriacheng15/portfolio-2022/issues/31) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. 🗣 Commented on [#81](https://github.com/chingu-voyages/v40-geckos-team-18/issues/81) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+5. 🗣 Commented on [#91](https://github.com/chingu-voyages/v40-geckos-team-18/issues/91) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
 <!--END_SECTION:activity-->
 
 </details>
