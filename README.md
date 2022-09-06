@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/victoriacheng15/portfolio-2022/issues/33) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-2. ❗️ Opened issue [#32](https://github.com/victoriacheng15/portfolio-2022/issues/32) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-3. ❗️ Opened issue [#31](https://github.com/victoriacheng15/portfolio-2022/issues/31) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
-4. 🗣 Commented on [#81](https://github.com/chingu-voyages/v40-geckos-team-18/issues/81) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
-5. 🗣 Commented on [#91](https://github.com/chingu-voyages/v40-geckos-team-18/issues/91) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+1. ❗️ Closed issue [#85](https://github.com/chingu-voyages/v40-geckos-team-18/issues/85) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+2. 🗣 Commented on [#85](https://github.com/chingu-voyages/v40-geckos-team-18/issues/85) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+3. ❗️ Opened issue [#33](https://github.com/victoriacheng15/portfolio-2022/issues/33) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. ❗️ Opened issue [#32](https://github.com/victoriacheng15/portfolio-2022/issues/32) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. ❗️ Opened issue [#31](https://github.com/victoriacheng15/portfolio-2022/issues/31) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--END_SECTION:activity-->
 
 </details>
