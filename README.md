@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/victoriacheng15/codewars-solutions/pull/82) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 🎉 Merged PR [#81](https://github.com/victoriacheng15/codewars-solutions/pull/81) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 💪 Opened PR [#82](https://github.com/victoriacheng15/codewars-solutions/pull/82) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-4. 💪 Opened PR [#81](https://github.com/victoriacheng15/codewars-solutions/pull/81) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-5. ❗️ Closed issue [#85](https://github.com/chingu-voyages/v40-geckos-team-18/issues/85) in [chingu-voyages/v40-geckos-team-18](https://github.com/chingu-voyages/v40-geckos-team-18)
+1. 🎉 Merged PR [#83](https://github.com/victoriacheng15/codewars-solutions/pull/83) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#83](https://github.com/victoriacheng15/codewars-solutions/pull/83) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#82](https://github.com/victoriacheng15/codewars-solutions/pull/82) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 🎉 Merged PR [#81](https://github.com/victoriacheng15/codewars-solutions/pull/81) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 💪 Opened PR [#82](https://github.com/victoriacheng15/codewars-solutions/pull/82) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
 <!--END_SECTION:activity-->
 
 </details>
