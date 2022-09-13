@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/victoriacheng15/codewars-solutions/pull/88) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#88](https://github.com/victoriacheng15/codewars-solutions/pull/88) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 🎉 Merged PR [#21](https://github.com/victoriacheng15/fem-rest-countries-api/pull/21) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#21](https://github.com/victoriacheng15/fem-rest-countries-api/pull/21) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 🎉 Merged PR [#20](https://github.com/victoriacheng15/fem-rest-countries-api/pull/20) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. 💪 Opened PR [#22](https://github.com/victoriacheng15/fem-rest-countries-api/pull/22) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 🎉 Merged PR [#88](https://github.com/victoriacheng15/codewars-solutions/pull/88) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 💪 Opened PR [#88](https://github.com/victoriacheng15/codewars-solutions/pull/88) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 🎉 Merged PR [#21](https://github.com/victoriacheng15/fem-rest-countries-api/pull/21) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 💪 Opened PR [#21](https://github.com/victoriacheng15/fem-rest-countries-api/pull/21) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
