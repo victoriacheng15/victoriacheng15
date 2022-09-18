@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/victoriacheng15/codewars-solutions/pull/89) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-2. 💪 Opened PR [#89](https://github.com/victoriacheng15/codewars-solutions/pull/89) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
-3. 🎉 Merged PR [#80](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/80) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#80](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/80) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#79](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/79) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#90](https://github.com/victoriacheng15/codewars-solutions/pull/90) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#90](https://github.com/victoriacheng15/codewars-solutions/pull/90) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. 🎉 Merged PR [#89](https://github.com/victoriacheng15/codewars-solutions/pull/89) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+4. 💪 Opened PR [#89](https://github.com/victoriacheng15/codewars-solutions/pull/89) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+5. 🎉 Merged PR [#80](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/80) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
