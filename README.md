@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/victoriacheng15/fem-rest-countries-api/pull/31) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#31](https://github.com/victoriacheng15/fem-rest-countries-api/pull/31) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 🎉 Merged PR [#30](https://github.com/victoriacheng15/fem-rest-countries-api/pull/30) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#30](https://github.com/victoriacheng15/fem-rest-countries-api/pull/30) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 🎉 Merged PR [#29](https://github.com/victoriacheng15/fem-rest-countries-api/pull/29) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. 🎉 Merged PR [#33](https://github.com/victoriacheng15/fem-rest-countries-api/pull/33) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 💪 Opened PR [#33](https://github.com/victoriacheng15/fem-rest-countries-api/pull/33) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. ❌ Closed PR [#32](https://github.com/victoriacheng15/fem-rest-countries-api/pull/32) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 💪 Opened PR [#32](https://github.com/victoriacheng15/fem-rest-countries-api/pull/32) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🎉 Merged PR [#31](https://github.com/victoriacheng15/fem-rest-countries-api/pull/31) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
