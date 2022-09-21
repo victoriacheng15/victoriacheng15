@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/victoriacheng15/fem-rest-countries-api/pull/35) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#35](https://github.com/victoriacheng15/fem-rest-countries-api/pull/35) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. ❌ Closed PR [#34](https://github.com/victoriacheng15/fem-rest-countries-api/pull/34) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#34](https://github.com/victoriacheng15/fem-rest-countries-api/pull/34) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 🎉 Merged PR [#89](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/89) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#37](https://github.com/victoriacheng15/fem-rest-countries-api/pull/37) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 💪 Opened PR [#37](https://github.com/victoriacheng15/fem-rest-countries-api/pull/37) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 🎉 Merged PR [#36](https://github.com/victoriacheng15/fem-rest-countries-api/pull/36) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 💪 Opened PR [#36](https://github.com/victoriacheng15/fem-rest-countries-api/pull/36) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🎉 Merged PR [#35](https://github.com/victoriacheng15/fem-rest-countries-api/pull/35) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
