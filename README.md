@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/90) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#90](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/90) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#37](https://github.com/victoriacheng15/fem-rest-countries-api/pull/37) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#37](https://github.com/victoriacheng15/fem-rest-countries-api/pull/37) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 🎉 Merged PR [#36](https://github.com/victoriacheng15/fem-rest-countries-api/pull/36) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. 🎉 Merged PR [#91](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/91) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#91](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/91) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#90](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/90) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#90](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/90) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#37](https://github.com/victoriacheng15/fem-rest-countries-api/pull/37) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
