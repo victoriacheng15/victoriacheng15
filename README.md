@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/victoriacheng15/fem-rest-countries-api/pull/38) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#38](https://github.com/victoriacheng15/fem-rest-countries-api/pull/38) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 🎉 Merged PR [#91](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/91) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#91](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/91) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#90](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/90) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#39](https://github.com/victoriacheng15/fem-rest-countries-api/pull/39) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 💪 Opened PR [#39](https://github.com/victoriacheng15/fem-rest-countries-api/pull/39) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 🎉 Merged PR [#38](https://github.com/victoriacheng15/fem-rest-countries-api/pull/38) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 💪 Opened PR [#38](https://github.com/victoriacheng15/fem-rest-countries-api/pull/38) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🎉 Merged PR [#91](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/91) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
