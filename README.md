@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/victoriacheng15/fem-rest-countries-api/pull/40) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#94](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/94) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#93](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/93) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#93](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/93) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#92](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/92) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. ❗️ Opened issue [#43](https://github.com/victoriacheng15/fem-rest-countries-api/issues/43) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/fem-rest-countries-api/pull/42) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 💪 Opened PR [#42](https://github.com/victoriacheng15/fem-rest-countries-api/pull/42) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 🎉 Merged PR [#40](https://github.com/victoriacheng15/fem-rest-countries-api/pull/40) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 💪 Opened PR [#94](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/94) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
