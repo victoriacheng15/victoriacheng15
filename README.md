@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/95) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#95](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/95) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. ❗️ Opened issue [#48](https://github.com/victoriacheng15/fem-rest-countries-api/issues/48) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. ❗️ Opened issue [#47](https://github.com/victoriacheng15/fem-rest-countries-api/issues/47) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 🎉 Merged PR [#46](https://github.com/victoriacheng15/fem-rest-countries-api/pull/46) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. 🎉 Merged PR [#96](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/96) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#96](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/96) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#95](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/95) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#95](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/95) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. ❗️ Opened issue [#48](https://github.com/victoriacheng15/fem-rest-countries-api/issues/48) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
