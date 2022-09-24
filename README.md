@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/victoriacheng15/fem-rest-countries-api/issues/43) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/fem-rest-countries-api/pull/42) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 💪 Opened PR [#42](https://github.com/victoriacheng15/fem-rest-countries-api/pull/42) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 🎉 Merged PR [#40](https://github.com/victoriacheng15/fem-rest-countries-api/pull/40) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 💪 Opened PR [#94](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/94) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. ❗️ Opened issue [#48](https://github.com/victoriacheng15/fem-rest-countries-api/issues/48) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. ❗️ Opened issue [#47](https://github.com/victoriacheng15/fem-rest-countries-api/issues/47) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 🎉 Merged PR [#46](https://github.com/victoriacheng15/fem-rest-countries-api/pull/46) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. ❌ Reopened PR [#46](https://github.com/victoriacheng15/fem-rest-countries-api/pull/46) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. ❌ Closed PR [#46](https://github.com/victoriacheng15/fem-rest-countries-api/pull/46) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
