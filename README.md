@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/victoriacheng15/fem-rest-countries-api/pull/52) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#52](https://github.com/victoriacheng15/fem-rest-countries-api/pull/52) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 🎉 Merged PR [#51](https://github.com/victoriacheng15/fem-rest-countries-api/pull/51) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#51](https://github.com/victoriacheng15/fem-rest-countries-api/pull/51) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 🎉 Merged PR [#50](https://github.com/victoriacheng15/fem-rest-countries-api/pull/50) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. ❗️ Closed issue [#48](https://github.com/victoriacheng15/fem-rest-countries-api/issues/48) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 🎉 Merged PR [#53](https://github.com/victoriacheng15/fem-rest-countries-api/pull/53) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 💪 Opened PR [#53](https://github.com/victoriacheng15/fem-rest-countries-api/pull/53) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 🎉 Merged PR [#52](https://github.com/victoriacheng15/fem-rest-countries-api/pull/52) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 💪 Opened PR [#52](https://github.com/victoriacheng15/fem-rest-countries-api/pull/52) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
