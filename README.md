@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#316](https://github.com/codinasion/program/issues/316) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#109](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/109) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#109](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/109) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 🎉 Merged PR [#108](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/108) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 💪 Opened PR [#108](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/108) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🗣 Commented on [#323](https://github.com/codinasion/program/issues/323) in [codinasion/program](https://github.com/codinasion/program)
+2. 🗣 Commented on [#316](https://github.com/codinasion/program/issues/316) in [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#109](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/109) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#109](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/109) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#108](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/108) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--END_SECTION:activity-->
 
 </details>
