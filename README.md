@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#375](https://github.com/codinasion/program/pull/375) in [codinasion/program](https://github.com/codinasion/program)
-2. 🗣 Commented on [#375](https://github.com/codinasion/program/issues/375) in [codinasion/program](https://github.com/codinasion/program)
-3. 🗣 Commented on [#398](https://github.com/codinasion/program/issues/398) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#373](https://github.com/codinasion/program/issues/373) in [codinasion/program](https://github.com/codinasion/program)
-5. 🎉 Merged PR [#92](https://github.com/victoriacheng15/codewars-solutions/pull/92) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+1. 🗣 Commented on [#429](https://github.com/codinasion/program/issues/429) in [codinasion/program](https://github.com/codinasion/program)
+2. 🗣 Commented on [#427](https://github.com/codinasion/program/issues/427) in [codinasion/program](https://github.com/codinasion/program)
+3. 🗣 Commented on [#425](https://github.com/codinasion/program/issues/425) in [codinasion/program](https://github.com/codinasion/program)
+4. ❌ Closed PR [#375](https://github.com/codinasion/program/pull/375) in [codinasion/program](https://github.com/codinasion/program)
+5. 🗣 Commented on [#375](https://github.com/codinasion/program/issues/375) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
