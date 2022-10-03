@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1101](https://github.com/codinasion/program/pull/1101) in [codinasion/program](https://github.com/codinasion/program)
-2. 🗣 Commented on [#1101](https://github.com/codinasion/program/issues/1101) in [codinasion/program](https://github.com/codinasion/program)
-3. ❌ Closed PR [#1123](https://github.com/codinasion/program/pull/1123) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#1123](https://github.com/codinasion/program/issues/1123) in [codinasion/program](https://github.com/codinasion/program)
-5. ❌ Closed PR [#1342](https://github.com/codinasion/program/pull/1342) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#111](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/111) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#111](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/111) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. ❌ Closed PR [#1101](https://github.com/codinasion/program/pull/1101) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#1101](https://github.com/codinasion/program/issues/1101) in [codinasion/program](https://github.com/codinasion/program)
+5. ❌ Closed PR [#1123](https://github.com/codinasion/program/pull/1123) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
