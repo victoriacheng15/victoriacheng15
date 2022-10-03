@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/victoriacheng15/fem-space-tourism/pull/3) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-2. 💪 Opened PR [#3](https://github.com/victoriacheng15/fem-space-tourism/pull/3) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-3. 🎉 Merged PR [#2](https://github.com/victoriacheng15/fem-space-tourism/pull/2) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-4. 💪 Opened PR [#2](https://github.com/victoriacheng15/fem-space-tourism/pull/2) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-5. ❌ Closed PR [#697](https://github.com/codinasion/program/pull/697) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#5](https://github.com/victoriacheng15/fem-space-tourism/pull/5) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+2. 💪 Opened PR [#5](https://github.com/victoriacheng15/fem-space-tourism/pull/5) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+3. 🎉 Merged PR [#4](https://github.com/victoriacheng15/fem-space-tourism/pull/4) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+4. 💪 Opened PR [#4](https://github.com/victoriacheng15/fem-space-tourism/pull/4) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/fem-space-tourism/pull/3) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
 <!--END_SECTION:activity-->
 
 </details>
