@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1425](https://github.com/codinasion/program/issues/1425) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/fem-space-tourism/pull/10) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-3. 💪 Opened PR [#10](https://github.com/victoriacheng15/fem-space-tourism/pull/10) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-4. 🎉 Merged PR [#9](https://github.com/victoriacheng15/fem-space-tourism/pull/9) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
-5. 💪 Opened PR [#9](https://github.com/victoriacheng15/fem-space-tourism/pull/9) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+1. 🗣 Commented on [#1400](https://github.com/codinasion/program/issues/1400) in [codinasion/program](https://github.com/codinasion/program)
+2. 🗣 Commented on [#1348](https://github.com/codinasion/program/issues/1348) in [codinasion/program](https://github.com/codinasion/program)
+3. ❌ Closed PR [#1431](https://github.com/codinasion/program/pull/1431) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#1431](https://github.com/codinasion/program/issues/1431) in [codinasion/program](https://github.com/codinasion/program)
+5. 🗣 Commented on [#1428](https://github.com/codinasion/program/issues/1428) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
