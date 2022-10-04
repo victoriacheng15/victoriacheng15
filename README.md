@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#801](https://github.com/codinasion/program/issues/801) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#808](https://github.com/codinasion/program/pull/808) in [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#881](https://github.com/codinasion/program/pull/881) in [codinasion/program](https://github.com/codinasion/program)
-4. ❗️ Closed issue [#680](https://github.com/codinasion/program/issues/680) in [codinasion/program](https://github.com/codinasion/program)
-5. ❗️ Closed issue [#439](https://github.com/codinasion/program/issues/439) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#6](https://github.com/victoriacheng15/fem-space-tourism/pull/6) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+2. 💪 Opened PR [#6](https://github.com/victoriacheng15/fem-space-tourism/pull/6) in [victoriacheng15/fem-space-tourism](https://github.com/victoriacheng15/fem-space-tourism)
+3. ❗️ Closed issue [#801](https://github.com/codinasion/program/issues/801) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#808](https://github.com/codinasion/program/pull/808) in [codinasion/program](https://github.com/codinasion/program)
+5. 🎉 Merged PR [#881](https://github.com/codinasion/program/pull/881) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
