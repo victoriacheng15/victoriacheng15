@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1619](https://github.com/codinasion/program/issues/1619) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#114](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/114) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#114](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/114) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 🗣 Commented on [#1487](https://github.com/codinasion/program/issues/1487) in [codinasion/program](https://github.com/codinasion/program)
-5. ❌ Closed PR [#1486](https://github.com/codinasion/program/pull/1486) in [codinasion/program](https://github.com/codinasion/program)
+1. 🗣 Commented on [#1618](https://github.com/codinasion/program/issues/1618) in [codinasion/program](https://github.com/codinasion/program)
+2. 🗣 Commented on [#1619](https://github.com/codinasion/program/issues/1619) in [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#114](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/114) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#114](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/114) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🗣 Commented on [#1487](https://github.com/codinasion/program/issues/1487) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
