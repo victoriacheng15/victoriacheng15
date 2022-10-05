@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1417](https://github.com/codinasion/program/issues/1417) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#1427](https://github.com/codinasion/program/pull/1427) in [codinasion/program](https://github.com/codinasion/program)
-3. ❗️ Closed issue [#1103](https://github.com/codinasion/program/issues/1103) in [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#1352](https://github.com/codinasion/program/pull/1352) in [codinasion/program](https://github.com/codinasion/program)
-5. ❗️ Closed issue [#1227](https://github.com/codinasion/program/issues/1227) in [codinasion/program](https://github.com/codinasion/program)
+1. 🗣 Commented on [#1339](https://github.com/codinasion/program/issues/1339) in [codinasion/program](https://github.com/codinasion/program)
+2. 🗣 Commented on [#877](https://github.com/codinasion/program/issues/877) in [codinasion/program](https://github.com/codinasion/program)
+3. ❌ Closed PR [#1349](https://github.com/codinasion/program/pull/1349) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#1349](https://github.com/codinasion/program/issues/1349) in [codinasion/program](https://github.com/codinasion/program)
+5. 🗣 Commented on [#1341](https://github.com/codinasion/program/issues/1341) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
