@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/victoriacheng15/fem-rest-countries-api/pull/55) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 💪 Opened PR [#55](https://github.com/victoriacheng15/fem-rest-countries-api/pull/55) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 🎉 Merged PR [#54](https://github.com/victoriacheng15/fem-rest-countries-api/pull/54) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#54](https://github.com/victoriacheng15/fem-rest-countries-api/pull/54) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. ❗️ Closed issue [#1823](https://github.com/codinasion/program/issues/1823) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#115](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/115) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#115](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/115) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#55](https://github.com/victoriacheng15/fem-rest-countries-api/pull/55) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 💪 Opened PR [#55](https://github.com/victoriacheng15/fem-rest-countries-api/pull/55) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🎉 Merged PR [#54](https://github.com/victoriacheng15/fem-rest-countries-api/pull/54) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--END_SECTION:activity-->
 
 </details>
