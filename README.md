@@ -60,11 +60,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/codinasion/program/issues/45) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#2057](https://github.com/codinasion/program/pull/2057) in [codinasion/program](https://github.com/codinasion/program)
-3. ❗️ Closed issue [#1712](https://github.com/codinasion/program/issues/1712) in [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#2050](https://github.com/codinasion/program/pull/2050) in [codinasion/program](https://github.com/codinasion/program)
-5. ❗️ Closed issue [#1920](https://github.com/codinasion/program/issues/1920) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#95](https://github.com/victoriacheng15/codewars-solutions/pull/95) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+2. 💪 Opened PR [#95](https://github.com/victoriacheng15/codewars-solutions/pull/95) in [victoriacheng15/codewars-solutions](https://github.com/victoriacheng15/codewars-solutions)
+3. ❗️ Closed issue [#45](https://github.com/codinasion/program/issues/45) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#2057](https://github.com/codinasion/program/pull/2057) in [codinasion/program](https://github.com/codinasion/program)
+5. ❗️ Closed issue [#1712](https://github.com/codinasion/program/issues/1712) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
