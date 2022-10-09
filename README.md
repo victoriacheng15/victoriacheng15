@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2658](https://github.com/codinasion/program/issues/2658) in [codinasion/program](https://github.com/codinasion/program)
-2. 🗣 Commented on [#2582](https://github.com/codinasion/program/issues/2582) in [codinasion/program](https://github.com/codinasion/program)
-3. 🗣 Commented on [#2633](https://github.com/codinasion/program/issues/2633) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#2658](https://github.com/codinasion/program/issues/2658) in [codinasion/program](https://github.com/codinasion/program)
-5. 🗣 Commented on [#2647](https://github.com/codinasion/program/issues/2647) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#57](https://github.com/victoriacheng15/fem-rest-countries-api/pull/57) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+2. 💪 Opened PR [#57](https://github.com/victoriacheng15/fem-rest-countries-api/pull/57) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 🎉 Merged PR [#56](https://github.com/victoriacheng15/fem-rest-countries-api/pull/56) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. 💪 Opened PR [#56](https://github.com/victoriacheng15/fem-rest-countries-api/pull/56) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🗣 Commented on [#2658](https://github.com/codinasion/program/issues/2658) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
