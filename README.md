@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/victoriacheng15/git-sandbox/pull/4) in [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
-2. 💪 Opened PR [#4](https://github.com/victoriacheng15/git-sandbox/pull/4) in [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
-3. 🗣 Commented on [#2844](https://github.com/codinasion/program/issues/2844) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#3032](https://github.com/codinasion/program/issues/3032) in [codinasion/program](https://github.com/codinasion/program)
-5. 🗣 Commented on [#2850](https://github.com/codinasion/program/issues/2850) in [codinasion/program](https://github.com/codinasion/program)
+1. 🗣 Commented on [#3688](https://github.com/codinasion/program/issues/3688) in [codinasion/program](https://github.com/codinasion/program)
+2. ❗️ Closed issue [#2933](https://github.com/codinasion/program/issues/2933) in [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#2952](https://github.com/codinasion/program/pull/2952) in [codinasion/program](https://github.com/codinasion/program)
+4. ❗️ Closed issue [#716](https://github.com/codinasion/program/issues/716) in [codinasion/program](https://github.com/codinasion/program)
+5. 🎉 Merged PR [#2929](https://github.com/codinasion/program/pull/2929) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
