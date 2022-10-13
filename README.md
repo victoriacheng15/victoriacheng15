@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3347](https://github.com/codinasion/program/issues/3347) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#3394](https://github.com/codinasion/program/pull/3394) in [codinasion/program](https://github.com/codinasion/program)
-3. 🗣 Commented on [#3849](https://github.com/codinasion/program/issues/3849) in [codinasion/program](https://github.com/codinasion/program)
-4. ❗️ Closed issue [#3093](https://github.com/codinasion/program/issues/3093) in [codinasion/program](https://github.com/codinasion/program)
-5. 🎉 Merged PR [#3345](https://github.com/codinasion/program/pull/3345) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/ts-codewars/pull/2) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. 💪 Opened PR [#2](https://github.com/victoriacheng15/ts-codewars/pull/2) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/ts-codewars/pull/1) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. 💪 Opened PR [#1](https://github.com/victoriacheng15/ts-codewars/pull/1) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. ❗️ Closed issue [#3347](https://github.com/codinasion/program/issues/3347) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
