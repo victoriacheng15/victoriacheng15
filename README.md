@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2842](https://github.com/codinasion/program/issues/2842) in [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#3113](https://github.com/codinasion/program/pull/3113) in [codinasion/program](https://github.com/codinasion/program)
-3. ❗️ Closed issue [#47](https://github.com/victoriacheng15/fem-rest-countries-api/issues/47) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 🎉 Merged PR [#59](https://github.com/victoriacheng15/fem-rest-countries-api/pull/59) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 💪 Opened PR [#59](https://github.com/victoriacheng15/fem-rest-countries-api/pull/59) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. ❗️ Closed issue [#2975](https://github.com/codinasion/program/issues/2975) in [codinasion/program](https://github.com/codinasion/program)
+2. 🎉 Merged PR [#3524](https://github.com/codinasion/program/pull/3524) in [codinasion/program](https://github.com/codinasion/program)
+3. ❗️ Closed issue [#73](https://github.com/codinasion/program/issues/73) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#3488](https://github.com/codinasion/program/pull/3488) in [codinasion/program](https://github.com/codinasion/program)
+5. ❗️ Closed issue [#53](https://github.com/codinasion/program/issues/53) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
