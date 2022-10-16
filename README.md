@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4310](https://github.com/codinasion/program/issues/4310) in [codinasion/program](https://github.com/codinasion/program)
-2. ❗️ Closed issue [#4129](https://github.com/codinasion/program/issues/4129) in [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#4261](https://github.com/codinasion/program/pull/4261) in [codinasion/program](https://github.com/codinasion/program)
-4. ❗️ Closed issue [#3938](https://github.com/codinasion/program/issues/3938) in [codinasion/program](https://github.com/codinasion/program)
-5. 🎉 Merged PR [#4189](https://github.com/codinasion/program/pull/4189) in [codinasion/program](https://github.com/codinasion/program)
+1. ❗️ Closed issue [#3671](https://github.com/EddieHubCommunity/support/issues/3671) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#4310](https://github.com/codinasion/program/issues/4310) in [codinasion/program](https://github.com/codinasion/program)
+3. ❗️ Closed issue [#4129](https://github.com/codinasion/program/issues/4129) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#4261](https://github.com/codinasion/program/pull/4261) in [codinasion/program](https://github.com/codinasion/program)
+5. ❗️ Closed issue [#3938](https://github.com/codinasion/program/issues/3938) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
