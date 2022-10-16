@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3396](https://github.com/codinasion/program/pull/3396) in [codinasion/program](https://github.com/codinasion/program)
-2. 🗣 Commented on [#3720](https://github.com/codinasion/program/issues/3720) in [codinasion/program](https://github.com/codinasion/program)
-3. ❗️ Closed issue [#3671](https://github.com/EddieHubCommunity/support/issues/3671) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#4310](https://github.com/codinasion/program/issues/4310) in [codinasion/program](https://github.com/codinasion/program)
-5. ❗️ Closed issue [#4129](https://github.com/codinasion/program/issues/4129) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#121](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/121) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 💪 Opened PR [#121](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/121) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. ❌ Closed PR [#3396](https://github.com/codinasion/program/pull/3396) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#3720](https://github.com/codinasion/program/issues/3720) in [codinasion/program](https://github.com/codinasion/program)
+5. ❗️ Closed issue [#3671](https://github.com/EddieHubCommunity/support/issues/3671) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
