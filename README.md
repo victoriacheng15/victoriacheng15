@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/121) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 💪 Opened PR [#121](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/121) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. ❌ Closed PR [#3396](https://github.com/codinasion/program/pull/3396) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#3720](https://github.com/codinasion/program/issues/3720) in [codinasion/program](https://github.com/codinasion/program)
-5. ❗️ Closed issue [#3671](https://github.com/EddieHubCommunity/support/issues/3671) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#5](https://github.com/victoriacheng15/ts-codewars/pull/5) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. 💪 Opened PR [#5](https://github.com/victoriacheng15/ts-codewars/pull/5) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 🎉 Merged PR [#121](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/121) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#121](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/121) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. ❌ Closed PR [#3396](https://github.com/codinasion/program/pull/3396) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
 </details>
