@@ -59,10 +59,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-2. 💪 Opened PR [#11](https://github.com/victoriacheng15/ts-codewars/pull/11) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-3. 💬 Commented on [#4574](https://github.com/codinasion/program/issues/4574#issuecomment-1281333741) in [codinasion/program](https://github.com/codinasion/program)
+2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/ts-codewars/pull/11) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/ts-codewars/pull/10) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
