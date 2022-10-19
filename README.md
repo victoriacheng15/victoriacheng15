@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 🎉 Merged PR [#123](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/123) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#123](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/123) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. 🎉 Merged PR [#122](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/122) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+1. 🎉 Merged PR [#12](https://github.com/victoriacheng15/ts-codewars/pull/12) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 💪 Opened PR [#12](https://github.com/victoriacheng15/ts-codewars/pull/12) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
