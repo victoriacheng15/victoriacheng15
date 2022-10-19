@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/website/pull/1) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#1](https://github.com/victoriacheng15/website/pull/1) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 0 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ✔️ Closed issue [#3735](https://github.com/codinasion/program/issues/3735) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#3742](https://github.com/codinasion/program/pull/3742) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#3742](https://github.com/codinasion/program/pull/3742#pullrequestreview-1146845399) in [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#1192](https://github.com/codinasion/program/issues/1192) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
