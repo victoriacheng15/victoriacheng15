@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3868](https://github.com/codinasion/program/pull/3868#issuecomment-1287641202) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#6](https://github.com/victoriacheng15/website/pull/6) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#6](https://github.com/victoriacheng15/website/pull/6) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+1. 💬 Commented on [#4713](https://github.com/codinasion/program/pull/4713#issuecomment-1287860581) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. ✔️ Closed issue [#3577](https://github.com/codinasion/program/issues/3577) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#4706](https://github.com/codinasion/program/pull/4706) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#4706](https://github.com/codinasion/program/pull/4706#pullrequestreview-1152078682) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
