@@ -59,10 +59,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-3. 💪 Opened PR [#16](https://github.com/victoriacheng15/ts-codewars/pull/16) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. 🎉 Merged PR [#16](https://github.com/victoriacheng15/ts-codewars/pull/16) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-5. ⬆️ Pushed 388 commit(s) to [victoriacheng15/linkedin-skill-assessments-quizzes](https://github.com/victoriacheng15/linkedin-skill-assessments-quizzes)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
