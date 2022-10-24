@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/website/pull/11) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#11](https://github.com/victoriacheng15/website/pull/11) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/website/pull/10) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 💪 Opened PR [#16](https://github.com/victoriacheng15/ts-codewars/pull/16) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. ⬆️ Pushed 388 commit(s) to [victoriacheng15/linkedin-skill-assessments-quizzes](https://github.com/victoriacheng15/linkedin-skill-assessments-quizzes)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
