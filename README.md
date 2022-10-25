@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#16](https://github.com/victoriacheng15/website/pull/16) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#16](https://github.com/victoriacheng15/website/pull/16) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
-5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/tesla-clone/pull/4) in [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
+1. ✔️ Closed issue [#1953](https://github.com/codinasion/program/issues/1953) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#4542](https://github.com/codinasion/program/pull/4542) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#4542](https://github.com/codinasion/program/pull/4542#pullrequestreview-1154957234) in [codinasion/program](https://github.com/codinasion/program)
+5. 🎉 Merged PR [#16](https://github.com/victoriacheng15/website/pull/16) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
