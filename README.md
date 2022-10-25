@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#15](https://github.com/victoriacheng15/website/pull/15) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#15](https://github.com/victoriacheng15/website/pull/15) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 🎉 Merged PR [#14](https://github.com/victoriacheng15/website/pull/14) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/tesla-clone/pull/3) in [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
+4. 💪 Opened PR [#3](https://github.com/victoriacheng15/tesla-clone/pull/3) in [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
+5. ❌ Closed PR [#1](https://github.com/victoriacheng15/tesla-clone/pull/1) in [victoriacheng15/tesla-clone](https://github.com/victoriacheng15/tesla-clone)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
