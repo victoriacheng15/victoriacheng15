@@ -59,10 +59,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/sql-challenges/pull/1) in [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-4. 💪 Opened PR [#1](https://github.com/victoriacheng15/sql-challenges/pull/1) in [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-5. 📔 Created new repository [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
+3. 🎉 Merged PR [#2](https://github.com/victoriacheng15/sql-challenges/pull/2) in [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
+5. ⭐ Starred [mdh266/SQL-Practice](https://github.com/mdh266/SQL-Practice)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
