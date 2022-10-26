@@ -59,10 +59,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 🎉 Merged PR [#126](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/126) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#126](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/126) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. ⬆️ Pushed 17 commit(s) to [victoriacheng15/program](https://github.com/victoriacheng15/program)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#130](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/130) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 💪 Opened PR [#130](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/130) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. ❌ Closed PR [#129](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/129) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 💪 Opened PR [#129](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/129) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
