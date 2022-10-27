@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#19](https://github.com/victoriacheng15/website/pull/19) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/sql-challenges/pull/2) in [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/sql-challenges](https://github.com/victoriacheng15/sql-challenges)
+1. ✔️ Closed issue [#26](https://github.com/victoriacheng15/portfolio-2022/issues/26) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+2. ✔️ Closed issue [#28](https://github.com/victoriacheng15/portfolio-2022/issues/28) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+3. ✔️ Closed issue [#25](https://github.com/victoriacheng15/portfolio-2022/issues/25) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+4. ✔️ Closed issue [#24](https://github.com/victoriacheng15/portfolio-2022/issues/24) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
+5. ✔️ Closed issue [#23](https://github.com/victoriacheng15/portfolio-2022/issues/23) in [victoriacheng15/portfolio-2022](https://github.com/victoriacheng15/portfolio-2022)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
