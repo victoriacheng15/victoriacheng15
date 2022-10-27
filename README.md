@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#24](https://github.com/victoriacheng15/website/issues/24#issuecomment-1293817432) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 💬 Commented on [#25](https://github.com/victoriacheng15/website/issues/25#issuecomment-1293813057) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💬 Commented on [#23](https://github.com/victoriacheng15/website/issues/23#issuecomment-1293765613) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ✔️ Closed issue [#24](https://github.com/victoriacheng15/website/issues/24) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#26](https://github.com/victoriacheng15/website/pull/26) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#26](https://github.com/victoriacheng15/website/pull/26) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
