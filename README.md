@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#33](https://github.com/victoriacheng15/website/pull/33) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#33](https://github.com/victoriacheng15/website/pull/33) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+1. ✔️ Closed issue [#2932](https://github.com/codinasion/program/issues/2932) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#3500](https://github.com/codinasion/program/pull/3500) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#3500](https://github.com/codinasion/program/pull/3500#pullrequestreview-1161047480) in [codinasion/program](https://github.com/codinasion/program)
+5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
