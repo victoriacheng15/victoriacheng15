@@ -59,9 +59,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
-3. 🎉 Merged PR [#6](https://github.com/victoriacheng15/git-sandbox/pull/6) in [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
-4. 💪 Opened PR [#6](https://github.com/victoriacheng15/git-sandbox/pull/6) in [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
+2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
+3. 🎉 Merged PR [#8](https://github.com/victoriacheng15/git-sandbox/pull/8) in [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
+4. 💪 Opened PR [#8](https://github.com/victoriacheng15/git-sandbox/pull/8) in [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/git-sandbox](https://github.com/victoriacheng15/git-sandbox)
 <!--RECENT_ACTIVITY:end-->
 
