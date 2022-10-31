@@ -55,14 +55,10 @@
 
 <details close>
 <summary>See blogs!</summary>
-
-<!-- HASHNODE_BLOG:START -->
-- [JavaScript - Mutable Array Methods](https://victoriacheng15.hashnode.dev/javascript-mutable-array-methods-cl4k0ar5v00yieznv87q0edw5)
-- [The Journey of Contributing to Open Source](https://victoriacheng15.hashnode.dev/the-journey-of-contributing-to-open-source-cl48yhn3r01qzq2nv5m4sf9ut)
-- [My First Round of the 100 Days of Code](https://victoriacheng15.hashnode.dev/my-first-round-of-the-100-days-of-code-cl3yrms0d01a4odnvhart9kqz)
-- [Tailwind CSS - Beginner Edition](https://victoriacheng15.hashnode.dev/tailwind-css-beginner-edition-cl3t5n93a001zfcnv8qofgarb)
-- [🤔 Set in JavaScript 🤔](https://victoriacheng15.hashnode.dev/set-in-javascript-cl3ajupti02agx2nvfcpi76yr)
-<!-- HASHNODE_BLOG:END -->
+  
+<!-- BLOG-POST-LIST:START -->
+  
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
