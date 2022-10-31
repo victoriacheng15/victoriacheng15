@@ -58,11 +58,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 🎉 Merged PR [#61](https://github.com/victoriacheng15/fem-rest-countries-api/pull/61) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. ⬆️ Pushed 2 commit(s) to [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-5. 💪 Opened PR [#61](https://github.com/victoriacheng15/fem-rest-countries-api/pull/61) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+1. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/github-readme-stats](https://github.com/victoriacheng15/github-readme-stats)
+4. 🎉 Merged PR [#1](https://github.com/victoriacheng15/github-readme-stats/pull/1) in [victoriacheng15/github-readme-stats](https://github.com/victoriacheng15/github-readme-stats)
+5. 💪 Opened PR [#1](https://github.com/victoriacheng15/github-readme-stats/pull/1) in [victoriacheng15/github-readme-stats](https://github.com/victoriacheng15/github-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
