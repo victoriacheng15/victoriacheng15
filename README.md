@@ -69,7 +69,7 @@
 
 ## 📈 GitHub Stats
 
-<a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoriacheng15&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="victoriacheng15's GitHub stats" /></a> <a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=victoriacheng15&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-stats-victoriacheng15.vercel.app/api?username=victoriacheng15&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="victoriacheng15's GitHub stats" /></a> <a href="http://www.github.com/victoriacheng15"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=victoriacheng15&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 ## Badge
 
