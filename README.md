@@ -57,8 +57,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
-  
-<!-- BLOG-POST-LIST:END -->
+ - 💯 [What have I learned about React Context API?](https://victoriacheng15.hashnode.dev/what-have-i-learned-about-react-context-api)
+ - 💫 [JavaScript - Mutable Array Methods](https://victoriacheng15.hashnode.dev/javascript-mutable-array-methods)
+ - 🔥 [The Journey of Contributing to Open Source](https://victoriacheng15.hashnode.dev/the-journey-of-contributing-to-open-source)
+ - 💫 [My First Round of the 100 Days of Code](https://victoriacheng15.hashnode.dev/my-first-round-of-the-100-days-of-code)
+ - 🚀 [Tailwind CSS - Beginner Edition](https://victoriacheng15.hashnode.dev/tailwind-css-beginner-edition)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
