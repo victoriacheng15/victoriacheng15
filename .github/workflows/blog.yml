@@ -7,10 +7,10 @@ on:
 
 jobs:
   update_blogs:
-    name: Update blogss
+    name: Update blogs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with: 
           feed_list: "https://victoriacheng15.hashnode.dev/rss.xml"
