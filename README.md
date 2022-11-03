@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#41](https://github.com/victoriacheng15/website/pull/41) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#41](https://github.com/victoriacheng15/website/pull/41) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+2. 💪 Opened PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 🎉 Merged PR [#41](https://github.com/victoriacheng15/website/pull/41) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#41](https://github.com/victoriacheng15/website/pull/41) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
