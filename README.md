@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aceking007/100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
-2. ⭐ Starred [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-3. 💪 Opened PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 🎉 Merged PR [#41](https://github.com/victoriacheng15/website/pull/41) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⭐ Starred [aceking007/100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
+3. ⭐ Starred [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+4. 💪 Opened PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
