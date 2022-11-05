@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💬 Commented on [#4797](https://github.com/codinasion/program/pull/4797#issuecomment-1304070807) in [codinasion/program](https://github.com/codinasion/program)
-5. 💬 Commented on [#3085](https://github.com/codinasion/program/pull/3085#discussion_r1014395144) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💬 Commented on [#4797](https://github.com/codinasion/program/pull/4797#issuecomment-1304070807) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
