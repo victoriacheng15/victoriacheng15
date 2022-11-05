@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#42](https://github.com/victoriacheng15/website/pull/42) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 💬 Commented on [#4797](https://github.com/codinasion/program/pull/4797#issuecomment-1304070807) in [codinasion/program](https://github.com/codinasion/program)
+1. ✔️ Closed issue [#2205](https://github.com/codinasion/program/issues/2205) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#3085](https://github.com/codinasion/program/pull/3085) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#3085](https://github.com/codinasion/program/pull/3085#pullrequestreview-1169469644) in [codinasion/program](https://github.com/codinasion/program)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
