@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⭐ Starred [nektos/act](https://github.com/nektos/act)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+1. 💪 Opened PR [#45](https://github.com/victoriacheng15/website/pull/45) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 💪 Opened PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⭐ Starred [nektos/act](https://github.com/nektos/act)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
