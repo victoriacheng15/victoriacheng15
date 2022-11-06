@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-2. 🎉 Merged PR [#22](https://github.com/victoriacheng15/ts-codewars/pull/22) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-3. 💪 Opened PR [#22](https://github.com/victoriacheng15/ts-codewars/pull/22) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-4. 💪 Opened PR [#43](https://github.com/victoriacheng15/website/pull/43) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#2205](https://github.com/codinasion/program/issues/2205) in [codinasion/program](https://github.com/codinasion/program)
+1. ⭐ Starred [nektos/act](https://github.com/nektos/act)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 🎉 Merged PR [#22](https://github.com/victoriacheng15/ts-codewars/pull/22) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. 💪 Opened PR [#22](https://github.com/victoriacheng15/ts-codewars/pull/22) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. 💪 Opened PR [#43](https://github.com/victoriacheng15/website/pull/43) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
