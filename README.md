@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#77](https://github.com/gr2m/merge-schedule-action/issues/77) in [gr2m/merge-schedule-action](https://github.com/gr2m/merge-schedule-action)
-2. 💪 Opened PR [#45](https://github.com/victoriacheng15/website/pull/45) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 🎉 Merged PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 💪 Opened PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [toul-codes/automate-the-boring-stuff-with-go](https://github.com/toul-codes/automate-the-boring-stuff-with-go)
+2. ❗️ Opened issue [#77](https://github.com/gr2m/merge-schedule-action/issues/77) in [gr2m/merge-schedule-action](https://github.com/gr2m/merge-schedule-action)
+3. 💪 Opened PR [#45](https://github.com/victoriacheng15/website/pull/45) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 🎉 Merged PR [#44](https://github.com/victoriacheng15/website/pull/44) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
