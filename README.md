@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/victoriacheng15/flask-todo/pull/1) in [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo)
-2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo)
-3. 💪 Opened PR [#1](https://github.com/TheAmazinRaven/flask-todo/pull/1) in [TheAmazinRaven/flask-todo](https://github.com/TheAmazinRaven/flask-todo)
-4. 🔱 Forked [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo) from [TheAmazinRaven/flask-todo](https://github.com/TheAmazinRaven/flask-todo)
-5. ⭐ Starred [toul-codes/automate-the-boring-stuff-with-go](https://github.com/toul-codes/automate-the-boring-stuff-with-go)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo)
+2. 💪 Opened PR [#1](https://github.com/victoriacheng15/flask-todo/pull/1) in [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo)
+3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo)
+4. 💪 Opened PR [#1](https://github.com/TheAmazinRaven/flask-todo/pull/1) in [TheAmazinRaven/flask-todo](https://github.com/TheAmazinRaven/flask-todo)
+5. 🔱 Forked [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo) from [TheAmazinRaven/flask-todo](https://github.com/TheAmazinRaven/flask-todo)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
