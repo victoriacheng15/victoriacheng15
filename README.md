@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RehanSaeed/Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#46](https://github.com/victoriacheng15/website/pull/46) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#46](https://github.com/victoriacheng15/website/pull/46) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-todo](https://github.com/victoriacheng15/flask-todo)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#47](https://github.com/victoriacheng15/website/pull/47) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#47](https://github.com/victoriacheng15/website/pull/47) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⭐ Starred [RehanSaeed/Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
