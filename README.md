@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#50](https://github.com/victoriacheng15/website/pull/50) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#50](https://github.com/victoriacheng15/website/pull/50) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ✔️ Closed issue [#4622](https://github.com/codinasion/program/issues/4622) in [codinasion/program](https://github.com/codinasion/program)
-5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+1. ⭐ Starred [florinpop17/10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#50](https://github.com/victoriacheng15/website/pull/50) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 💪 Opened PR [#50](https://github.com/victoriacheng15/website/pull/50) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ✔️ Closed issue [#4622](https://github.com/codinasion/program/issues/4622) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
