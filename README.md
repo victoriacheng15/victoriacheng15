@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
-2. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-3. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)
-4. ⭐ Starred [PacktPublishing/Complete-Bash-Shell-Scripting-](https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting-)
-5. 💪 Opened PR [#51](https://github.com/victoriacheng15/website/pull/51) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [rome/tools](https://github.com/rome/tools)
+2. ⬆️ Pushed 10 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
+3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+4. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)
+5. ⭐ Starred [PacktPublishing/Complete-Bash-Shell-Scripting-](https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting-)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
