@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rome/tools](https://github.com/rome/tools)
-2. ⬆️ Pushed 10 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
-3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-4. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)
-5. ⭐ Starred [PacktPublishing/Complete-Bash-Shell-Scripting-](https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting-)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#52](https://github.com/victoriacheng15/website/pull/52) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#52](https://github.com/victoriacheng15/website/pull/52) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 🎉 Merged PR [#51](https://github.com/victoriacheng15/website/pull/51) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
