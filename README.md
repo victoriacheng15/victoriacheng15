@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. ✔️ Closed issue [#2685](https://github.com/codinasion/program/issues/2685) in [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#4816](https://github.com/codinasion/program/pull/4816) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#4816](https://github.com/codinasion/program/pull/4816#pullrequestreview-1176165783) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/links-me/pull/2) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+4. 💪 Opened PR [#2](https://github.com/victoriacheng15/links-me/pull/2) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
