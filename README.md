@@ -57,11 +57,10 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [React Pagination - Vanilla Edition](https://victoriacheng15.hashnode.dev/react-pagination-vanilla-edition)
- - 🌮 [React Pagination - Vanilla Edition](https://victoriacheng15.vercel.app/blog/react-pagination-vanilla-edition)
- - 💫 [What is hoisting in JavaScript?](https://victoriacheng15.hashnode.dev/what-is-hoisting-in-javascript)
- - 💫 [What is hoisting in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-hoisting-in-javascript)
- - 🌮 [What have I learned about React Context API?](https://victoriacheng15.hashnode.dev/what-have-i-learned-about-react-context-api)<!-- BLOG-POST-LIST:END -->
+ - 💯 [React Pagination - Vanilla Edition](https://victoriacheng15.vercel.app/blog/react-pagination-vanilla-edition)
+ - 🌮 [What is hoisting in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-hoisting-in-javascript)
+ - 💫 [What have I learned about React Context API?](https://victoriacheng15.vercel.app/blog/what-have-i-learned-about-react-context-api)
+ - 💫 [Welcome to the first blog](https://victoriacheng15.vercel.app/blog/welcome-to-the-first-blog)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
