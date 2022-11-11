@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@1.8.0
         with: 
-          feed_list: "https://victoriacheng15.hashnode.dev/rss.xml"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          feed_list: "https://victoriacheng15.vercel.app/blog/rss.xml, https://victoriacheng15.hashnode.dev/rss.xml"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,👋,🌊) [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
