@@ -70,11 +70,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#64](https://github.com/victoriacheng15/website/issues/64) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 💪 Opened PR [#63](https://github.com/victoriacheng15/website/pull/63) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 🎉 Merged PR [#62](https://github.com/victoriacheng15/website/pull/62) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 💪 Opened PR [#62](https://github.com/victoriacheng15/website/pull/62) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ❗️ Opened issue [#66](https://github.com/victoriacheng15/website/issues/66) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ❗️ Opened issue [#65](https://github.com/victoriacheng15/website/issues/65) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ❗️ Opened issue [#64](https://github.com/victoriacheng15/website/issues/64) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 💪 Opened PR [#63](https://github.com/victoriacheng15/website/pull/63) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
