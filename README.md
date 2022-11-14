@@ -70,11 +70,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-2. 🎉 Merged PR [#23](https://github.com/victoriacheng15/ts-codewars/pull/23) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-3. 💪 Opened PR [#23](https://github.com/victoriacheng15/ts-codewars/pull/23) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-4. 💬 Commented on [#66](https://github.com/victoriacheng15/website/issues/66#issuecomment-1313076788) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⭐ Starred [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+2. 🎉 Merged PR [#97](https://github.com/victoriacheng15/js-codewars/pull/97) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+3. 💪 Opened PR [#97](https://github.com/victoriacheng15/js-codewars/pull/97) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+5. 🎉 Merged PR [#96](https://github.com/victoriacheng15/js-codewars/pull/96) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
