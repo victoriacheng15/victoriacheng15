@@ -70,11 +70,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#66](https://github.com/victoriacheng15/website/issues/66#issuecomment-1313076788) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⭐ Starred [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator)
-3. ❗️ Opened issue [#66](https://github.com/victoriacheng15/website/issues/66) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ❗️ Opened issue [#65](https://github.com/victoriacheng15/website/issues/65) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ❗️ Opened issue [#64](https://github.com/victoriacheng15/website/issues/64) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. 🎉 Merged PR [#23](https://github.com/victoriacheng15/ts-codewars/pull/23) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 💪 Opened PR [#23](https://github.com/victoriacheng15/ts-codewars/pull/23) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. 💬 Commented on [#66](https://github.com/victoriacheng15/website/issues/66#issuecomment-1313076788) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⭐ Starred [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
