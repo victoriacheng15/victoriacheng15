@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/victoriacheng15/books-tracker/pull/3) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-3. 🎉 Merged PR [#2](https://github.com/victoriacheng15/books-tracker/pull/2) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-4. 💪 Opened PR [#2](https://github.com/victoriacheng15/books-tracker/pull/2) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+2. 🎉 Merged PR [#5](https://github.com/victoriacheng15/books-tracker/pull/5) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+3. 💪 Opened PR [#5](https://github.com/victoriacheng15/books-tracker/pull/5) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/books-tracker/pull/4) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
