@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/books-tracker/pull/6) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-3. 💪 Opened PR [#6](https://github.com/victoriacheng15/books-tracker/pull/6) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-4. ❗️ Opened issue [#2241](https://github.com/EddieHubCommunity/LinkFree/issues/2241) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ✔️ Closed issue [#64](https://github.com/victoriacheng15/website/issues/64) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/books-tracker/pull/7) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/books-tracker/pull/7) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/books-tracker/pull/6) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
