@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#81](https://github.com/victoriacheng15/website/pull/81) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#81](https://github.com/victoriacheng15/website/pull/81) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+2. 🎉 Merged PR [#82](https://github.com/victoriacheng15/website/pull/82) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 4 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#82](https://github.com/victoriacheng15/website/pull/82) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
