@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#85](https://github.com/victoriacheng15/website/issues/85) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ❗️ Opened issue [#84](https://github.com/victoriacheng15/website/issues/84) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
-4. 🎉 Merged PR [#4825](https://github.com/codinasion/program/pull/4825) in [codinasion/program](https://github.com/codinasion/program)
-5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#86](https://github.com/victoriacheng15/website/pull/86) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#86](https://github.com/victoriacheng15/website/pull/86) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ❗️ Opened issue [#85](https://github.com/victoriacheng15/website/issues/85) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ❗️ Opened issue [#84](https://github.com/victoriacheng15/website/issues/84) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
