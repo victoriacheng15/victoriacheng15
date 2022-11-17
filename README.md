@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4825](https://github.com/codinasion/program/pull/4825) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. ✔️ Closed issue [#446](https://github.com/codinasion/program/issues/446) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#4825](https://github.com/codinasion/program/pull/4825#pullrequestreview-1183593910) in [codinasion/program](https://github.com/codinasion/program)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
+2. 🎉 Merged PR [#4825](https://github.com/codinasion/program/pull/4825) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. ✔️ Closed issue [#446](https://github.com/codinasion/program/issues/446) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#4825](https://github.com/codinasion/program/pull/4825#pullrequestreview-1183593910) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
