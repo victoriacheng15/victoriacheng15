@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#77](https://github.com/gr2m/merge-schedule-action/issues/77) in [gr2m/merge-schedule-action](https://github.com/gr2m/merge-schedule-action)
-2. ❗️ Opened issue [#96](https://github.com/victoriacheng15/website/issues/96) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ❗️ Opened issue [#95](https://github.com/victoriacheng15/website/issues/95) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ❗️ Opened issue [#94](https://github.com/victoriacheng15/website/issues/94) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⭐ Starred [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+1. ❗️ Opened issue [#97](https://github.com/victoriacheng15/website/issues/97) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ✔️ Closed issue [#77](https://github.com/gr2m/merge-schedule-action/issues/77) in [gr2m/merge-schedule-action](https://github.com/gr2m/merge-schedule-action)
+3. ❗️ Opened issue [#96](https://github.com/victoriacheng15/website/issues/96) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ❗️ Opened issue [#95](https://github.com/victoriacheng15/website/issues/95) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ❗️ Opened issue [#94](https://github.com/victoriacheng15/website/issues/94) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
