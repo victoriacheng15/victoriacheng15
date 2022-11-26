@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [moelzanaty3/react-18-workshop](https://github.com/moelzanaty3/react-18-workshop)
-2. ⭐ Starred [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps)
-3. ⭐ Starred [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet)
-4. ⭐ Starred [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 👍 Approved [#4860](https://github.com/codinasion/program/pull/4860#pullrequestreview-1193573289) in [codinasion/program](https://github.com/codinasion/program)
+1. 💪 Opened PR [#100](https://github.com/victoriacheng15/website/pull/100) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ✔️ Closed issue [#84](https://github.com/victoriacheng15/website/issues/84) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 🎉 Merged PR [#99](https://github.com/victoriacheng15/website/pull/99) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#99](https://github.com/victoriacheng15/website/pull/99) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
