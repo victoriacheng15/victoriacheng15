@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 👍 Approved [#4860](https://github.com/codinasion/program/pull/4860#pullrequestreview-1193573289) in [codinasion/program](https://github.com/codinasion/program)
-3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-4. ✔️ Closed issue [#2836](https://github.com/codinasion/program/issues/2836) in [codinasion/program](https://github.com/codinasion/program)
-5. 🎉 Merged PR [#4857](https://github.com/codinasion/program/pull/4857) in [codinasion/program](https://github.com/codinasion/program)
+1. ⭐ Starred [moelzanaty3/react-18-workshop](https://github.com/moelzanaty3/react-18-workshop)
+2. ⭐ Starred [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps)
+3. ⭐ Starred [ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet)
+4. ⭐ Starred [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 👍 Approved [#4860](https://github.com/codinasion/program/pull/4860#pullrequestreview-1193573289) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
