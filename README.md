@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. ✔️ Closed issue [#3708](https://github.com/codinasion/program/issues/3708) in [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#4868](https://github.com/codinasion/program/pull/4868) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#4868](https://github.com/codinasion/program/pull/4868#pullrequestreview-1194928032) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/rest-countries-api-ts/pull/2) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+3. 💪 Opened PR [#2](https://github.com/victoriacheng15/rest-countries-api-ts/pull/2) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/rest-countries-api-ts/pull/1) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
