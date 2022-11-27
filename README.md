@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-2. 🎉 Merged PR [#64](https://github.com/victoriacheng15/fem-rest-countries-api/pull/64) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-3. 💪 Opened PR [#64](https://github.com/victoriacheng15/fem-rest-countries-api/pull/64) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
-4. 💪 Opened PR [#100](https://github.com/victoriacheng15/website/pull/100) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#84](https://github.com/victoriacheng15/website/issues/84) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#65](https://github.com/victoriacheng15/fem-rest-countries-api/pull/65) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+3. 💪 Opened PR [#65](https://github.com/victoriacheng15/fem-rest-countries-api/pull/65) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
+5. 🎉 Merged PR [#64](https://github.com/victoriacheng15/fem-rest-countries-api/pull/64) in [victoriacheng15/fem-rest-countries-api](https://github.com/victoriacheng15/fem-rest-countries-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
