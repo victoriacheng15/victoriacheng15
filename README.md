@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-2. 🎉 Merged PR [#17](https://github.com/victoriacheng15/links-me/pull/17) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-3. 💪 Opened PR [#17](https://github.com/victoriacheng15/links-me/pull/17) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-5. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rest-countries-api-ts/pull/7) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. ❗️ Opened issue [#5](https://github.com/labrocadabro/communitytaught/issues/5) in [labrocadabro/communitytaught](https://github.com/labrocadabro/communitytaught)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+3. 🎉 Merged PR [#17](https://github.com/victoriacheng15/links-me/pull/17) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+4. 💪 Opened PR [#17](https://github.com/victoriacheng15/links-me/pull/17) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
