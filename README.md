@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-2. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-4. 🎉 Merged PR [#8](https://github.com/victoriacheng15/rest-countries-api-ts/pull/8) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-5. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/rest-countries-api-ts/pull/9) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+3. 💪 Opened PR [#9](https://github.com/victoriacheng15/rest-countries-api-ts/pull/9) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+4. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+5. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
