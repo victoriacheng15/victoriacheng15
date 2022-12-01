@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 11 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-2. 💬 Commented on [#5](https://github.com/labrocadabro/communitytaught/issues/5#issuecomment-1331623909) in [labrocadabro/communitytaught](https://github.com/labrocadabro/communitytaught)
-3. ❗️ Opened issue [#5](https://github.com/labrocadabro/communitytaught/issues/5) in [labrocadabro/communitytaught](https://github.com/labrocadabro/communitytaught)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-5. 🎉 Merged PR [#17](https://github.com/victoriacheng15/links-me/pull/17) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+1. 💪 Opened PR [#8](https://github.com/victoriacheng15/rest-countries-api-ts/pull/8) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. ⬆️ Pushed 11 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+3. 💬 Commented on [#5](https://github.com/labrocadabro/communitytaught/issues/5#issuecomment-1331623909) in [labrocadabro/communitytaught](https://github.com/labrocadabro/communitytaught)
+4. ❗️ Opened issue [#5](https://github.com/labrocadabro/communitytaught/issues/5) in [labrocadabro/communitytaught](https://github.com/labrocadabro/communitytaught)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
