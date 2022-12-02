@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/advent-of-code/pull/1) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-4. 💪 Opened PR [#1](https://github.com/victoriacheng15/advent-of-code/pull/1) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+4. 🎉 Merged PR [#1](https://github.com/victoriacheng15/advent-of-code/pull/1) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+5. 💪 Opened PR [#1](https://github.com/victoriacheng15/advent-of-code/pull/1) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
