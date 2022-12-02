@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#102](https://github.com/victoriacheng15/website/pull/102) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#102](https://github.com/victoriacheng15/website/pull/102) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+2. 📔 Created new repository [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 🎉 Merged PR [#102](https://github.com/victoriacheng15/website/pull/102) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#102](https://github.com/victoriacheng15/website/pull/102) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
