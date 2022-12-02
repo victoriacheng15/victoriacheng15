@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/rest-countries-api-ts/pull/9) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-3. 💪 Opened PR [#9](https://github.com/victoriacheng15/rest-countries-api-ts/pull/9) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-4. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-5. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#102](https://github.com/victoriacheng15/website/pull/102) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#102](https://github.com/victoriacheng15/website/pull/102) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
