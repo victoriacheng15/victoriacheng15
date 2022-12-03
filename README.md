@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [victoriacheng15/url-shortener](https://github.com/victoriacheng15/url-shortener) from [WebDevSimplified/url-shortener](https://github.com/WebDevSimplified/url-shortener)
-2. ⭐ Starred [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. ⭐ Starred [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/advent-of-code/pull/3) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#103](https://github.com/victoriacheng15/website/pull/103) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#103](https://github.com/victoriacheng15/website/pull/103) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 🔱 Forked [victoriacheng15/url-shortener](https://github.com/victoriacheng15/url-shortener) from [WebDevSimplified/url-shortener](https://github.com/WebDevSimplified/url-shortener)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
