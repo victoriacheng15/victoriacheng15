@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#105](https://github.com/victoriacheng15/website/pull/105) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#105](https://github.com/victoriacheng15/website/pull/105) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/rest-countries-api-ts/pull/11) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. ⭐ Starred [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#105](https://github.com/victoriacheng15/website/pull/105) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 💪 Opened PR [#105](https://github.com/victoriacheng15/website/pull/105) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
