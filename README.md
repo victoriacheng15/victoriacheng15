@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/the-url-shortie/pull/1) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/the-url-shortie/pull/1) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-4. 📔 Created new repository [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/advent-of-code/pull/6) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/the-url-shortie/pull/3) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/the-url-shortie/pull/3) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. 🎉 Merged PR [#2](https://github.com/victoriacheng15/the-url-shortie/pull/2) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
