@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#105](https://github.com/victoriacheng15/website/pull/105) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#105](https://github.com/victoriacheng15/website/pull/105) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. 📔 Created new repository [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/advent-of-code/pull/6) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+4. 💪 Opened PR [#6](https://github.com/victoriacheng15/advent-of-code/pull/6) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+5. ⭐ Starred [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
