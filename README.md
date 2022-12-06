@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/advent-of-code/pull/6) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-4. 💪 Opened PR [#6](https://github.com/victoriacheng15/advent-of-code/pull/6) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-5. ⭐ Starred [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/the-url-shortie/pull/1) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/the-url-shortie/pull/1) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. 📔 Created new repository [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/advent-of-code/pull/6) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
