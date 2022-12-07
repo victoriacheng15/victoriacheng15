@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#107](https://github.com/victoriacheng15/website/pull/107) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#107](https://github.com/victoriacheng15/website/pull/107) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/advent-of-code/pull/7) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/advent-of-code/pull/7) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#520](https://github.com/codinasion/program/issues/520) in [codinasion/program](https://github.com/codinasion/program)
+5. 🎉 Merged PR [#107](https://github.com/victoriacheng15/website/pull/107) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
