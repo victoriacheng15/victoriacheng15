@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#108](https://github.com/victoriacheng15/website/pull/108) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#108](https://github.com/victoriacheng15/website/pull/108) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/my-hashnode-blogs](https://github.com/victoriacheng15/my-hashnode-blogs)
-5. 🎉 Merged PR [#8](https://github.com/victoriacheng15/advent-of-code/pull/8) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+2. 🎉 Merged PR [#25](https://github.com/victoriacheng15/ts-codewars/pull/25) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 🎉 Merged PR [#5](https://github.com/victoriacheng15/the-url-shortie/pull/5) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. 💪 Opened PR [#25](https://github.com/victoriacheng15/ts-codewars/pull/25) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
