@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-3. 🎉 Merged PR [#29](https://github.com/victoriacheng15/ts-codewars/pull/29) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-4. 💪 Opened PR [#29](https://github.com/victoriacheng15/ts-codewars/pull/29) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+1. ⭐ Starred [master-co/css](https://github.com/master-co/css)
+2. ⭐ Starred [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. 🎉 Merged PR [#29](https://github.com/victoriacheng15/ts-codewars/pull/29) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. 💪 Opened PR [#29](https://github.com/victoriacheng15/ts-codewars/pull/29) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
