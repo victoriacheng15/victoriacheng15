@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/victoriacheng15/rest-countries-api-ts/pull/12) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-3. 🎉 Merged PR [#30](https://github.com/victoriacheng15/ts-codewars/pull/30) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-4. 💪 Opened PR [#30](https://github.com/victoriacheng15/ts-codewars/pull/30) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+1. 🎉 Merged PR [#12](https://github.com/victoriacheng15/rest-countries-api-ts/pull/12) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+3. 💪 Opened PR [#12](https://github.com/victoriacheng15/rest-countries-api-ts/pull/12) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. 🎉 Merged PR [#30](https://github.com/victoriacheng15/ts-codewars/pull/30) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
