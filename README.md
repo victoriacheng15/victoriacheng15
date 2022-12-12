@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-2. ✔️ Closed issue [#5609](https://github.com/codinasion/program/issues/5609) in [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#5697](https://github.com/codinasion/program/pull/5697) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5697](https://github.com/codinasion/program/pull/5697#pullrequestreview-1214038502) in [codinasion/program](https://github.com/codinasion/program)
-5. 🎉 Merged PR [#12](https://github.com/victoriacheng15/rest-countries-api-ts/pull/12) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. 💬 Commented on [#5698](https://github.com/codinasion/program/pull/5698#issuecomment-1347108709) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+3. 🎉 Merged PR [#31](https://github.com/victoriacheng15/ts-codewars/pull/31) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+4. 💪 Opened PR [#31](https://github.com/victoriacheng15/ts-codewars/pull/31) in [victoriacheng15/ts-codewars](https://github.com/victoriacheng15/ts-codewars)
+5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
