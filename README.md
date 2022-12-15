@@ -57,11 +57,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [React Hooks - useState](https://victoriacheng15.vercel.app/blog/react-hooks-usestate)
- - 🌮 [Let&#39;s automate your workflows with GitHub Actions](https://victoriacheng15.vercel.app/blog/lets-automate-your-workflows-with-github-actions)
+ - 💯 [React Hooks useEffect](https://victoriacheng15.vercel.app/blog/react-hooks-useeffect)
+ - 🌮 [React Hooks - useState](https://victoriacheng15.vercel.app/blog/react-hooks-usestate)
+ - 💫 [Let&#39;s automate your workflows with GitHub Actions](https://victoriacheng15.vercel.app/blog/lets-automate-your-workflows-with-github-actions)
  - 💫 [React Pagination - Vanilla Edition](https://victoriacheng15.vercel.app/blog/react-pagination-vanilla-edition)
- - 💫 [What is hoisting in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-hoisting-in-javascript)
- - 🌮 [What have I learned about React Context API?](https://victoriacheng15.vercel.app/blog/what-have-i-learned-about-react-context-api)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [What is hoisting in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-hoisting-in-javascript)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
