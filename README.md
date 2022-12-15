@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-2. ✔️ Closed issue [#5357](https://github.com/codinasion/program/issues/5357) in [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#5710](https://github.com/codinasion/program/pull/5710) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5710](https://github.com/codinasion/program/pull/5710#pullrequestreview-1219551114) in [codinasion/program](https://github.com/codinasion/program)
-5. 🔱 Forked [victoriacheng15/oauth-playlist](https://github.com/victoriacheng15/oauth-playlist) from [iamshaunjp/oauth-playlist](https://github.com/iamshaunjp/oauth-playlist)
+1. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+2. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
+3. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+4. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#5357](https://github.com/codinasion/program/issues/5357) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
