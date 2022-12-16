@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1502](https://github.com/codinasion/program/issues/1502) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#5721](https://github.com/codinasion/program/pull/5721) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5721](https://github.com/codinasion/program/pull/5721#pullrequestreview-1220306603) in [codinasion/program](https://github.com/codinasion/program)
-5. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+1. ❗️ Opened issue [#115](https://github.com/victoriacheng15/website/issues/115) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ❗️ Opened issue [#114](https://github.com/victoriacheng15/website/issues/114) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ✔️ Closed issue [#88](https://github.com/victoriacheng15/website/issues/88) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ✔️ Closed issue [#87](https://github.com/victoriacheng15/website/issues/87) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ✔️ Closed issue [#85](https://github.com/victoriacheng15/website/issues/85) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
