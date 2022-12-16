@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-2. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
-3. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-4. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-5. ✔️ Closed issue [#5357](https://github.com/codinasion/program/issues/5357) in [codinasion/program](https://github.com/codinasion/program)
+1. ✔️ Closed issue [#1502](https://github.com/codinasion/program/issues/1502) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#5721](https://github.com/codinasion/program/pull/5721) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#5721](https://github.com/codinasion/program/pull/5721#pullrequestreview-1220306603) in [codinasion/program](https://github.com/codinasion/program)
+5. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
