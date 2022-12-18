@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5734](https://github.com/codinasion/program/pull/5734#issuecomment-1356720031) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 4 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-3. 💬 Commented on [#5734](https://github.com/codinasion/program/pull/5734#issuecomment-1356688318) in [codinasion/program](https://github.com/codinasion/program)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-5. 🎉 Merged PR [#8](https://github.com/victoriacheng15/books-tracker/pull/8) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+2. ✔️ Closed issue [#5264](https://github.com/codinasion/program/issues/5264) in [codinasion/program](https://github.com/codinasion/program)
+3. ✔️ Closed issue [#5351](https://github.com/codinasion/program/issues/5351) in [codinasion/program](https://github.com/codinasion/program)
+4. ✔️ Closed issue [#5437](https://github.com/codinasion/program/issues/5437) in [codinasion/program](https://github.com/codinasion/program)
+5. 🎉 Merged PR [#5740](https://github.com/codinasion/program/pull/5740) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
