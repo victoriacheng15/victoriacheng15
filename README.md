@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5734](https://github.com/codinasion/program/pull/5734#issuecomment-1356688318) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-3. 🎉 Merged PR [#8](https://github.com/victoriacheng15/books-tracker/pull/8) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-4. 💪 Opened PR [#8](https://github.com/victoriacheng15/books-tracker/pull/8) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-5. 💬 Commented on [#5734](https://github.com/codinasion/program/pull/5734#issuecomment-1356501317) in [codinasion/program](https://github.com/codinasion/program)
+1. 💬 Commented on [#5734](https://github.com/codinasion/program/pull/5734#issuecomment-1356720031) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 4 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+3. 💬 Commented on [#5734](https://github.com/codinasion/program/pull/5734#issuecomment-1356688318) in [codinasion/program](https://github.com/codinasion/program)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
+5. 🎉 Merged PR [#8](https://github.com/victoriacheng15/books-tracker/pull/8) in [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
