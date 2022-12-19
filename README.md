@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#90](https://github.com/victoriacheng15/website/issues/90) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ✔️ Closed issue [#89](https://github.com/victoriacheng15/website/issues/89) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 🎉 Merged PR [#121](https://github.com/victoriacheng15/website/pull/121) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 💪 Opened PR [#121](https://github.com/victoriacheng15/website/pull/121) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. 🎉 Merged PR [#13](https://github.com/victoriacheng15/rest-countries-api-ts/pull/13) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+3. 💪 Opened PR [#13](https://github.com/victoriacheng15/rest-countries-api-ts/pull/13) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+4. ✔️ Closed issue [#90](https://github.com/victoriacheng15/website/issues/90) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ✔️ Closed issue [#89](https://github.com/victoriacheng15/website/issues/89) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
