@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/rest-countries-api-ts/pull/13) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-4. 💪 Opened PR [#13](https://github.com/victoriacheng15/rest-countries-api-ts/pull/13) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-5. ✔️ Closed issue [#90](https://github.com/victoriacheng15/website/issues/90) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+2. 🎉 Merged PR [#19](https://github.com/victoriacheng15/links-me/pull/19) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+3. 💪 Opened PR [#19](https://github.com/victoriacheng15/links-me/pull/19) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+4. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
