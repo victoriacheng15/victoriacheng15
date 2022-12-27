@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-2. ✔️ Closed issue [#5179](https://github.com/codinasion/program/issues/5179) in [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#5779](https://github.com/codinasion/program/pull/5779) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5779](https://github.com/codinasion/program/pull/5779#pullrequestreview-1230161143) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#5780](https://github.com/codinasion/program/pull/5780#pullrequestreview-1230160743) in [codinasion/program](https://github.com/codinasion/program)
+1. 👍 Approved [#5785](https://github.com/codinasion/program/pull/5785#pullrequestreview-1230287660) in [codinasion/program](https://github.com/codinasion/program)
+2. ✔️ Closed issue [#5435](https://github.com/codinasion/program/issues/5435) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#5788](https://github.com/codinasion/program/pull/5788) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5788](https://github.com/codinasion/program/pull/5788#pullrequestreview-1230287475) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
