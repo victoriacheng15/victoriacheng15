@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. 📔 Created new repository [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. 🔱 Forked [victoriacheng15/nextjs-portfolio-starter](https://github.com/victoriacheng15/nextjs-portfolio-starter) from [vercel/nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter)
+2. 💪 Opened PR [#130](https://github.com/victoriacheng15/website/pull/130) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+4. 🎉 Merged PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+5. 💪 Opened PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
