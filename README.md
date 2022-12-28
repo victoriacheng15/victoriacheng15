@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [victoriacheng15/nextjs-portfolio-starter](https://github.com/victoriacheng15/nextjs-portfolio-starter) from [vercel/nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter)
-2. 💪 Opened PR [#130](https://github.com/victoriacheng15/website/pull/130) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. 🎉 Merged PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-5. 💪 Opened PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/the-url-shortie/pull/7) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/the-url-shortie/pull/7) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/the-url-shortie/pull/6) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
