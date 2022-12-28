@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-3. 🎉 Merged PR [#40](https://github.com/victoriacheng15/bubble-tea-api/pull/40) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. 💪 Opened PR [#40](https://github.com/victoriacheng15/bubble-tea-api/pull/40) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 👍 Approved [#5806](https://github.com/codinasion/program/pull/5806#pullrequestreview-1230900945) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/next-real-estate/pull/1) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+4. 📔 Created new repository [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
