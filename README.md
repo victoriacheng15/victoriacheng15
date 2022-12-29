@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#10](https://github.com/victoriacheng15/the-url-shortie/pull/10) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-3. 💪 Opened PR [#10](https://github.com/victoriacheng15/the-url-shortie/pull/10) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-5. 🎉 Merged PR [#9](https://github.com/victoriacheng15/the-url-shortie/pull/9) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+1. ⬆️ Pushed 25 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
+2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/the-url-shortie/pull/10) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. 💪 Opened PR [#10](https://github.com/victoriacheng15/the-url-shortie/pull/10) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
