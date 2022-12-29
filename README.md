@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5822](https://github.com/codinasion/program/pull/5822#pullrequestreview-1232655832) in [codinasion/program](https://github.com/codinasion/program)
-2. 👍 Approved [#5835](https://github.com/codinasion/program/pull/5835#pullrequestreview-1232655471) in [codinasion/program](https://github.com/codinasion/program)
-3. 💬 Commented on [#5811](https://github.com/codinasion/program/pull/5811#issuecomment-1367474734) in [codinasion/program](https://github.com/codinasion/program)
-4. ⬆️ Pushed 2 commit(s) to [hi-Kartik2004/program](https://github.com/hi-Kartik2004/program)
-5. ⬆️ Pushed 2 commit(s) to [hi-Kartik2004/program](https://github.com/hi-Kartik2004/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+2. 🎉 Merged PR [#98](https://github.com/victoriacheng15/js-codewars/pull/98) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+3. 💪 Opened PR [#98](https://github.com/victoriacheng15/js-codewars/pull/98) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
+4. 👍 Approved [#5822](https://github.com/codinasion/program/pull/5822#pullrequestreview-1232655832) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5835](https://github.com/codinasion/program/pull/5835#pullrequestreview-1232655471) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
