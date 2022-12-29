@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 25 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
-2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/the-url-shortie/pull/10) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-4. 💪 Opened PR [#10](https://github.com/victoriacheng15/the-url-shortie/pull/10) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+1. 👍 Approved [#5832](https://github.com/codinasion/program/pull/5832#pullrequestreview-1232650085) in [codinasion/program](https://github.com/codinasion/program)
+2. 👍 Approved [#5829](https://github.com/codinasion/program/pull/5829#pullrequestreview-1232648341) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. ✔️ Closed issue [#5171](https://github.com/codinasion/program/issues/5171) in [codinasion/program](https://github.com/codinasion/program)
+5. 🎉 Merged PR [#5828](https://github.com/codinasion/program/pull/5828) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
