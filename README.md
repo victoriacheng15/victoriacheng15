@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5832](https://github.com/codinasion/program/pull/5832#pullrequestreview-1232650085) in [codinasion/program](https://github.com/codinasion/program)
-2. 👍 Approved [#5829](https://github.com/codinasion/program/pull/5829#pullrequestreview-1232648341) in [codinasion/program](https://github.com/codinasion/program)
-3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-4. ✔️ Closed issue [#5171](https://github.com/codinasion/program/issues/5171) in [codinasion/program](https://github.com/codinasion/program)
-5. 🎉 Merged PR [#5828](https://github.com/codinasion/program/pull/5828) in [codinasion/program](https://github.com/codinasion/program)
+1. 👍 Approved [#5822](https://github.com/codinasion/program/pull/5822#pullrequestreview-1232655832) in [codinasion/program](https://github.com/codinasion/program)
+2. 👍 Approved [#5835](https://github.com/codinasion/program/pull/5835#pullrequestreview-1232655471) in [codinasion/program](https://github.com/codinasion/program)
+3. 💬 Commented on [#5811](https://github.com/codinasion/program/pull/5811#issuecomment-1367474734) in [codinasion/program](https://github.com/codinasion/program)
+4. ⬆️ Pushed 2 commit(s) to [hi-Kartik2004/program](https://github.com/hi-Kartik2004/program)
+5. ⬆️ Pushed 2 commit(s) to [hi-Kartik2004/program](https://github.com/hi-Kartik2004/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
