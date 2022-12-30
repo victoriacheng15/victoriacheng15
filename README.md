@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#340](https://github.com/FrancescoXX/free-Web3-resources/issues/340) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
-3. 🎉 Merged PR [#98](https://github.com/victoriacheng15/js-codewars/pull/98) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
-4. 💪 Opened PR [#98](https://github.com/victoriacheng15/js-codewars/pull/98) in [victoriacheng15/js-codewars](https://github.com/victoriacheng15/js-codewars)
-5. 👍 Approved [#5822](https://github.com/codinasion/program/pull/5822#pullrequestreview-1232655832) in [codinasion/program](https://github.com/codinasion/program)
+1. ✔️ Closed issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ❗️ Opened issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ✔️ Closed issue [#115](https://github.com/victoriacheng15/website/issues/115) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ✔️ Closed issue [#114](https://github.com/victoriacheng15/website/issues/114) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ✔️ Closed issue [#97](https://github.com/victoriacheng15/website/issues/97) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
