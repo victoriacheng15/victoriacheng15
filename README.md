@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ❗️ Opened issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ✔️ Closed issue [#115](https://github.com/victoriacheng15/website/issues/115) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ✔️ Closed issue [#114](https://github.com/victoriacheng15/website/issues/114) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#97](https://github.com/victoriacheng15/website/issues/97) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [a-merezhanyi/codewars](https://github.com/a-merezhanyi/codewars)
+2. ✔️ Closed issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ❗️ Opened issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ✔️ Closed issue [#115](https://github.com/victoriacheng15/website/issues/115) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ✔️ Closed issue [#114](https://github.com/victoriacheng15/website/issues/114) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
