@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5862](https://github.com/codinasion/program/pull/5862#pullrequestreview-1233370901) in [codinasion/program](https://github.com/codinasion/program)
-2. 👍 Approved [#5861](https://github.com/codinasion/program/pull/5861#pullrequestreview-1233370886) in [codinasion/program](https://github.com/codinasion/program)
-3. 👍 Approved [#5860](https://github.com/codinasion/program/pull/5860#pullrequestreview-1233370867) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5858](https://github.com/codinasion/program/pull/5858#pullrequestreview-1233370821) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#5857](https://github.com/codinasion/program/pull/5857#pullrequestreview-1233370792) in [codinasion/program](https://github.com/codinasion/program)
+1. 👍 Approved [#5872](https://github.com/codinasion/program/pull/5872#pullrequestreview-1233371784) in [codinasion/program](https://github.com/codinasion/program)
+2. 👍 Approved [#5867](https://github.com/codinasion/program/pull/5867#pullrequestreview-1233371770) in [codinasion/program](https://github.com/codinasion/program)
+3. 👍 Approved [#5852](https://github.com/codinasion/program/pull/5852#pullrequestreview-1233371766) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#5847](https://github.com/codinasion/program/pull/5847#pullrequestreview-1233371764) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5887](https://github.com/codinasion/program/pull/5887#pullrequestreview-1233371628) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
