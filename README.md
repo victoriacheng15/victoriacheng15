@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/next-real-estate/pull/2) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/next-real-estate/pull/2) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. ⭐ Starred [a-merezhanyi/codewars](https://github.com/a-merezhanyi/codewars)
-5. ✔️ Closed issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
+2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/next-real-estate/pull/2) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+4. 💪 Opened PR [#2](https://github.com/victoriacheng15/next-real-estate/pull/2) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+5. ⭐ Starred [a-merezhanyi/codewars](https://github.com/a-merezhanyi/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
