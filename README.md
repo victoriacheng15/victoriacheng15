@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
-2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/next-real-estate/pull/2) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. 💪 Opened PR [#2](https://github.com/victoriacheng15/next-real-estate/pull/2) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-5. ⭐ Starred [a-merezhanyi/codewars](https://github.com/a-merezhanyi/codewars)
+1. 👍 Approved [#5862](https://github.com/codinasion/program/pull/5862#pullrequestreview-1233370901) in [codinasion/program](https://github.com/codinasion/program)
+2. 👍 Approved [#5861](https://github.com/codinasion/program/pull/5861#pullrequestreview-1233370886) in [codinasion/program](https://github.com/codinasion/program)
+3. 👍 Approved [#5860](https://github.com/codinasion/program/pull/5860#pullrequestreview-1233370867) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#5858](https://github.com/codinasion/program/pull/5858#pullrequestreview-1233370821) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5857](https://github.com/codinasion/program/pull/5857#pullrequestreview-1233370792) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
