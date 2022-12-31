@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5872](https://github.com/codinasion/program/pull/5872#pullrequestreview-1233371784) in [codinasion/program](https://github.com/codinasion/program)
-2. 👍 Approved [#5867](https://github.com/codinasion/program/pull/5867#pullrequestreview-1233371770) in [codinasion/program](https://github.com/codinasion/program)
-3. 👍 Approved [#5852](https://github.com/codinasion/program/pull/5852#pullrequestreview-1233371766) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5847](https://github.com/codinasion/program/pull/5847#pullrequestreview-1233371764) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#5887](https://github.com/codinasion/program/pull/5887#pullrequestreview-1233371628) in [codinasion/program](https://github.com/codinasion/program)
+1. 💬 Commented on [#340](https://github.com/FrancescoXX/free-Web3-resources/issues/340#issuecomment-1368289709) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 👍 Approved [#5872](https://github.com/codinasion/program/pull/5872#pullrequestreview-1233371784) in [codinasion/program](https://github.com/codinasion/program)
+3. 👍 Approved [#5867](https://github.com/codinasion/program/pull/5867#pullrequestreview-1233371770) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#5852](https://github.com/codinasion/program/pull/5852#pullrequestreview-1233371766) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5847](https://github.com/codinasion/program/pull/5847#pullrequestreview-1233371764) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
