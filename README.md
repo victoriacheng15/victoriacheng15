@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/victoriacheng15/next-real-estate/pull/4) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. 🎉 Merged PR [#3](https://github.com/victoriacheng15/next-real-estate/pull/3) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. 💪 Opened PR [#3](https://github.com/victoriacheng15/next-real-estate/pull/3) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-5. 💬 Commented on [#340](https://github.com/FrancescoXX/free-Web3-resources/issues/340#issuecomment-1368289709) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/next-real-estate/pull/4) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+3. 💪 Opened PR [#4](https://github.com/victoriacheng15/next-real-estate/pull/4) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/next-real-estate/pull/3) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
