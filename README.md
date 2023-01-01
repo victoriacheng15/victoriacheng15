@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#342](https://github.com/FrancescoXX/free-Web3-resources/pull/342) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🔱 Forked [victoriacheng15/free-Web3-resources](https://github.com/victoriacheng15/free-Web3-resources) from [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 👍 Approved [#5907](https://github.com/codinasion/program/pull/5907#pullrequestreview-1233451343) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#5897](https://github.com/codinasion/program/pull/5897#pullrequestreview-1233451310) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#5896](https://github.com/codinasion/program/pull/5896#pullrequestreview-1233451286) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 3 commit(s) to [victoriacheng15/free-Web3-resources](https://github.com/victoriacheng15/free-Web3-resources)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. ✔️ Closed issue [#4938](https://github.com/codinasion/program/issues/4938) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#5887](https://github.com/codinasion/program/pull/5887) in [codinasion/program](https://github.com/codinasion/program)
+5. 💪 Opened PR [#342](https://github.com/FrancescoXX/free-Web3-resources/pull/342) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
