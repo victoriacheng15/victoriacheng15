@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui)
-2. 💪 Opened PR [#6](https://github.com/victoriacheng15/next-real-estate/pull/6) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. 🎉 Merged PR [#5](https://github.com/victoriacheng15/next-real-estate/pull/5) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-5. 💪 Opened PR [#5](https://github.com/victoriacheng15/next-real-estate/pull/5) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+1. ✔️ Closed issue [#3955](https://github.com/codinasion/program/issues/3955) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#5919](https://github.com/codinasion/program/pull/5919) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#5919](https://github.com/codinasion/program/pull/5919#pullrequestreview-1233914714) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5917](https://github.com/codinasion/program/pull/5917#pullrequestreview-1233914554) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
