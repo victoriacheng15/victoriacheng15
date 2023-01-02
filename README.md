@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/victoriacheng15/next-real-estate/pull/6) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. 🎉 Merged PR [#5](https://github.com/victoriacheng15/next-real-estate/pull/5) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. 💪 Opened PR [#5](https://github.com/victoriacheng15/next-real-estate/pull/5) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-5. ⬆️ Pushed 3 commit(s) to [victoriacheng15/free-Web3-resources](https://github.com/victoriacheng15/free-Web3-resources)
+1. ⭐ Starred [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui)
+2. 💪 Opened PR [#6](https://github.com/victoriacheng15/next-real-estate/pull/6) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+4. 🎉 Merged PR [#5](https://github.com/victoriacheng15/next-real-estate/pull/5) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+5. 💪 Opened PR [#5](https://github.com/victoriacheng15/next-real-estate/pull/5) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
