@@ -71,10 +71,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. ⭐ Starred [garrett-huggins/next13-blog-starter](https://github.com/garrett-huggins/next13-blog-starter)
-3. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
-4. ✔️ Closed issue [#5452](https://github.com/codinasion/program/issues/5452) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#5907](https://github.com/codinasion/program/pull/5907) in [codinasion/program](https://github.com/codinasion/program)
+2. ✔️ Closed issue [#5111](https://github.com/codinasion/program/issues/5111) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. ✔️ Closed issue [#4489](https://github.com/codinasion/program/issues/4489) in [codinasion/program](https://github.com/codinasion/program)
 5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
