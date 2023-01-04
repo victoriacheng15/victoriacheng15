@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/the-url-shortie/pull/11) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-3. 💪 Opened PR [#11](https://github.com/victoriacheng15/the-url-shortie/pull/11) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-4. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
-5. ✔️ Closed issue [#5124](https://github.com/codinasion/program/issues/5124) in [codinasion/program](https://github.com/codinasion/program)
+1. 💪 Opened PR [#133](https://github.com/victoriacheng15/website/pull/133) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+3. 🎉 Merged PR [#11](https://github.com/victoriacheng15/the-url-shortie/pull/11) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. 💪 Opened PR [#11](https://github.com/victoriacheng15/the-url-shortie/pull/11) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
