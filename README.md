@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#133](https://github.com/victoriacheng15/website/pull/133) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ⭐ Starred [btholt/complete-intro-to-react-v6](https://github.com/btholt/complete-intro-to-react-v6)
-4. 💪 Opened PR [#133](https://github.com/victoriacheng15/website/pull/133) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+2. 🎉 Merged PR [#134](https://github.com/victoriacheng15/website/pull/134) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#134](https://github.com/victoriacheng15/website/pull/134) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⭐ Starred [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
