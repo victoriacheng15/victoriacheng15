@@ -72,10 +72,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#135](https://github.com/victoriacheng15/website/pull/135) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#135](https://github.com/victoriacheng15/website/pull/135) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⭐ Starred [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
