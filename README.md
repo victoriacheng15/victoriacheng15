@@ -57,11 +57,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [The Wrapped Journal for 2022](https://victoriacheng15.vercel.app/blog/the-wrapped-journal-for-2022)
- - 🌮 [React Hooks - useReducer](https://victoriacheng15.vercel.app/blog/react-hooks-usereducer)
+ - 💯 [React Hooks - useContext](https://victoriacheng15.vercel.app/blog/react-hooks-usecontext)
+ - 🌮 [The Wrapped Journal for 2022](https://victoriacheng15.vercel.app/blog/the-wrapped-journal-for-2022)
+ - 💫 [React Hooks - useReducer](https://victoriacheng15.vercel.app/blog/react-hooks-usereducer)
  - 💫 [React Hooks - useEffect](https://victoriacheng15.vercel.app/blog/react-hooks-useeffect)
- - 💫 [React Hooks - useState](https://victoriacheng15.vercel.app/blog/react-hooks-usestate)
- - 🌮 [Let&#39;s automate your workflows with GitHub Actions](https://victoriacheng15.vercel.app/blog/lets-automate-your-workflows-with-github-actions)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [React Hooks - useState](https://victoriacheng15.vercel.app/blog/react-hooks-usestate)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
