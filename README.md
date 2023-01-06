@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jsjoeio/react-ts-vitest-template](https://github.com/jsjoeio/react-ts-vitest-template)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/the-url-shortie/pull/13) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-4. 💪 Opened PR [#13](https://github.com/victoriacheng15/the-url-shortie/pull/13) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+1. ⭐ Starred [supabase-community/database.dev](https://github.com/supabase-community/database.dev)
+2. ⭐ Starred [jsjoeio/react-ts-vitest-template](https://github.com/jsjoeio/react-ts-vitest-template)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+4. 🎉 Merged PR [#13](https://github.com/victoriacheng15/the-url-shortie/pull/13) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
+5. 💪 Opened PR [#13](https://github.com/victoriacheng15/the-url-shortie/pull/13) in [victoriacheng15/the-url-shortie](https://github.com/victoriacheng15/the-url-shortie)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
