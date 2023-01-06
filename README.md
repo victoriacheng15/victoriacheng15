@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#35](https://github.com/fharper/coffeechat/issues/35#issuecomment-1373848670) in [fharper/coffeechat](https://github.com/fharper/coffeechat)
-2. ❗️ Opened issue [#35](https://github.com/fharper/coffeechat/issues/35) in [fharper/coffeechat](https://github.com/fharper/coffeechat)
-3. ⭐ Starred [fharper/coffeechat](https://github.com/fharper/coffeechat)
-4. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
-5. ⭐ Starred [gothinkster/realworld](https://github.com/gothinkster/realworld)
+1. 👍 Approved [#5953](https://github.com/codinasion/program/pull/5953#pullrequestreview-1239370362) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. ✔️ Closed issue [#5393](https://github.com/codinasion/program/issues/5393) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#5857](https://github.com/codinasion/program/pull/5857) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#5857](https://github.com/codinasion/program/pull/5857#pullrequestreview-1239362458) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
