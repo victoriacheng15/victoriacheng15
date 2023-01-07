@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#42](https://github.com/curtisbarnard/BANKI/issues/42) in [curtisbarnard/BANKI](https://github.com/curtisbarnard/BANKI)
-2. 💬 Commented on [#8522](https://github.com/facebook/docusaurus/issues/8522#issuecomment-1374588405) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-3. ⭐ Starred [GraphQLCollege/fullstack-graphql](https://github.com/GraphQLCollege/fullstack-graphql)
-4. ⭐ Starred [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-5. ⭐ Starred [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#140](https://github.com/victoriacheng15/website/pull/140) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#140](https://github.com/victoriacheng15/website/pull/140) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 🎉 Merged PR [#139](https://github.com/victoriacheng15/website/pull/139) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
