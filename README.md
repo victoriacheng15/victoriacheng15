@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GraphQLCollege/fullstack-graphql](https://github.com/GraphQLCollege/fullstack-graphql)
-2. ⭐ Starred [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-3. ⭐ Starred [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy)
-4. ⭐ Starred [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
-5. ❗️ Opened issue [#8522](https://github.com/facebook/docusaurus/issues/8522) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+1. 💬 Commented on [#8522](https://github.com/facebook/docusaurus/issues/8522#issuecomment-1374588405) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. ⭐ Starred [GraphQLCollege/fullstack-graphql](https://github.com/GraphQLCollege/fullstack-graphql)
+3. ⭐ Starred [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+4. ⭐ Starred [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy)
+5. ⭐ Starred [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
