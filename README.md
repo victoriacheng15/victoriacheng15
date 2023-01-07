@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
-2. ❗️ Opened issue [#8522](https://github.com/facebook/docusaurus/issues/8522) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-3. ✔️ Closed issue [#78](https://github.com/victoriacheng15/website/issues/78) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 🎉 Merged PR [#138](https://github.com/victoriacheng15/website/pull/138) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#77](https://github.com/victoriacheng15/website/issues/77) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+2. ⭐ Starred [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy)
+3. ⭐ Starred [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+4. ❗️ Opened issue [#8522](https://github.com/facebook/docusaurus/issues/8522) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+5. ✔️ Closed issue [#78](https://github.com/victoriacheng15/website/issues/78) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
