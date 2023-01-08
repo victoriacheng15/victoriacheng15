@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#142](https://github.com/victoriacheng15/website/pull/142) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#144](https://github.com/victoriacheng15/website/pull/144) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 💪 Opened PR [#143](https://github.com/victoriacheng15/website/pull/143) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#144](https://github.com/victoriacheng15/website/pull/144) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 🎉 Merged PR [#143](https://github.com/victoriacheng15/website/pull/143) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⭐ Starred [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
