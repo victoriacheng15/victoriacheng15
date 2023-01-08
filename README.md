@@ -71,10 +71,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#145](https://github.com/victoriacheng15/website/pull/145) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⭐ Starred [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 🎉 Merged PR [#144](https://github.com/victoriacheng15/website/pull/144) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#145](https://github.com/victoriacheng15/website/pull/145) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#145](https://github.com/victoriacheng15/website/pull/145) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⭐ Starred [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
