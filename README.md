@@ -71,11 +71,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-2. 🎉 Merged PR [#15](https://github.com/victoriacheng15/rest-countries-api-ts/pull/15) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-3. 💪 Opened PR [#15](https://github.com/victoriacheng15/rest-countries-api-ts/pull/15) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-5. 🎉 Merged PR [#14](https://github.com/victoriacheng15/rest-countries-api-ts/pull/14) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. ❗️ Opened issue [#159](https://github.com/victoriacheng15/website/issues/159) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ❗️ Opened issue [#158](https://github.com/victoriacheng15/website/issues/158) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ❗️ Opened issue [#160](https://github.com/victoriacheng15/website/issues/160) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ❗️ Opened issue [#157](https://github.com/victoriacheng15/website/issues/157) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
