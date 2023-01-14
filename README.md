@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/victoriacheng15/next-real-estate/pull/7) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-3. 💪 Opened PR [#7](https://github.com/victoriacheng15/next-real-estate/pull/7) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-5. 👍 Approved [#6015](https://github.com/codinasion/program/pull/6015#pullrequestreview-1248376348) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#1](https://github.com/victoriacheng15/hacker-news-next/pull/1) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/hacker-news-next/pull/1) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 📔 Created new repository [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. 🎉 Merged PR [#7](https://github.com/victoriacheng15/next-real-estate/pull/7) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
