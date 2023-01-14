@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/victoriacheng15/hacker-news-next/pull/1) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/hacker-news-next/pull/1) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. 📔 Created new repository [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 🎉 Merged PR [#7](https://github.com/victoriacheng15/next-real-estate/pull/7) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+1. ❗️ Opened issue [#7](https://github.com/victoriacheng15/hacker-news-next/issues/7) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ❗️ Opened issue [#6](https://github.com/victoriacheng15/hacker-news-next/issues/6) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ❗️ Opened issue [#5](https://github.com/victoriacheng15/hacker-news-next/issues/5) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. ❗️ Opened issue [#4](https://github.com/victoriacheng15/hacker-news-next/issues/4) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ❗️ Opened issue [#3](https://github.com/victoriacheng15/hacker-news-next/issues/3) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
