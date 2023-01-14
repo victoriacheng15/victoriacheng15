@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-2. 👍 Approved [#6015](https://github.com/codinasion/program/pull/6015#pullrequestreview-1248376348) in [codinasion/program](https://github.com/codinasion/program)
-3. ✔️ Closed issue [#132](https://github.com/victoriacheng15/website/issues/132) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ❗️ Opened issue [#171](https://github.com/victoriacheng15/website/issues/171) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ❗️ Opened issue [#170](https://github.com/victoriacheng15/website/issues/170) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. 🎉 Merged PR [#7](https://github.com/victoriacheng15/next-real-estate/pull/7) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/next-real-estate/pull/7) in [victoriacheng15/next-real-estate](https://github.com/victoriacheng15/next-real-estate)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+5. 👍 Approved [#6015](https://github.com/codinasion/program/pull/6015#pullrequestreview-1248376348) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
