@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6021](https://github.com/codinasion/program/pull/6021#pullrequestreview-1249354946) in [codinasion/program](https://github.com/codinasion/program)
-2. 💬 Commented on [#10](https://github.com/codinasion/codinasion/pull/10#discussion_r1070685163) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-3. ❗️ Opened issue [#13](https://github.com/victoriacheng15/hacker-news-next/issues/13) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. ❗️ Opened issue [#12](https://github.com/victoriacheng15/hacker-news-next/issues/12) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. ❗️ Opened issue [#11](https://github.com/victoriacheng15/hacker-news-next/issues/11) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. 🎉 Merged PR [#172](https://github.com/victoriacheng15/website/pull/172) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#172](https://github.com/victoriacheng15/website/pull/172) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 👍 Approved [#6021](https://github.com/codinasion/program/pull/6021#pullrequestreview-1249354946) in [codinasion/program](https://github.com/codinasion/program)
+5. 💬 Commented on [#10](https://github.com/codinasion/codinasion/pull/10#discussion_r1070685163) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
