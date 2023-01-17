@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 💪 Opened PR [#18](https://github.com/victoriacheng15/hacker-news-next/pull/18) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⭐ Starred [FrancescoXX/rust-crash-course](https://github.com/FrancescoXX/rust-crash-course)
-4. ✔️ Closed issue [#14](https://github.com/victoriacheng15/hacker-news-next/issues/14) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ✔️ Closed issue [#8](https://github.com/victoriacheng15/hacker-news-next/issues/8) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 🎉 Merged PR [#18](https://github.com/victoriacheng15/hacker-news-next/pull/18) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. 💪 Opened PR [#18](https://github.com/victoriacheng15/hacker-news-next/pull/18) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
