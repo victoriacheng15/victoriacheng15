@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-2. ❗️ Opened issue [#183](https://github.com/victoriacheng15/website/issues/183) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ❗️ Opened issue [#181](https://github.com/victoriacheng15/website/issues/181) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ❗️ Opened issue [#180](https://github.com/victoriacheng15/website/issues/180) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ❗️ Opened issue [#182](https://github.com/victoriacheng15/website/issues/182) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [khanhtranngoccva/WebDevIllustrated](https://github.com/khanhtranngoccva/WebDevIllustrated)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. ❗️ Opened issue [#183](https://github.com/victoriacheng15/website/issues/183) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ❗️ Opened issue [#181](https://github.com/victoriacheng15/website/issues/181) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ❗️ Opened issue [#180](https://github.com/victoriacheng15/website/issues/180) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
