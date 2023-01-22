@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#196](https://github.com/victoriacheng15/website/issues/196) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ❗️ Opened issue [#195](https://github.com/victoriacheng15/website/issues/195) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ❗️ Opened issue [#194](https://github.com/victoriacheng15/website/issues/194) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ❗️ Opened issue [#193](https://github.com/victoriacheng15/website/issues/193) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ❗️ Opened issue [#192](https://github.com/victoriacheng15/website/issues/192) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ❗️ Opened issue [#201](https://github.com/victoriacheng15/website/issues/201) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ❗️ Opened issue [#200](https://github.com/victoriacheng15/website/issues/200) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ❗️ Opened issue [#199](https://github.com/victoriacheng15/website/issues/199) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ❗️ Opened issue [#198](https://github.com/victoriacheng15/website/issues/198) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ❗️ Opened issue [#197](https://github.com/victoriacheng15/website/issues/197) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
