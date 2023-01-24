@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#25](https://github.com/victoriacheng15/hacker-news-next/pull/25) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. 💪 Opened PR [#25](https://github.com/victoriacheng15/hacker-news-next/pull/25) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#27](https://github.com/victoriacheng15/codewars/pull/27) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 🎉 Merged PR [#28](https://github.com/victoriacheng15/codewars/pull/28) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 💪 Opened PR [#28](https://github.com/victoriacheng15/codewars/pull/28) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#25](https://github.com/victoriacheng15/hacker-news-next/pull/25) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
