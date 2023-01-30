@@ -72,10 +72,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#34](https://github.com/victoriacheng15/codewars/pull/34) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. 🎉 Merged PR [#35](https://github.com/victoriacheng15/codewars/pull/35) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#34](https://github.com/victoriacheng15/codewars/pull/34) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⭐ Starred [flashohq/open-source-nodejs-courses](https://github.com/flashohq/open-source-nodejs-courses)
+3. 💪 Opened PR [#35](https://github.com/victoriacheng15/codewars/pull/35) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#34](https://github.com/victoriacheng15/codewars/pull/34) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
