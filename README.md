@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems)
-2. 🎉 Merged PR [#36](https://github.com/victoriacheng15/codewars/pull/36) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 💪 Opened PR [#36](https://github.com/victoriacheng15/codewars/pull/36) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⭐ Starred [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator)
+2. ✔️ Closed issue [#5104](https://github.com/codinasion/program/issues/5104) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#6152](https://github.com/codinasion/program/pull/6152) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#6152](https://github.com/codinasion/program/pull/6152#pullrequestreview-1278437608) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
