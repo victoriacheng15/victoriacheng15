@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator)
-2. ✔️ Closed issue [#5104](https://github.com/codinasion/program/issues/5104) in [codinasion/program](https://github.com/codinasion/program)
-3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#6152](https://github.com/codinasion/program/pull/6152) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#6152](https://github.com/codinasion/program/pull/6152#pullrequestreview-1278437608) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 💪 Opened PR [#244](https://github.com/victoriacheng15/website/pull/244) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ❗️ Opened issue [#243](https://github.com/victoriacheng15/website/issues/243) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⭐ Starred [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator)
+5. ✔️ Closed issue [#5104](https://github.com/codinasion/program/issues/5104) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
