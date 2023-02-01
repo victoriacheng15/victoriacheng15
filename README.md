@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 💪 Opened PR [#244](https://github.com/victoriacheng15/website/pull/244) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ❗️ Opened issue [#243](https://github.com/victoriacheng15/website/issues/243) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⭐ Starred [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator)
-5. ✔️ Closed issue [#5104](https://github.com/codinasion/program/issues/5104) in [codinasion/program](https://github.com/codinasion/program)
+1. ✔️ Closed issue [#243](https://github.com/victoriacheng15/website/issues/243) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#244](https://github.com/victoriacheng15/website/pull/244) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
