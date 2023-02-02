@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
-2. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-3. ⭐ Starred [gracco/sysadmin-interview-questions](https://github.com/gracco/sysadmin-interview-questions)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#37](https://github.com/victoriacheng15/codewars/pull/37) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#38](https://github.com/victoriacheng15/codewars/pull/38) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#38](https://github.com/victoriacheng15/codewars/pull/38) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⭐ Starred [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+5. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
