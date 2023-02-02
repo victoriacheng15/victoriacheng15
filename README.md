@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#38](https://github.com/victoriacheng15/codewars/pull/38) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#38](https://github.com/victoriacheng15/codewars/pull/38) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⭐ Starred [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
-5. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+2. ✔️ Closed issue [#354](https://github.com/codinasion/program/issues/354) in [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#6164](https://github.com/codinasion/program/pull/6164) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#6164](https://github.com/codinasion/program/pull/6164#pullrequestreview-1281857581) in [codinasion/program](https://github.com/codinasion/program)
+5. ❗️ Opened issue [#248](https://github.com/victoriacheng15/website/issues/248) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
