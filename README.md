@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 🎉 Merged PR [#31](https://github.com/victoriacheng15/hacker-news-next/pull/31) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. 💪 Opened PR [#31](https://github.com/victoriacheng15/hacker-news-next/pull/31) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-5. ✔️ Closed issue [#354](https://github.com/codinasion/program/issues/354) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#251](https://github.com/victoriacheng15/website/pull/251) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ✔️ Closed issue [#192](https://github.com/victoriacheng15/website/issues/192) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ✔️ Closed issue [#193](https://github.com/victoriacheng15/website/issues/193) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#251](https://github.com/victoriacheng15/website/pull/251) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
