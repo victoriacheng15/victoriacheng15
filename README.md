@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/cypress-qa-tests/pull/1) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-4. 💪 Opened PR [#1](https://github.com/victoriacheng15/cypress-qa-tests/pull/1) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-5. 📔 Created new repository [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#43](https://github.com/victoriacheng15/codewars/pull/43) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#43](https://github.com/victoriacheng15/codewars/pull/43) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#42](https://github.com/victoriacheng15/codewars/pull/42) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
