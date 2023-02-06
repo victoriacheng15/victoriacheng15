@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-2. ❗️ Opened issue [#259](https://github.com/victoriacheng15/website/issues/259) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. ❗️ Opened issue [#257](https://github.com/victoriacheng15/website/issues/257) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ❗️ Opened issue [#258](https://github.com/victoriacheng15/website/issues/258) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ❗️ Opened issue [#255](https://github.com/victoriacheng15/website/issues/255) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/cypress-qa-tests/pull/1) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+4. 💪 Opened PR [#1](https://github.com/victoriacheng15/cypress-qa-tests/pull/1) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+5. 📔 Created new repository [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
