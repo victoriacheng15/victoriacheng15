@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. 🎉 Merged PR [#32](https://github.com/victoriacheng15/hacker-news-next/pull/32) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 💪 Opened PR [#32](https://github.com/victoriacheng15/hacker-news-next/pull/32) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. 💪 Opened PR [#44](https://github.com/victoriacheng15/codewars/pull/44) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#44](https://github.com/victoriacheng15/codewars/pull/44) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
