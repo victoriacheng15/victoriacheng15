@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cypress-qa-tests/pull/3) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cypress-qa-tests/pull/3) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cypress-qa-tests/pull/2) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+1. ✔️ Closed issue [#148](https://github.com/victoriacheng15/website/issues/148) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#261](https://github.com/victoriacheng15/website/pull/261) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 💪 Opened PR [#261](https://github.com/victoriacheng15/website/pull/261) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ✔️ Closed issue [#195](https://github.com/victoriacheng15/website/issues/195) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
