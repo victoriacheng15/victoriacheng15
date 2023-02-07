@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cypress-qa-tests/pull/2) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/cypress-qa-tests/pull/2) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
-4. 💪 Opened PR [#44](https://github.com/victoriacheng15/codewars/pull/44) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#44](https://github.com/victoriacheng15/codewars/pull/44) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cypress-qa-tests/pull/3) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cypress-qa-tests/pull/3) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cypress-qa-tests/pull/2) in [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
