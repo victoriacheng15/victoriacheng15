@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#45](https://github.com/victoriacheng15/codewars/pull/45) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#45](https://github.com/victoriacheng15/codewars/pull/45) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⭐ Starred [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
-5. ⭐ Starred [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+1. ✔️ Closed issue [#262](https://github.com/victoriacheng15/website/issues/262) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 🎉 Merged PR [#263](https://github.com/victoriacheng15/website/pull/263) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#263](https://github.com/victoriacheng15/website/pull/263) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
