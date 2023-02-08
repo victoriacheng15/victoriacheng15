@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#148](https://github.com/victoriacheng15/website/issues/148) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#261](https://github.com/victoriacheng15/website/pull/261) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#261](https://github.com/victoriacheng15/website/pull/261) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#195](https://github.com/victoriacheng15/website/issues/195) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⭐ Starred [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+2. ⭐ Starred [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+3. ⭐ Starred [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo)
+4. ⭐ Starred [andkret/Cookbook](https://github.com/andkret/Cookbook)
+5. ⭐ Starred [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
