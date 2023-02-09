@@ -58,11 +58,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [What is StructuredClone in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-structuredclone-in-javascript)
- - 🌮 [January Reflection 2023](https://victoriacheng15.vercel.app/blog/january-reflection-2023)
+ - 💯 [Let&#39;s Discover the JavaScript Map Keyed Collection](https://victoriacheng15.vercel.app/blog/lets-discover-the-javascript-map-keyed-collection)
+ - 🌮 [What is StructuredClone in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-structuredclone-in-javascript)
+ - 💫 [January Reflection 2023](https://victoriacheng15.vercel.app/blog/january-reflection-2023)
  - 💫 [React Hooks - useCallback](https://victoriacheng15.vercel.app/blog/react-hooks-usecallback)
- - 💫 [React Hooks - useMemo](https://victoriacheng15.vercel.app/blog/react-hooks-useMemo)
- - 🌮 [React Hooks - useContext](https://victoriacheng15.vercel.app/blog/react-hooks-usecontext)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [React Hooks - useMemo](https://victoriacheng15.vercel.app/blog/react-hooks-useMemo)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
