@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
-2. ⭐ Starred [saucelabs/the-internet](https://github.com/saucelabs/the-internet)
-3. ✔️ Closed issue [#262](https://github.com/victoriacheng15/website/issues/262) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. 🎉 Merged PR [#263](https://github.com/victoriacheng15/website/pull/263) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 🎉 Merged PR [#46](https://github.com/victoriacheng15/codewars/pull/46) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 💪 Opened PR [#46](https://github.com/victoriacheng15/codewars/pull/46) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. ⭐ Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
