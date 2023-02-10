@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#47](https://github.com/victoriacheng15/codewars/pull/47) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#47](https://github.com/victoriacheng15/codewars/pull/47) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 📔 Created new repository [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
-5. ⬆️ Pushed 1 commit(s) to [profydev/github-minesweeper-victoriacheng15](https://github.com/profydev/github-minesweeper-victoriacheng15)
+1. ❗️ Opened issue [#267](https://github.com/victoriacheng15/website/issues/267) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ❗️ Opened issue [#264](https://github.com/victoriacheng15/website/issues/264) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. ❗️ Opened issue [#268](https://github.com/victoriacheng15/website/issues/268) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ❗️ Opened issue [#269](https://github.com/victoriacheng15/website/issues/269) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. ❗️ Opened issue [#265](https://github.com/victoriacheng15/website/issues/265) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
