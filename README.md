@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
-2. ⬆️ Pushed 1 commit(s) to [profydev/github-minesweeper-victoriacheng15](https://github.com/profydev/github-minesweeper-victoriacheng15)
-3. 🎉 Merged PR [#4](https://github.com/profydev/github-minesweeper-victoriacheng15/pull/4) in [profydev/github-minesweeper-victoriacheng15](https://github.com/profydev/github-minesweeper-victoriacheng15)
-4. 👍 Approved [#4](https://github.com/profydev/github-minesweeper-victoriacheng15/pull/4#pullrequestreview-1293442309) in [profydev/github-minesweeper-victoriacheng15](https://github.com/profydev/github-minesweeper-victoriacheng15)
-5. 👍 Approved [#4](https://github.com/profydev/github-minesweeper-victoriacheng15/pull/4#pullrequestreview-1293442309) in [profydev/github-minesweeper-victoriacheng15](https://github.com/profydev/github-minesweeper-victoriacheng15)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#47](https://github.com/victoriacheng15/codewars/pull/47) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#47](https://github.com/victoriacheng15/codewars/pull/47) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 📔 Created new repository [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
+5. ⬆️ Pushed 1 commit(s) to [profydev/github-minesweeper-victoriacheng15](https://github.com/profydev/github-minesweeper-victoriacheng15)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
