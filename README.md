@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#49](https://github.com/victoriacheng15/codewars/pull/49) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#49](https://github.com/victoriacheng15/codewars/pull/49) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 9 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cypress-qa-tests](https://github.com/victoriacheng15/cypress-qa-tests)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#50](https://github.com/victoriacheng15/codewars/pull/50) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#50](https://github.com/victoriacheng15/codewars/pull/50) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#49](https://github.com/victoriacheng15/codewars/pull/49) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
