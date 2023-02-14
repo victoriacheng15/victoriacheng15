@@ -72,11 +72,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 🎉 Merged PR [#37](https://github.com/victoriacheng15/hacker-news-next/pull/37) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. 💪 Opened PR [#37](https://github.com/victoriacheng15/hacker-news-next/pull/37) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 🎉 Merged PR [#36](https://github.com/victoriacheng15/hacker-news-next/pull/36) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. 💪 Opened PR [#16](https://github.com/victoriacheng15/rest-countries-api-ts/pull/16) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. 💪 Opened PR [#39](https://github.com/victoriacheng15/hacker-news-next/pull/39) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 🎉 Merged PR [#38](https://github.com/victoriacheng15/hacker-news-next/pull/38) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. 💪 Opened PR [#38](https://github.com/victoriacheng15/hacker-news-next/pull/38) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
