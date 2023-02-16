@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/fcc-random-quote-machine/pull/1) in [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/fcc-random-quote-machine/pull/1) in [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-5. ⬆️ Pushed 4 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/hacker-news-next/pull/42) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 🎉 Merged PR [#41](https://github.com/victoriacheng15/hacker-news-next/pull/41) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ✔️ Closed issue [#3969](https://github.com/codinasion/program/issues/3969) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
