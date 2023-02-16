@@ -63,10 +63,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-2. ⬆️ Pushed 4 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-4. 📔 Created new repository [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
-5. 💪 Opened PR [#42](https://github.com/victoriacheng15/hacker-news-next/pull/42) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/fcc-random-quote-machine/pull/1) in [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/fcc-random-quote-machine/pull/1) in [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+5. ⬆️ Pushed 4 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
