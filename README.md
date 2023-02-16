@@ -19,15 +19,14 @@
 ![Reux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white) ![cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white) ![nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-<!-- ## 🏫 I am planning to learning -->
-
 ## My Projects
 
 <div align="center">
 
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=bubble-tea-api&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' height="140" width="375" />](https://github.com/victoriacheng15/bubble-tea-api#readme)  
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=rest-countries-api-ts&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' height="140" width="375" />](https://github.com/victoriacheng15/rest-countries-api-ts#readme)  
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=fem-space-tourism&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' height="140" width="375" />](https://github.com/victoriacheng15/fem-space-tourism#readme) 
+[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=bubble-tea-api&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/bubble-tea-api#readme)  
+[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=rest-countries-api-ts&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/rest-countries-api-ts#readme)  
+[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=fem-space-tourism&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/fem-space-tourism#readme) 
+[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=hacker-news-next&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/hacker-news-next#readme) 
   
 </div>
 
