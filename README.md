@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#42](https://github.com/victoriacheng15/hacker-news-next/pull/42) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 💪 Opened PR [#41](https://github.com/victoriacheng15/hacker-news-next/pull/41) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. 🎉 Merged PR [#42](https://github.com/victoriacheng15/bubble-tea-api/pull/42) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 💪 Opened PR [#42](https://github.com/victoriacheng15/bubble-tea-api/pull/42) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+2. ⬆️ Pushed 4 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+4. 📔 Created new repository [victoriacheng15/fcc-random-quote-machine](https://github.com/victoriacheng15/fcc-random-quote-machine)
+5. 💪 Opened PR [#42](https://github.com/victoriacheng15/hacker-news-next/pull/42) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
