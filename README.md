@@ -62,10 +62,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. 🎉 Merged PR [#276](https://github.com/victoriacheng15/website/pull/276) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 💪 Opened PR [#276](https://github.com/victoriacheng15/website/pull/276) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. ✔️ Closed issue [#201](https://github.com/victoriacheng15/website/issues/201) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ✔️ Closed issue [#200](https://github.com/victoriacheng15/website/issues/200) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. 🎉 Merged PR [#278](https://github.com/victoriacheng15/website/pull/278) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+3. 💪 Opened PR [#278](https://github.com/victoriacheng15/website/pull/278) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 🎉 Merged PR [#277](https://github.com/victoriacheng15/website/pull/277) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
