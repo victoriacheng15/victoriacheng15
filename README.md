@@ -61,11 +61,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#282](https://github.com/victoriacheng15/website/pull/282) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#282](https://github.com/victoriacheng15/website/pull/282) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. 💪 Opened PR [#54](https://github.com/victoriacheng15/hacker-news-next/pull/54) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⭐ Starred [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 🎉 Merged PR [#282](https://github.com/victoriacheng15/website/pull/282) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#282](https://github.com/victoriacheng15/website/pull/282) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
