@@ -62,10 +62,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 🎉 Merged PR [#54](https://github.com/victoriacheng15/hacker-news-next/pull/54) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#55](https://github.com/victoriacheng15/hacker-news-next/pull/55) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 💪 Opened PR [#55](https://github.com/victoriacheng15/hacker-news-next/pull/55) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. ⭐ Starred [antfu/ni](https://github.com/antfu/ni)
+5. 🎉 Merged PR [#54](https://github.com/victoriacheng15/hacker-news-next/pull/54) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
