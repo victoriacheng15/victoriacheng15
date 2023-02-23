@@ -47,11 +47,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/blog/explore-javascript-reduce-function)
- - 🌮 [Let&#39;s Discover the JavaScript Map Keyed Collection](https://victoriacheng15.vercel.app/blog/lets-discover-the-javascript-map-keyed-collection)
+ - 💯 [February Reflection 2023](https://victoriacheng15.vercel.app/blog/february-reflection-2023)
+ - 🌮 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/blog/explore-javascript-reduce-function)
+ - 💫 [Let&#39;s Discover the JavaScript Map Keyed Collection](https://victoriacheng15.vercel.app/blog/lets-discover-the-javascript-map-keyed-collection)
  - 💫 [What is StructuredClone in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-structuredclone-in-javascript)
- - 💫 [January Reflection 2023](https://victoriacheng15.vercel.app/blog/january-reflection-2023)
- - 🌮 [React Hooks - useCallback](https://victoriacheng15.vercel.app/blog/react-hooks-usecallback)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [January Reflection 2023](https://victoriacheng15.vercel.app/blog/january-reflection-2023)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
