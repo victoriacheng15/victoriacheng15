@@ -61,11 +61,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#284](https://github.com/victoriacheng15/website/pull/284) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#284](https://github.com/victoriacheng15/website/pull/284) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. 💪 Opened PR [#285](https://github.com/victoriacheng15/website/pull/285) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+2. ⭐ Starred [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
+4. 🎉 Merged PR [#284](https://github.com/victoriacheng15/website/pull/284) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+5. 💪 Opened PR [#284](https://github.com/victoriacheng15/website/pull/284) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
