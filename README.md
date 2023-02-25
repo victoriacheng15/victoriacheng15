@@ -61,11 +61,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#287](https://github.com/victoriacheng15/website/pull/287) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/website](https://github.com/victoriacheng15/website)
-3. 🎉 Merged PR [#286](https://github.com/victoriacheng15/website/pull/286) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-4. 💪 Opened PR [#286](https://github.com/victoriacheng15/website/pull/286) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+1. ✔️ Closed issue [#1718](https://github.com/codinasion/program/issues/1718) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#6436](https://github.com/codinasion/program/pull/6436) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#6436](https://github.com/codinasion/program/pull/6436#pullrequestreview-1314584869) in [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#630](https://github.com/codinasion/program/issues/630) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
