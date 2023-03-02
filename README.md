@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
-4. 📔 Created new repository [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
-5. ⬆️ Pushed 17 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
+1. ✔️ Closed issue [#3211](https://github.com/codinasion/program/issues/3211) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#6547](https://github.com/codinasion/program/pull/6547) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#6547](https://github.com/codinasion/program/pull/6547#pullrequestreview-1322605995) in [codinasion/program](https://github.com/codinasion/program)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
