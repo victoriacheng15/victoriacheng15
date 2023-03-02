@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3211](https://github.com/codinasion/program/issues/3211) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#6547](https://github.com/codinasion/program/pull/6547) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#6547](https://github.com/codinasion/program/pull/6547#pullrequestreview-1322605995) in [codinasion/program](https://github.com/codinasion/program)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+2. 🎉 Merged PR [#44](https://github.com/victoriacheng15/bubble-tea-api/pull/44) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+3. 💪 Opened PR [#44](https://github.com/victoriacheng15/bubble-tea-api/pull/44) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+4. ✔️ Closed issue [#3211](https://github.com/codinasion/program/issues/3211) in [codinasion/program](https://github.com/codinasion/program)
+5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
