@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#67](https://github.com/victoriacheng15/codewars/pull/67) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#67](https://github.com/victoriacheng15/codewars/pull/67) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#66](https://github.com/victoriacheng15/codewars/pull/66) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⭐ Starred [akhayoon/project-description-template](https://github.com/akhayoon/project-description-template)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/ts-node-demo/pull/3) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/ts-node-demo/pull/3) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
+5. 🎉 Merged PR [#2](https://github.com/victoriacheng15/ts-node-demo/pull/2) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
