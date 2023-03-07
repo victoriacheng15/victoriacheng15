@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-2. 💪 Opened PR [#292](https://github.com/victoriacheng15/website/pull/292) in [victoriacheng15/website](https://github.com/victoriacheng15/website)
+1. 🎉 Merged PR [#24](https://github.com/victoriacheng15/rest-countries-api-ts/pull/24) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
-4. 🎉 Merged PR [#5](https://github.com/victoriacheng15/ts-node-demo/pull/5) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
-5. 💪 Opened PR [#5](https://github.com/victoriacheng15/ts-node-demo/pull/5) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
+4. 🎉 Merged PR [#6](https://github.com/victoriacheng15/ts-node-demo/pull/6) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
+5. 💪 Opened PR [#6](https://github.com/victoriacheng15/ts-node-demo/pull/6) in [victoriacheng15/ts-node-demo](https://github.com/victoriacheng15/ts-node-demo)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
