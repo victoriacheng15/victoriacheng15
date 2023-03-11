@@ -63,10 +63,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/personal-blog-site/pull/4) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-3. 💪 Opened PR [#4](https://github.com/victoriacheng15/personal-blog-site/pull/4) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/personal-blog-site/pull/6) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+3. 💪 Opened PR [#6](https://github.com/victoriacheng15/personal-blog-site/pull/6) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/personal-blog-site/pull/3) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+5. 🎉 Merged PR [#5](https://github.com/victoriacheng15/personal-blog-site/pull/5) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
