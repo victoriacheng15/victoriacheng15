@@ -48,11 +48,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A Simple Guide to Setting Up and Deploying Node with TypeScript](https://victoriacheng15.vercel.app/blog/a-simple-guide-to-setting-up-and-deploying-node-with-typescript)
- - 🌮 [February Reflection 2023](https://victoriacheng15.vercel.app/blog/february-reflection-2023)
- - 💫 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/blog/explore-javascript-reduce-function)
- - 💫 [Let&#39;s Discover the JavaScript Map Keyed Collection](https://victoriacheng15.vercel.app/blog/lets-discover-the-javascript-map-keyed-collection)
- - 🌮 [What is StructuredClone in JavaScript?](https://victoriacheng15.vercel.app/blog/what-is-structuredclone-in-javascript)<!-- BLOG-POST-LIST:END -->
+ - 💯 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)
+ - 🌮 [February Reflection 2023](https://victoriacheng15.vercel.app/posts/february-reflection-2023/)
+ - 💫 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/posts/explore-javascript-reduce-function/)
+ - 💫 [Let&#39;s Discover the JavaScript Map Keyed Collection](https://victoriacheng15.vercel.app/posts/lets-discover-the-javascript-map-keyed-collection/)
+ - 🌮 [What is StructuredClone in JavaScript?](https://victoriacheng15.vercel.app/posts/what-is-structuredclone-in-javascript/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
