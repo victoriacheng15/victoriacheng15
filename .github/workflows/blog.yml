@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@1.8.0
         with: 
-          feed_list: "https://victoriacheng15.vercel.app/blog/rss.xml"
+          feed_list: "https://victoriacheng15.vercel.app/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,👋,🌊) [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
