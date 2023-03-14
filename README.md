@@ -63,10 +63,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-2. 🎉 Merged PR [#81](https://github.com/victoriacheng15/personal-blog-site/pull/81) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-4. 💪 Opened PR [#81](https://github.com/victoriacheng15/personal-blog-site/pull/81) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-5. 🎉 Merged PR [#18](https://github.com/victoriacheng15/ai-image-generation/pull/18) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+2. 🎉 Merged PR [#83](https://github.com/victoriacheng15/personal-blog-site/pull/83) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+3. 💪 Opened PR [#83](https://github.com/victoriacheng15/personal-blog-site/pull/83) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+5. 🎉 Merged PR [#82](https://github.com/victoriacheng15/personal-blog-site/pull/82) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
