@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-2. 🎉 Merged PR [#27](https://github.com/victoriacheng15/ai-image-generation/pull/27) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-3. 💪 Opened PR [#27](https://github.com/victoriacheng15/ai-image-generation/pull/27) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#71](https://github.com/victoriacheng15/codewars/pull/71) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#28](https://github.com/victoriacheng15/ai-image-generation/pull/28) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+4. 💪 Opened PR [#28](https://github.com/victoriacheng15/ai-image-generation/pull/28) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
