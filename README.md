@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-2. 💪 Opened PR [#26](https://github.com/victoriacheng15/rest-countries-api-ts/pull/26) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. 🎉 Merged PR [#45](https://github.com/victoriacheng15/bubble-tea-api/pull/45) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+2. 🎉 Merged PR [#30](https://github.com/victoriacheng15/ai-image-generation/pull/30) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+3. 💪 Opened PR [#30](https://github.com/victoriacheng15/ai-image-generation/pull/30) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
