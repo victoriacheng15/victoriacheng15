@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-2. 🎉 Merged PR [#30](https://github.com/victoriacheng15/ai-image-generation/pull/30) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-3. 💪 Opened PR [#30](https://github.com/victoriacheng15/ai-image-generation/pull/30) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+1. ✔️ Closed issue [#459](https://github.com/codinasion/program/issues/459) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#6710](https://github.com/codinasion/program/pull/6710) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#6710](https://github.com/codinasion/program/pull/6710#pullrequestreview-1350790703) in [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#388](https://github.com/codinasion/program/issues/388) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
