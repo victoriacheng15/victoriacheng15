@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. 👍 Approved [#7031](https://github.com/codinasion/program/pull/7031#pullrequestreview-1359123996) in [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#7019](https://github.com/codinasion/program/pull/7019) in [codinasion/program](https://github.com/codinasion/program)
-5. ✔️ Closed issue [#735](https://github.com/codinasion/program/issues/735) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#63](https://github.com/victoriacheng15/hacker-news-next/pull/63) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 💪 Opened PR [#63](https://github.com/victoriacheng15/hacker-news-next/pull/63) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
