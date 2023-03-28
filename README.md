@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#364](https://github.com/codinasion/program/issues/364) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#7036](https://github.com/codinasion/program/pull/7036) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#7036](https://github.com/codinasion/program/pull/7036#pullrequestreview-1361364544) in [codinasion/program](https://github.com/codinasion/program)
-5. ✔️ Closed issue [#444](https://github.com/codinasion/program/issues/444) in [codinasion/program](https://github.com/codinasion/program)
+1. ❌ Closed PR [#7048](https://github.com/codinasion/program/pull/7048) in [codinasion/program](https://github.com/codinasion/program)
+2. 💬 Commented on [#7048](https://github.com/codinasion/program/pull/7048#issuecomment-1487140300) in [codinasion/program](https://github.com/codinasion/program)
+3. ❌ Closed PR [#6831](https://github.com/codinasion/program/pull/6831) in [codinasion/program](https://github.com/codinasion/program)
+4. 💬 Commented on [#6831](https://github.com/codinasion/program/pull/6831#issuecomment-1487138535) in [codinasion/program](https://github.com/codinasion/program)
+5. ❌ Closed PR [#6833](https://github.com/codinasion/program/pull/6833) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
