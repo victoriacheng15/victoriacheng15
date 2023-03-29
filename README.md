@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3062](https://github.com/codinasion/program/issues/3062) in [codinasion/program](https://github.com/codinasion/program)
+1. ✔️ Closed issue [#4383](https://github.com/codinasion/program/issues/4383) in [codinasion/program](https://github.com/codinasion/program)
 2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#6814](https://github.com/codinasion/program/pull/6814) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#6814](https://github.com/codinasion/program/pull/6814#pullrequestreview-1363289445) in [codinasion/program](https://github.com/codinasion/program)
-5. ✔️ Closed issue [#1616](https://github.com/codinasion/program/issues/1616) in [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#6855](https://github.com/codinasion/program/pull/6855) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#6855](https://github.com/codinasion/program/pull/6855#pullrequestreview-1363298697) in [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#3873](https://github.com/codinasion/program/issues/3873) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
