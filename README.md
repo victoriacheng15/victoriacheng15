@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#78](https://github.com/victoriacheng15/codewars/pull/78) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#78](https://github.com/victoriacheng15/codewars/pull/78) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ✔️ Closed issue [#4383](https://github.com/codinasion/program/issues/4383) in [codinasion/program](https://github.com/codinasion/program)
+1. ❗️ Opened issue [#92](https://github.com/victoriacheng15/personal-blog-site/issues/92) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 🎉 Merged PR [#78](https://github.com/victoriacheng15/codewars/pull/78) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 💪 Opened PR [#78](https://github.com/victoriacheng15/codewars/pull/78) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
