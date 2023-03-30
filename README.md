@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)
- - 🌮 [February Reflection 2023](https://victoriacheng15.vercel.app/posts/february-reflection-2023/)
+ - 💯 [March Reflection](https://victoriacheng15.vercel.app/posts/march-reflection/)
+ - 🌮 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)
+ - 💫 [February Reflection 2023](https://victoriacheng15.vercel.app/posts/february-reflection-2023/)
  - 💫 [Deep Work Book Review](https://victoriacheng15.vercel.app/posts/deep-work/)
- - 💫 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/posts/explore-javascript-reduce-function/)
- - 🌮 [Let&#39;s Discover the JavaScript Map Keyed Collection](https://victoriacheng15.vercel.app/posts/lets-discover-the-javascript-map-keyed-collection/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/posts/explore-javascript-reduce-function/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
