@@ -64,10 +64,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-2. 🎉 Merged PR [#6882](https://github.com/codinasion/program/pull/6882) in [codinasion/program](https://github.com/codinasion/program)
-3. ✔️ Closed issue [#1478](https://github.com/codinasion/program/issues/1478) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#6882](https://github.com/codinasion/program/pull/6882#pullrequestreview-1365254006) in [codinasion/program](https://github.com/codinasion/program)
+1. 📔 Created new repository [victoriacheng15/amplify-react-graphql](https://github.com/victoriacheng15/amplify-react-graphql)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+3. 🎉 Merged PR [#28](https://github.com/victoriacheng15/rest-countries-api-ts/pull/28) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+4. 💪 Opened PR [#28](https://github.com/victoriacheng15/rest-countries-api-ts/pull/28) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
