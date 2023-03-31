@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/amplify-react-graphql](https://github.com/victoriacheng15/amplify-react-graphql)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-3. 🎉 Merged PR [#28](https://github.com/victoriacheng15/rest-countries-api-ts/pull/28) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-4. 💪 Opened PR [#28](https://github.com/victoriacheng15/rest-countries-api-ts/pull/28) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
-5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
+2. 📔 Created new repository [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
+3. 📔 Created new repository [victoriacheng15/amplify-react-graphql](https://github.com/victoriacheng15/amplify-react-graphql)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
+5. 🎉 Merged PR [#28](https://github.com/victoriacheng15/rest-countries-api-ts/pull/28) in [victoriacheng15/rest-countries-api-ts](https://github.com/victoriacheng15/rest-countries-api-ts)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
