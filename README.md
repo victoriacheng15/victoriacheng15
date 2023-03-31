@@ -68,7 +68,7 @@
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
-5. 📔 Created new repository [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
