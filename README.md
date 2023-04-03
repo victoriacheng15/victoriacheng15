@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#80](https://github.com/victoriacheng15/codewars/pull/80) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#80](https://github.com/victoriacheng15/codewars/pull/80) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ✔️ Closed issue [#3875](https://github.com/codinasion/program/issues/3875) in [codinasion/program](https://github.com/codinasion/program)
-5. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+2. 🎉 Merged PR [#79](https://github.com/victoriacheng15/codewars/pull/79) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#81](https://github.com/victoriacheng15/codewars/pull/81) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 💪 Opened PR [#81](https://github.com/victoriacheng15/codewars/pull/81) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
