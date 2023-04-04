@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 🎉 Merged PR [#79](https://github.com/victoriacheng15/codewars/pull/79) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+2. 🎉 Merged PR [#99](https://github.com/victoriacheng15/personal-blog-site/pull/99) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+3. 💪 Opened PR [#99](https://github.com/victoriacheng15/personal-blog-site/pull/99) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/amplify-react](https://github.com/victoriacheng15/amplify-react)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/books-tracker](https://github.com/victoriacheng15/books-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
