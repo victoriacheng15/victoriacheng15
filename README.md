@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-2. 🎉 Merged PR [#101](https://github.com/victoriacheng15/personal-blog-site/pull/101) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-3. 💪 Opened PR [#101](https://github.com/victoriacheng15/personal-blog-site/pull/101) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-4. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rest-countries-next/pull/7) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
-5. ✔️ Closed issue [#5543](https://github.com/codinasion/program/issues/5543) in [codinasion/program](https://github.com/codinasion/program)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/rest-countries-next/pull/9) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+3. 💪 Opened PR [#9](https://github.com/victoriacheng15/rest-countries-next/pull/9) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+5. 🎉 Merged PR [#101](https://github.com/victoriacheng15/personal-blog-site/pull/101) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
