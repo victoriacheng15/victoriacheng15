@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#83](https://github.com/victoriacheng15/codewars/pull/83) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#83](https://github.com/victoriacheng15/codewars/pull/83) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
-5. 🎉 Merged PR [#21](https://github.com/victoriacheng15/rest-countries-next/pull/21) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+2. 🎉 Merged PR [#22](https://github.com/victoriacheng15/rest-countries-next/pull/22) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+4. 💪 Opened PR [#22](https://github.com/victoriacheng15/rest-countries-next/pull/22) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
