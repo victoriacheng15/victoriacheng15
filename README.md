@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
-2. 🎉 Merged PR [#23](https://github.com/victoriacheng15/rest-countries-next/pull/23) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
-3. 💪 Opened PR [#23](https://github.com/victoriacheng15/rest-countries-next/pull/23) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
-5. 🎉 Merged PR [#22](https://github.com/victoriacheng15/rest-countries-next/pull/22) in [victoriacheng15/rest-countries-next](https://github.com/victoriacheng15/rest-countries-next)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+2. 🎉 Merged PR [#25](https://github.com/victoriacheng15/rest-countries-api-next/pull/25) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+3. 💪 Opened PR [#25](https://github.com/victoriacheng15/rest-countries-api-next/pull/25) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+4. 🎉 Merged PR [#24](https://github.com/victoriacheng15/rest-countries-api-next/pull/24) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
