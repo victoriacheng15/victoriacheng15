@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-2. 🎉 Merged PR [#24](https://github.com/victoriacheng15/links-me/pull/24) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-4. 💪 Opened PR [#24](https://github.com/victoriacheng15/links-me/pull/24) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-5. 🎉 Merged PR [#7219](https://github.com/codinasion/program/pull/7219) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#27](https://github.com/victoriacheng15/rest-countries-api-next/pull/27) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+4. 💪 Opened PR [#27](https://github.com/victoriacheng15/rest-countries-api-next/pull/27) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
