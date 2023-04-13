@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection)
-2. ✔️ Closed issue [#5103](https://github.com/codinasion/program/issues/5103) in [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#7241](https://github.com/codinasion/program/pull/7241) in [codinasion/program](https://github.com/codinasion/program)
-4. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#7241](https://github.com/codinasion/program/pull/7241#pullrequestreview-1381453666) in [codinasion/program](https://github.com/codinasion/program)
+1. ✔️ Closed issue [#2398](https://github.com/codinasion/program/issues/2398) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#7276](https://github.com/codinasion/program/pull/7276) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#7276](https://github.com/codinasion/program/pull/7276#pullrequestreview-1383501771) in [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#5388](https://github.com/codinasion/program/issues/5388) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
