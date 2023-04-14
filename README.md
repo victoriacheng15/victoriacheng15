@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-2. 🎉 Merged PR [#31](https://github.com/victoriacheng15/rest-countries-api-next/pull/31) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-4. 💪 Opened PR [#31](https://github.com/victoriacheng15/rest-countries-api-next/pull/31) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+1. ✔️ Closed issue [#2827](https://github.com/codinasion/program/issues/2827) in [codinasion/program](https://github.com/codinasion/program)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+3. 🎉 Merged PR [#7293](https://github.com/codinasion/program/pull/7293) in [codinasion/program](https://github.com/codinasion/program)
+4. 👍 Approved [#7293](https://github.com/codinasion/program/pull/7293#pullrequestreview-1385616851) in [codinasion/program](https://github.com/codinasion/program)
+5. ✔️ Closed issue [#1408](https://github.com/codinasion/program/issues/1408) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
