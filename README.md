@@ -77,7 +77,9 @@
 
 <div align="center">
 
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api?username=victoriacheng15&bg_color=00172e&title_color=70b8ff&text_color=f97316&icon_color=70b8ff&border_color=0070e0&show_icons=true' height="150" />](https://github.com/anuraghazra/github-readme-stats) 
+[<img src="https://github-readme-stats-victoriacheng15.vercel.app/api/top-langs/?username=victoriacheng15&layout=compact&bg_color=00172e&title_color=70b8ff&text_color=f97316&icon_color=70b8ff&border_color=0070e0&" height="180" />](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src="https://github-readme-stats-victoriacheng15.vercel.app/api?username=victoriacheng15&bg_color=00172e&title_color=70b8ff&text_color=f97316&icon_color=70b8ff&border_color=0070e0&show_icons=true" height="180" />](https://github.com/anuraghazra/github-readme-stats)
   
 <!--   [<img src='https://streak-stats.demolab.com?user=victoriacheng15&theme=dark&background=00172E&border=0070E0&dates=F5F5F5&currStreakNum=70B8FF&sideNums=70B8FF&sideLabels=70B8FF' height="150" />](https://streak-stats.demolab.com) -->
 
