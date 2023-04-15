@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [March Reflection](https://victoriacheng15.vercel.app/posts/march-reflection/)
- - 🌮 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)
+ - 💯 [Nextjs State Management with Redux Toolkit - Part 1](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-1/)
+ - 🌮 [March Reflection](https://victoriacheng15.vercel.app/posts/march-reflection/)
+ - 💫 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)
  - 💫 [February Reflection 2023](https://victoriacheng15.vercel.app/posts/february-reflection-2023/)
- - 💫 [Deep Work Book Review](https://victoriacheng15.vercel.app/posts/deep-work/)
- - 🌮 [Explore JavaScript Reduce Function](https://victoriacheng15.vercel.app/posts/explore-javascript-reduce-function/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Deep Work Book Review](https://victoriacheng15.vercel.app/posts/deep-work/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
