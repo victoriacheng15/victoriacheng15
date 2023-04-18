@@ -27,7 +27,7 @@
   
 [<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=hacker-news-next&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/hacker-news-next#readme) 
   
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=rest-countries-api-ts&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/rest-countries-api-ts#readme)   
+[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=rest-countries-api-next&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/rest-countries-api-next#readme)   
   
 [<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=ai-image-generation&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/ai-image-generation#readme)   
   
