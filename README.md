@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-2. 🎉 Merged PR [#33](https://github.com/victoriacheng15/rest-countries-api-next/pull/33) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-3. 💪 Opened PR [#33](https://github.com/victoriacheng15/rest-countries-api-next/pull/33) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-4. 🎉 Merged PR [#85](https://github.com/victoriacheng15/codewars/pull/85) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⭐ Starred [BuilderIO/SSDiff](https://github.com/BuilderIO/SSDiff)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+3. 🎉 Merged PR [#33](https://github.com/victoriacheng15/rest-countries-api-next/pull/33) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+4. 💪 Opened PR [#33](https://github.com/victoriacheng15/rest-countries-api-next/pull/33) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+5. 🎉 Merged PR [#85](https://github.com/victoriacheng15/codewars/pull/85) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
