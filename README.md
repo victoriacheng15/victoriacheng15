@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#86](https://github.com/victoriacheng15/codewars/pull/86) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#86](https://github.com/victoriacheng15/codewars/pull/86) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⭐ Starred [BuilderIO/SSDiff](https://github.com/BuilderIO/SSDiff)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+1. 🔴 Requested 1 change(s) for [#7342](https://github.com/codinasion/program/pull/7342#pullrequestreview-1396769224) in [codinasion/program](https://github.com/codinasion/program)
+2. ✔️ Closed issue [#357](https://github.com/codinasion/program/issues/357) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#7343](https://github.com/codinasion/program/pull/7343) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#7343](https://github.com/codinasion/program/pull/7343#pullrequestreview-1396769146) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
