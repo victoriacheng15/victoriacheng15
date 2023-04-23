@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-2. 🎉 Merged PR [#112](https://github.com/victoriacheng15/personal-blog-site/pull/112) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-3. 💪 Opened PR [#112](https://github.com/victoriacheng15/personal-blog-site/pull/112) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-4. 🔴 Requested 1 change(s) for [#7342](https://github.com/codinasion/program/pull/7342#pullrequestreview-1396769224) in [codinasion/program](https://github.com/codinasion/program)
-5. ✔️ Closed issue [#357](https://github.com/codinasion/program/issues/357) in [codinasion/program](https://github.com/codinasion/program)
+1. 💪 Opened PR [#113](https://github.com/victoriacheng15/personal-blog-site/pull/113) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+3. 🎉 Merged PR [#112](https://github.com/victoriacheng15/personal-blog-site/pull/112) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+4. 💪 Opened PR [#112](https://github.com/victoriacheng15/personal-blog-site/pull/112) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+5. 🔴 Requested 1 change(s) for [#7342](https://github.com/codinasion/program/pull/7342#pullrequestreview-1396769224) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
