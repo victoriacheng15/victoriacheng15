@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-2. 🎉 Merged PR [#116](https://github.com/victoriacheng15/personal-blog-site/pull/116) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-4. 🎉 Merged PR [#115](https://github.com/victoriacheng15/personal-blog-site/pull/115) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-5. 💪 Opened PR [#115](https://github.com/victoriacheng15/personal-blog-site/pull/115) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+1. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+2. 🎉 Merged PR [#7414](https://github.com/codinasion/program/pull/7414) in [codinasion/program](https://github.com/codinasion/program)
+3. 👍 Approved [#7414](https://github.com/codinasion/program/pull/7414#pullrequestreview-1402504369) in [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#117](https://github.com/victoriacheng15/personal-blog-site/pull/117) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
