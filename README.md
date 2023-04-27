@@ -64,10 +64,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#7421](https://github.com/codinasion/program/pull/7421#pullrequestreview-1404311356) in [codinasion/program](https://github.com/codinasion/program)
-2. ⭐ Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
-4. 🎉 Merged PR [#120](https://github.com/victoriacheng15/personal-blog-site/pull/120) in [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
+1. ⭐ Starred [sidpalas/devops-directive-docker-course](https://github.com/sidpalas/devops-directive-docker-course)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. 👍 Approved [#7421](https://github.com/codinasion/program/pull/7421#pullrequestreview-1404311356) in [codinasion/program](https://github.com/codinasion/program)
+4. ⭐ Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/personal-blog-site](https://github.com/victoriacheng15/personal-blog-site)
 <!--RECENT_ACTIVITY:end-->
 
