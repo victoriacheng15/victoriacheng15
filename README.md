@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Nextjs State Management with Redux Toolkit - Part 2](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-2/)
- - 🌮 [Nextjs State Management with Redux Toolkit - Part 1](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-1/)
+ - 💯 [April Reflection](https://victoriacheng15.vercel.app/posts/april-reflection/)
+ - 🌮 [Nextjs State Management with Redux Toolkit - Part 2](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-2/)
+ - 💫 [Nextjs State Management with Redux Toolkit - Part 1](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-1/)
  - 💫 [March Reflection](https://victoriacheng15.vercel.app/posts/march-reflection/)
- - 💫 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)
- - 🌮 [February Reflection 2023](https://victoriacheng15.vercel.app/posts/february-reflection-2023/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
