@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7487](https://github.com/codinasion/program/issues/7487) in [codinasion/program](https://github.com/codinasion/program)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-3. 🎉 Merged PR [#7508](https://github.com/codinasion/program/pull/7508) in [codinasion/program](https://github.com/codinasion/program)
-4. 👍 Approved [#7508](https://github.com/codinasion/program/pull/7508#pullrequestreview-1411009929) in [codinasion/program](https://github.com/codinasion/program)
-5. 🔴 Requested 1 change(s) for [#7502](https://github.com/codinasion/program/pull/7502#pullrequestreview-1409403898) in [codinasion/program](https://github.com/codinasion/program)
+1. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+2. ✔️ Closed issue [#7487](https://github.com/codinasion/program/issues/7487) in [codinasion/program](https://github.com/codinasion/program)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
+4. 🎉 Merged PR [#7508](https://github.com/codinasion/program/pull/7508) in [codinasion/program](https://github.com/codinasion/program)
+5. 👍 Approved [#7508](https://github.com/codinasion/program/pull/7508#pullrequestreview-1411009929) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
