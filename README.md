@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
-2. ✔️ Closed issue [#7487](https://github.com/codinasion/program/issues/7487) in [codinasion/program](https://github.com/codinasion/program)
-3. ⬆️ Pushed 1 commit(s) to [codinasion/program](https://github.com/codinasion/program)
-4. 🎉 Merged PR [#7508](https://github.com/codinasion/program/pull/7508) in [codinasion/program](https://github.com/codinasion/program)
-5. 👍 Approved [#7508](https://github.com/codinasion/program/pull/7508#pullrequestreview-1411009929) in [codinasion/program](https://github.com/codinasion/program)
+1. 🎉 Merged PR [#93](https://github.com/victoriacheng15/codewars/pull/93) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#93](https://github.com/victoriacheng15/codewars/pull/93) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+5. ✔️ Closed issue [#7487](https://github.com/codinasion/program/issues/7487) in [codinasion/program](https://github.com/codinasion/program)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
