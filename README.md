@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [victoriacheng15/devops-directive-docker-course](https://github.com/victoriacheng15/devops-directive-docker-course) from [sidpalas/devops-directive-docker-course](https://github.com/sidpalas/devops-directive-docker-course)
-2. 🎉 Merged PR [#96](https://github.com/victoriacheng15/codewars/pull/96) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 💪 Opened PR [#96](https://github.com/victoriacheng15/codewars/pull/96) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#97](https://github.com/victoriacheng15/codewars/pull/97) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#97](https://github.com/victoriacheng15/codewars/pull/97) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🔱 Forked [victoriacheng15/devops-directive-docker-course](https://github.com/victoriacheng15/devops-directive-docker-course) from [sidpalas/devops-directive-docker-course](https://github.com/sidpalas/devops-directive-docker-course)
+5. 🎉 Merged PR [#96](https://github.com/victoriacheng15/codewars/pull/96) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
