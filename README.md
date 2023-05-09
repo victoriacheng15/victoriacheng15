@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 
-## My Projects
+<!-- ## My Projects
 
 <div align="center">
 
@@ -31,7 +31,7 @@
   
 [<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=ai-image-generation&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/ai-image-generation#readme)   
   
-</div>
+</div> -->
 
 # 💼 Tech Stack
 
