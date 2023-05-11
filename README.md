@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [April Reflection](https://victoriacheng15.vercel.app/posts/april-reflection/)
- - 🌮 [Nextjs State Management with Redux Toolkit - Part 2](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-2/)
+ - 💯 [What is Nullish Coalescing Operator](https://victoriacheng15.vercel.app/posts/what-is-nullish-coalescing-operator/)
+ - 🌮 [April Reflection](https://victoriacheng15.vercel.app/posts/april-reflection/)
+ - 💫 [Nextjs State Management with Redux Toolkit - Part 2](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-2/)
  - 💫 [Nextjs State Management with Redux Toolkit - Part 1](https://victoriacheng15.vercel.app/posts/nextjs-state-management-with-redux-toolkit-part-1/)
- - 💫 [March Reflection](https://victoriacheng15.vercel.app/posts/march-reflection/)
- - 🌮 [A Simple Guide to Set up and Deploy Node with TypeScript](https://victoriacheng15.vercel.app/posts/a-simple-guide-to-setting-up-and-deploying-node-with-typescript/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [March Reflection](https://victoriacheng15.vercel.app/posts/march-reflection/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
