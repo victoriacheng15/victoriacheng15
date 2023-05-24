@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cli/cli](https://github.com/cli/cli)
-2. ❗️ Opened issue [#151](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/151) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 🎉 Merged PR [#150](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/150) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 💪 Opened PR [#150](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/150) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. 🎉 Merged PR [#121](https://github.com/victoriacheng15/codewars/pull/121) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#121](https://github.com/victoriacheng15/codewars/pull/121) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⭐ Starred [cli/cli](https://github.com/cli/cli)
+5. ❗️ Opened issue [#151](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/151) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
