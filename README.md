@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#158](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/158) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. ❗️ Opened issue [#157](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/157) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ❗️ Opened issue [#156](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/156) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ❗️ Opened issue [#155](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/155) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ❗️ Opened issue [#154](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/154) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#162](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/162) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 💪 Opened PR [#162](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/162) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ✔️ Closed issue [#151](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/151) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
