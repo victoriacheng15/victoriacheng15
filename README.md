@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/clock-codespace](https://github.com/victoriacheng15/clock-codespace)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 🎉 Merged PR [#157](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/157) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#157](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/157) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ❗️ Opened issue [#167](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/167) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ❗️ Opened issue [#166](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/166) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ❗️ Opened issue [#165](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/165) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ❗️ Opened issue [#164](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/164) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 📔 Created new repository [victoriacheng15/clock-codespace](https://github.com/victoriacheng15/clock-codespace)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
