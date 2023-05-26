@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#124](https://github.com/victoriacheng15/codewars/pull/124) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#124](https://github.com/victoriacheng15/codewars/pull/124) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⭐ Starred [vanjs-org/van](https://github.com/vanjs-org/van)
-5. ❗️ Opened issue [#167](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/167) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+2. 🎉 Merged PR [#158](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/158) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 💪 Opened PR [#158](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/158) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#124](https://github.com/victoriacheng15/codewars/pull/124) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
