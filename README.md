@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 🎉 Merged PR [#163](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/163) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#163](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/163) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#128](https://github.com/victoriacheng15/codewars/pull/128) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ❗️ Opened issue [#172](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/172) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ❗️ Opened issue [#171](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/171) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ❗️ Opened issue [#170](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/170) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ❗️ Opened issue [#169](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/169) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ❗️ Opened issue [#168](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/168) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
