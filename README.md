@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#129](https://github.com/victoriacheng15/codewars/pull/129) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. ⭐ Starred [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)
-3. ❗️ Opened issue [#172](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/172) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ❗️ Opened issue [#171](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/171) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ❗️ Opened issue [#170](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/170) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. 🎉 Merged PR [#129](https://github.com/victoriacheng15/codewars/pull/129) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#129](https://github.com/victoriacheng15/codewars/pull/129) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⭐ Starred [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)
+5. ❗️ Opened issue [#172](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/172) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
