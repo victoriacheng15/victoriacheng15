@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 🎉 Merged PR [#164](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/164) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#164](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/164) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 🎉 Merged PR [#129](https://github.com/victoriacheng15/codewars/pull/129) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⭐ Starred [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+3. 🎉 Merged PR [#164](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/164) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+4. 💪 Opened PR [#164](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/164) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#129](https://github.com/victoriacheng15/codewars/pull/129) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
