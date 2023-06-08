@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [TypeScript Utility Types - Awaited](https://victoriacheng15.vercel.app/posts/typescript-utility-types-awaited/)
- - 🌮 [May Reflection 2023](https://victoriacheng15.vercel.app/posts/may-reflection-2023/)
+ - 💯 [JavaScript Optional Chaining Operator](https://victoriacheng15.vercel.app/posts/javascript-optional-chaining-operator/)
+ - 🌮 [TypeScript Utility Types - Awaited](https://victoriacheng15.vercel.app/posts/typescript-utility-types-awaited/)
+ - 💫 [May Reflection 2023](https://victoriacheng15.vercel.app/posts/may-reflection-2023/)
  - 💫 [Exploring JavaScript Prototype Inheritance](https://victoriacheng15.vercel.app/posts/exploring-javascript-prototype-inheritance/)
- - 💫 [What is Nullish Coalescing Operator](https://victoriacheng15.vercel.app/posts/what-is-nullish-coalescing-operator/)
- - 🌮 [April Reflection 2023](https://victoriacheng15.vercel.app/posts/april-reflection-2023/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [What is Nullish Coalescing Operator](https://victoriacheng15.vercel.app/posts/what-is-nullish-coalescing-operator/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
