@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#200](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/200) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#171](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/171) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 💪 Opened PR [#171](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/171) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ✔️ Closed issue [#32](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/32) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ✔️ Closed issue [#34](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/34) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ✔️ Closed issue [#30](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/30) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ✔️ Closed issue [#33](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/33) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ✔️ Closed issue [#29](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/29) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
