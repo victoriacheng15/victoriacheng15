@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ga-label](https://github.com/victoriacheng15/ga-label)
-2. 📔 Created new repository [victoriacheng15/ga-label](https://github.com/victoriacheng15/ga-label)
-3. ✔️ Closed issue [#60](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/60) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ✔️ Closed issue [#61](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/61) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ✔️ Closed issue [#58](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/58) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#201](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/201) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 💪 Opened PR [#201](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/201) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ga-label](https://github.com/victoriacheng15/ga-label)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
