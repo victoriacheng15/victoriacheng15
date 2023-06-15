@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zigzap/zap](https://github.com/zigzap/zap)
-2. ✔️ Closed issue [#194](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/194) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 🎉 Merged PR [#206](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/206) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 💪 Opened PR [#206](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/206) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#146](https://github.com/victoriacheng15/codewars/pull/146) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#146](https://github.com/victoriacheng15/codewars/pull/146) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⭐ Starred [zigzap/zap](https://github.com/zigzap/zap)
+5. ✔️ Closed issue [#194](https://github.com/victoriacheng15/victoriacheng15.vercel.app/issues/194) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
