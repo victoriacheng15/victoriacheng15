@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4495](https://github.com/codinasion/codinasion/pull/4495#pullrequestreview-1484645829) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-2. 👍 Approved [#4490](https://github.com/codinasion/codinasion/pull/4490#pullrequestreview-1484645648) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 🎉 Merged PR [#147](https://github.com/victoriacheng15/codewars/pull/147) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 💪 Opened PR [#147](https://github.com/victoriacheng15/codewars/pull/147) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/2) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
+3. 💪 Opened PR [#2](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/2) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
+5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/1) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
