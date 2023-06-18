@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/2) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/2) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/1) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#148](https://github.com/victoriacheng15/codewars/pull/148) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#148](https://github.com/victoriacheng15/codewars/pull/148) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/write-your-own-wc-tool/pull/2) in [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/write-your-own-wc-tool](https://github.com/victoriacheng15/write-your-own-wc-tool)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
