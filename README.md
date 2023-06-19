@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#149](https://github.com/victoriacheng15/codewars/pull/149) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. 📔 Created new repository [victoriacheng15/three-js-journey-lessons](https://github.com/victoriacheng15/three-js-journey-lessons)
+2. 🎉 Merged PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 💪 Opened PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
