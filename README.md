@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4496](https://github.com/codinasion/codinasion/pull/4496#pullrequestreview-1486264926) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-2. 👍 Approved [#4500](https://github.com/codinasion/codinasion/pull/4500#pullrequestreview-1486263233) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-3. ⭐ Starred [chakra-ui/panda](https://github.com/chakra-ui/panda)
-4. ❗️ Opened issue [#4079](https://github.com/kamranahmedse/developer-roadmap/issues/4079) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. 🎉 Merged PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#149](https://github.com/victoriacheng15/codewars/pull/149) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
