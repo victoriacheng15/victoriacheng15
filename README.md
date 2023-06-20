@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-2. 🎉 Merged PR [#174](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/174) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-3. 💪 Opened PR [#174](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/174) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
-4. 📔 Created new repository [victoriacheng15/three-js-journey-lessons](https://github.com/victoriacheng15/three-js-journey-lessons)
-5. 🎉 Merged PR [#150](https://github.com/victoriacheng15/codewars/pull/150) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#151](https://github.com/victoriacheng15/codewars/pull/151) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#151](https://github.com/victoriacheng15/codewars/pull/151) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
+5. 🎉 Merged PR [#174](https://github.com/victoriacheng15/data-structures-and-algorithms/pull/174) in [victoriacheng15/data-structures-and-algorithms](https://github.com/victoriacheng15/data-structures-and-algorithms)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
