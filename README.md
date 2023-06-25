@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [JavaScript - Promise, Promise All, and async/await](https://victoriacheng15.vercel.app/posts/javascript-promise-promise-all-and-async-await/)
- - 🌮 [Unleashing Your Limitless Potential from the Limitless Book](https://victoriacheng15.vercel.app/posts/unleashing-your-limitless-potential-from-the-limitless-book/)
+ - 💯 [Atomic Habits: Transforming Lives with Lasting Habits](https://victoriacheng15.vercel.app/posts/atomic-habits-transforming-lives-with-lasting-habits/)
+ - 🌮 [JavaScript - Promise, Promise All, and async/await](https://victoriacheng15.vercel.app/posts/javascript-promise-promise-all-and-async-await/)
+ - 💫 [Unleashing Your Limitless Potential from the Limitless Book](https://victoriacheng15.vercel.app/posts/unleashing-your-limitless-potential-from-the-limitless-book/)
  - 💫 [JavaScript Optional Chaining Operator](https://victoriacheng15.vercel.app/posts/javascript-optional-chaining-operator/)
- - 💫 [TypeScript Utility Types - Awaited](https://victoriacheng15.vercel.app/posts/typescript-utility-types-awaited/)
- - 🌮 [May Reflection 2023](https://victoriacheng15.vercel.app/posts/may-reflection-2023/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [TypeScript Utility Types - Awaited](https://victoriacheng15.vercel.app/posts/typescript-utility-types-awaited/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
