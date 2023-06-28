@@ -3,7 +3,7 @@ name: Latest Blog posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 6 * * */2'
+    - cron: '30 6 */2 * *'
 
 jobs:
   update_blogs:
