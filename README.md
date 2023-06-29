@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui)
-2. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-3. 👍 Approved [#4525](https://github.com/codinasion/codinasion/pull/4525#pullrequestreview-1504375951) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. 💪 Opened PR [#230](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/230) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ⭐ Starred [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui)
+3. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 4. 👍 Approved [#4525](https://github.com/codinasion/codinasion/pull/4525#pullrequestreview-1504375951) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+5. 👍 Approved [#4525](https://github.com/codinasion/codinasion/pull/4525#pullrequestreview-1504375951) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
