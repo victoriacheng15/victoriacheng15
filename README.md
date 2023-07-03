@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-2. 🎉 Merged PR [#33](https://github.com/victoriacheng15/links-me/pull/33) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-3. 💪 Opened PR [#33](https://github.com/victoriacheng15/links-me/pull/33) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-5. 🎉 Merged PR [#32](https://github.com/victoriacheng15/links-me/pull/32) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+2. 🎉 Merged PR [#34](https://github.com/victoriacheng15/links-me/pull/34) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+3. 💪 Opened PR [#34](https://github.com/victoriacheng15/links-me/pull/34) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+4. ⭐ Starred [leerob/leerob.io](https://github.com/leerob/leerob.io)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
