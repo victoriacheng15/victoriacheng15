@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [JavaScript - Bind, Call, and Apply](https://victoriacheng15.vercel.app/posts/javascript-bind-call-and-apply/)
- - 🌮 [From Busy to Productive: Embracing the Deep Work Mindset](https://victoriacheng15.vercel.app/posts/from-busy-to-productive-embracing-the-deep-work-mindset/)
+ - 💯 [The Path to Clean Code: Insights from Robert Martin](https://victoriacheng15.vercel.app/posts/the-path-to-clean-code-insights-from-robert-martin/)
+ - 🌮 [JavaScript - Bind, Call, and Apply](https://victoriacheng15.vercel.app/posts/javascript-bind-call-and-apply/)
+ - 💫 [From Busy to Productive: Embracing the Deep Work Mindset](https://victoriacheng15.vercel.app/posts/from-busy-to-productive-embracing-the-deep-work-mindset/)
  - 💫 [June Relfection 2023](https://victoriacheng15.vercel.app/posts/june-relfection-2023/)
- - 💫 [Atomic Habits: Transforming Lives with Lasting Habits](https://victoriacheng15.vercel.app/posts/atomic-habits-transforming-lives-with-lasting-habits/)
- - 🌮 [JavaScript - Promise, Promise All, and async/await](https://victoriacheng15.vercel.app/posts/javascript-promise-promise-all-and-async-await/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Atomic Habits: Transforming Lives with Lasting Habits](https://victoriacheng15.vercel.app/posts/atomic-habits-transforming-lives-with-lasting-habits/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
