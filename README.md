@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4536](https://github.com/codinasion/codinasion/pull/4536#pullrequestreview-1526488684) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 🎉 Merged PR [#246](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/246) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#245](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/245) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 3 commit(s) to [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
+2. 💬 Commented on [#4079](https://github.com/kamranahmedse/developer-roadmap/issues/4079#issuecomment-1634054099) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. ✔️ Closed issue [#4079](https://github.com/kamranahmedse/developer-roadmap/issues/4079) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 👍 Approved [#4536](https://github.com/codinasion/codinasion/pull/4536#pullrequestreview-1526488684) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
