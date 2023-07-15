@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#249](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/249) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⭐ Starred [GauravWalia19/Free-Algorithms-Books](https://github.com/GauravWalia19/Free-Algorithms-Books)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-5. 💪 Opened PR [#37](https://github.com/victoriacheng15/links-me/pull/37) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#165](https://github.com/victoriacheng15/codewars/pull/165) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#166](https://github.com/victoriacheng15/codewars/pull/166) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 💪 Opened PR [#166](https://github.com/victoriacheng15/codewars/pull/166) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
