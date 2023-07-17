@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [JavaScript - Closure](https://victoriacheng15.vercel.app/posts/javascript-closure/)
- - 🌮 [The Path to Clean Code: Insights from Robert Martin](https://victoriacheng15.vercel.app/posts/the-path-to-clean-code-insights-from-robert-martin/)
+ - 💯 [Continuous Improvement: Lessons from The Phoenix Project](https://victoriacheng15.vercel.app/posts/continuous-improvement-lessons-from-the-phoenix-project/)
+ - 🌮 [JavaScript - Closure](https://victoriacheng15.vercel.app/posts/javascript-closure/)
+ - 💫 [The Path to Clean Code: Insights from Robert Martin](https://victoriacheng15.vercel.app/posts/the-path-to-clean-code-insights-from-robert-martin/)
  - 💫 [JavaScript - Bind, Call, and Apply](https://victoriacheng15.vercel.app/posts/javascript-bind-call-and-apply/)
- - 💫 [From Busy to Productive: Embracing the Deep Work Mindset](https://victoriacheng15.vercel.app/posts/from-busy-to-productive-embracing-the-deep-work-mindset/)
- - 🌮 [June Relfection 2023](https://victoriacheng15.vercel.app/posts/june-relfection-2023/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [From Busy to Productive: Embracing the Deep Work Mindset](https://victoriacheng15.vercel.app/posts/from-busy-to-productive-embracing-the-deep-work-mindset/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
