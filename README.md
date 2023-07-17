@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023/pull/1) in [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023/pull/1) in [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
-4. 🎉 Merged PR [#167](https://github.com/victoriacheng15/codewars/pull/167) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/three-js-demo/pull/1) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/three-js-demo/pull/1) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
+5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023/pull/1) in [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
