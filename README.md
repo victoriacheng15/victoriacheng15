@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/three-js-demo/pull/1) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/three-js-demo/pull/1) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023/pull/1) in [victoriacheng15/aws-bootcamp-cruddur-2023](https://github.com/victoriacheng15/aws-bootcamp-cruddur-2023)
+1. 🎉 Merged PR [#252](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/252) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 💪 Opened PR [#252](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/252) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 🎉 Merged PR [#251](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/251) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
