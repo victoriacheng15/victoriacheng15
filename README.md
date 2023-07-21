@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Continuous Improvement: Lessons from The Phoenix Project](https://victoriacheng15.vercel.app/posts/continuous-improvement-lessons-from-the-phoenix-project/)
- - 🌮 [JavaScript - Closure](https://victoriacheng15.vercel.app/posts/javascript-closure/)
+ - 💯 [TypeScript Utility Types - Partial](https://victoriacheng15.vercel.app/posts/typescript-utility-types-partial/)
+ - 🌮 [Continuous Improvement: Lessons from The Phoenix Project](https://victoriacheng15.vercel.app/posts/continuous-improvement-lessons-from-the-phoenix-project/)
+ - 💫 [JavaScript - Closure](https://victoriacheng15.vercel.app/posts/javascript-closure/)
  - 💫 [The Path to Clean Code: Insights from Robert Martin](https://victoriacheng15.vercel.app/posts/the-path-to-clean-code-insights-from-robert-martin/)
- - 💫 [JavaScript - Bind, Call, and Apply](https://victoriacheng15.vercel.app/posts/javascript-bind-call-and-apply/)
- - 🌮 [From Busy to Productive: Embracing the Deep Work Mindset](https://victoriacheng15.vercel.app/posts/from-busy-to-productive-embracing-the-deep-work-mindset/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [JavaScript - Bind, Call, and Apply](https://victoriacheng15.vercel.app/posts/javascript-bind-call-and-apply/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
