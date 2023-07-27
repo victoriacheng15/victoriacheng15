@@ -65,9 +65,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/three-js-demo/pull/9) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-4. 💪 Opened PR [#9](https://github.com/victoriacheng15/three-js-demo/pull/9) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+2. 🎉 Merged PR [#13](https://github.com/victoriacheng15/three-js-demo/pull/13) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+3. 💪 Opened PR [#13](https://github.com/victoriacheng15/three-js-demo/pull/13) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
 <!--RECENT_ACTIVITY:end-->
 
