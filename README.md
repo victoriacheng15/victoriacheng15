@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-2. 🎉 Merged PR [#39](https://github.com/victoriacheng15/links-me/pull/39) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-3. 💪 Opened PR [#39](https://github.com/victoriacheng15/links-me/pull/39) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
-5. 🎉 Merged PR [#38](https://github.com/victoriacheng15/links-me/pull/38) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#267](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/267) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+4. 🎉 Merged PR [#39](https://github.com/victoriacheng15/links-me/pull/39) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
+5. 💪 Opened PR [#39](https://github.com/victoriacheng15/links-me/pull/39) in [victoriacheng15/links-me](https://github.com/victoriacheng15/links-me)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
