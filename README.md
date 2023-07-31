@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#177](https://github.com/victoriacheng15/codewars/pull/177) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+2. 🎉 Merged PR [#24](https://github.com/victoriacheng15/three-js-demo/pull/24) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+3. 💪 Opened PR [#24](https://github.com/victoriacheng15/three-js-demo/pull/24) in [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#177](https://github.com/victoriacheng15/codewars/pull/177) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
