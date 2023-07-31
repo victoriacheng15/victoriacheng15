@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [July Reflection 2023](https://victoriacheng15.vercel.app/posts/july-reflection/)
- - 🌮 [Unleashing the 12-Week Plan: The Road to Accomplishment](https://victoriacheng15.vercel.app/posts/unleashing-the-12week-plan-the-road-to-accomplishment/)
+ - 💯 [Living the Life with The Subtle Art of Not Giving a Fk](https://victoriacheng15.vercel.app/posts/living-the-life-with-the-subtle-art-of-not-giving-a-fk/)
+ - 🌮 [July Reflection 2023](https://victoriacheng15.vercel.app/posts/july-reflection/)
+ - 💫 [Unleashing the 12-Week Plan: The Road to Accomplishment](https://victoriacheng15.vercel.app/posts/unleashing-the-12week-plan-the-road-to-accomplishment/)
  - 💫 [TypeScript Utility Types - Partial](https://victoriacheng15.vercel.app/posts/typescript-utility-types-partial/)
- - 💫 [Continuous Improvement: Lessons from The Phoenix Project](https://victoriacheng15.vercel.app/posts/continuous-improvement-lessons-from-the-phoenix-project/)
- - 🌮 [JavaScript - Closure](https://victoriacheng15.vercel.app/posts/javascript-closure/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Continuous Improvement: Lessons from The Phoenix Project](https://victoriacheng15.vercel.app/posts/continuous-improvement-lessons-from-the-phoenix-project/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
