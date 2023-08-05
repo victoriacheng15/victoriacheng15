@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#274](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/274) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 👍 Approved [#4566](https://github.com/codinasion/codinasion/pull/4566#pullrequestreview-1563083844) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/three-js-demo](https://github.com/victoriacheng15/three-js-demo)
+2. 🎉 Merged PR [#275](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/275) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 💪 Opened PR [#275](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/275) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 🎉 Merged PR [#274](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/274) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
