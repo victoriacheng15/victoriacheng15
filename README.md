@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [TypeScript Utility Types - Pick](https://victoriacheng15.vercel.app/posts/typescript-utility-types-pick/)
- - 🌮 [Living the Life with The Subtle Art of Not Giving a Fk](https://victoriacheng15.vercel.app/posts/living-the-life-with-the-subtle-art-of-not-giving-a-fk/)
+ - 💯 [Unlocking Your Second Brain: Enhanced Learning &amp; Innovation](https://victoriacheng15.vercel.app/posts/unlocking-your-second-brain-enhanced-learning-innovation/)
+ - 🌮 [TypeScript Utility Types - Pick](https://victoriacheng15.vercel.app/posts/typescript-utility-types-pick/)
+ - 💫 [Living the Life with The Subtle Art of Not Giving a Fk](https://victoriacheng15.vercel.app/posts/living-the-life-with-the-subtle-art-of-not-giving-a-fk/)
  - 💫 [July Reflection 2023](https://victoriacheng15.vercel.app/posts/july-reflection/)
- - 💫 [Unleashing the 12-Week Plan: The Road to Accomplishment](https://victoriacheng15.vercel.app/posts/unleashing-the-12week-plan-the-road-to-accomplishment/)
- - 🌮 [TypeScript Utility Types - Partial](https://victoriacheng15.vercel.app/posts/typescript-utility-types-partial/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Unleashing the 12-Week Plan: The Road to Accomplishment](https://victoriacheng15.vercel.app/posts/unleashing-the-12week-plan-the-road-to-accomplishment/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
