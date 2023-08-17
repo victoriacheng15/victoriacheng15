@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Obstacle Is the Way: Transforming Challenges into Success](https://victoriacheng15.vercel.app/posts/obstacle-is-the-way-transforming-challenges-into-success/)
- - 🌮 [TypeScript Utility Types - Readonly](https://victoriacheng15.vercel.app/posts/typescript-utility-types-readonly/)
+ - 💯 [JavaScript - Generator](https://victoriacheng15.vercel.app/posts/javascript-generator/)
+ - 🌮 [Obstacle Is the Way: Transforming Challenges into Success](https://victoriacheng15.vercel.app/posts/obstacle-is-the-way-transforming-challenges-into-success/)
+ - 💫 [TypeScript Utility Types - Readonly](https://victoriacheng15.vercel.app/posts/typescript-utility-types-readonly/)
  - 💫 [Unlocking Your Second Brain: Enhanced Learning &amp; Innovation](https://victoriacheng15.vercel.app/posts/unlocking-your-second-brain-enhanced-learning-innovation/)
- - 💫 [TypeScript Utility Types - Pick](https://victoriacheng15.vercel.app/posts/typescript-utility-types-pick/)
- - 🌮 [Living the Life with The Subtle Art of Not Giving a Fk](https://victoriacheng15.vercel.app/posts/living-the-life-with-the-subtle-art-of-not-giving-a-fk/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [TypeScript Utility Types - Pick](https://victoriacheng15.vercel.app/posts/typescript-utility-types-pick/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
