@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#191](https://github.com/victoriacheng15/codewars/pull/191) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#191](https://github.com/victoriacheng15/codewars/pull/191) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/allTheLinks/pull/1) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/allTheLinks/pull/1) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+5. 📔 Created new repository [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
