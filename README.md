@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/allTheLinks/pull/2) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-3. 💪 Opened PR [#4](https://github.com/victoriacheng15/allTheLinks/pull/4) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-4. 💪 Opened PR [#3](https://github.com/victoriacheng15/allTheLinks/pull/3) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-5. 💪 Opened PR [#2](https://github.com/victoriacheng15/allTheLinks/pull/2) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+2. 🎉 Merged PR [#5](https://github.com/victoriacheng15/allTheLinks/pull/5) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+3. 💪 Opened PR [#5](https://github.com/victoriacheng15/allTheLinks/pull/5) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/allTheLinks/pull/4) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
