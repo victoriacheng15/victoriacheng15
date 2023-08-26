@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#195](https://github.com/victoriacheng15/codewars/pull/195) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#195](https://github.com/victoriacheng15/codewars/pull/195) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 🎉 Merged PR [#194](https://github.com/victoriacheng15/codewars/pull/194) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#294](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/294) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#195](https://github.com/victoriacheng15/codewars/pull/195) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 💪 Opened PR [#195](https://github.com/victoriacheng15/codewars/pull/195) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
