@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [React Hooks - useRef](https://victoriacheng15.vercel.app/posts/react-hooks-useref/)
- - 🌮 [Insights from Software Engineering at Google Book](https://victoriacheng15.vercel.app/posts/insights-from-software-engineering-at-google-book/)
+ - 💯 [How to Win Friends and Influence People: Modern Insights](https://victoriacheng15.vercel.app/posts/how-to-win-friends-and-influence-people-modern-insights/)
+ - 🌮 [React Hooks - useRef](https://victoriacheng15.vercel.app/posts/react-hooks-useref/)
+ - 💫 [Insights from Software Engineering at Google Book](https://victoriacheng15.vercel.app/posts/insights-from-software-engineering-at-google-book/)
  - 💫 [JavaScript - Generator](https://victoriacheng15.vercel.app/posts/javascript-generator/)
- - 💫 [Obstacle Is the Way: Transforming Challenges into Success](https://victoriacheng15.vercel.app/posts/obstacle-is-the-way-transforming-challenges-into-success/)
- - 🌮 [TypeScript Utility Types - Readonly](https://victoriacheng15.vercel.app/posts/typescript-utility-types-readonly/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Obstacle Is the Way: Transforming Challenges into Success](https://victoriacheng15.vercel.app/posts/obstacle-is-the-way-transforming-challenges-into-success/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
