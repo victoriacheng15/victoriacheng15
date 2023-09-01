@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-2. 🎉 Merged PR [#25](https://github.com/victoriacheng15/allTheLinks/pull/25) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-3. 💪 Opened PR [#25](https://github.com/victoriacheng15/allTheLinks/pull/25) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-4. ✔️ Closed issue [#1219](https://github.com/codinasion/codinasion/issues/1219) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#199](https://github.com/victoriacheng15/codewars/pull/199) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 💪 Opened PR [#199](https://github.com/victoriacheng15/codewars/pull/199) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
