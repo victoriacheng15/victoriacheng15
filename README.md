@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#201](https://github.com/victoriacheng15/codewars/pull/201) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#201](https://github.com/victoriacheng15/codewars/pull/201) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 🎉 Merged PR [#200](https://github.com/victoriacheng15/codewars/pull/200) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/wc-ts-node/pull/7) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/wc-ts-node/pull/7) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/wc-ts-node/pull/6) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
