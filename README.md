@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
-2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/wc-ts-node/pull/7) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
-3. 💪 Opened PR [#7](https://github.com/victoriacheng15/wc-ts-node/pull/7) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+1. ❌ Closed PR [#1](https://github.com/CodeCoachJS/js_pro_next_js_graphql/pull/1) in [CodeCoachJS/js_pro_next_js_graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
+2. 💪 Opened PR [#1](https://github.com/CodeCoachJS/js_pro_next_js_graphql/pull/1) in [CodeCoachJS/js_pro_next_js_graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
+3. 🔱 Forked [victoriacheng15/js_pro_next_js_graphql](https://github.com/victoriacheng15/js_pro_next_js_graphql) from [CodeCoachJS/js_pro_next_js_graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
-5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/wc-ts-node/pull/6) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+5. 🎉 Merged PR [#7](https://github.com/victoriacheng15/wc-ts-node/pull/7) in [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
