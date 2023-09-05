@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hassanhabib/The-Standard](https://github.com/hassanhabib/The-Standard)
-2. ❌ Closed PR [#1](https://github.com/CodeCoachJS/js_pro_next_js_graphql/pull/1) in [CodeCoachJS/js_pro_next_js_graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
-3. 💪 Opened PR [#1](https://github.com/CodeCoachJS/js_pro_next_js_graphql/pull/1) in [CodeCoachJS/js_pro_next_js_graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
-4. 🔱 Forked [victoriacheng15/js_pro_next_js_graphql](https://github.com/victoriacheng15/js_pro_next_js_graphql) from [CodeCoachJS/js_pro_next_js_graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/wc-ts-node](https://github.com/victoriacheng15/wc-ts-node)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#300](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/300) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 💪 Opened PR [#300](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/300) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
