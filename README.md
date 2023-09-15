@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [TypeScript Utility Types - Required](https://victoriacheng15.vercel.app/posts/typescript-utility-types-required/)
- - 🌮 [Can&#39;t Hurt Me: Embracing Struggle, Achieving the Impossible](https://victoriacheng15.vercel.app/posts/cant-hurt-me-embracing-struggle-achieving-the-impossible/)
+ - 💯 [TypeScript Utility Types - Record](https://victoriacheng15.vercel.app/posts/typescript-utility-types-record/)
+ - 🌮 [TypeScript Utility Types - Required](https://victoriacheng15.vercel.app/posts/typescript-utility-types-required/)
+ - 💫 [Can&#39;t Hurt Me: Embracing Struggle, Achieving the Impossible](https://victoriacheng15.vercel.app/posts/cant-hurt-me-embracing-struggle-achieving-the-impossible/)
  - 💫 [August Reflection 2023](https://victoriacheng15.vercel.app/posts/august-reflection/)
- - 💫 [How to Win Friends and Influence People: Modern Insights](https://victoriacheng15.vercel.app/posts/how-to-win-friends-and-influence-people-modern-insights/)
- - 🌮 [React Hooks - useRef](https://victoriacheng15.vercel.app/posts/react-hooks-useref/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [How to Win Friends and Influence People: Modern Insights](https://victoriacheng15.vercel.app/posts/how-to-win-friends-and-influence-people-modern-insights/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
