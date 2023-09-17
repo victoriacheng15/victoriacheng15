@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [TypeScript Utility Types - Record](https://victoriacheng15.vercel.app/posts/typescript-utility-types-record/)
- - 🌮 [TypeScript Utility Types - Required](https://victoriacheng15.vercel.app/posts/typescript-utility-types-required/)
+ - 💯 [Clean Architecture: Building Robust Systems](https://victoriacheng15.vercel.app/posts/clean-architecture-building-robust-systems/)
+ - 🌮 [TypeScript Utility Types - Record](https://victoriacheng15.vercel.app/posts/typescript-utility-types-record/)
+ - 💫 [TypeScript Utility Types - Required](https://victoriacheng15.vercel.app/posts/typescript-utility-types-required/)
  - 💫 [Can&#39;t Hurt Me: Embracing Struggle, Achieving the Impossible](https://victoriacheng15.vercel.app/posts/cant-hurt-me-embracing-struggle-achieving-the-impossible/)
- - 💫 [August Reflection 2023](https://victoriacheng15.vercel.app/posts/august-reflection/)
- - 🌮 [How to Win Friends and Influence People: Modern Insights](https://victoriacheng15.vercel.app/posts/how-to-win-friends-and-influence-people-modern-insights/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [August Reflection 2023](https://victoriacheng15.vercel.app/posts/august-reflection/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
