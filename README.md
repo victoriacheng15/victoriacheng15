@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#319](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/319) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 💪 Opened PR [#319](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/319) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#318](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/318) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ✔️ Closed issue [#415](https://github.com/codinasion/codinasion/issues/415) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+2. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+3. 🎉 Merged PR [#4626](https://github.com/codinasion/codinasion/pull/4626) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+4. 👍 Approved [#4626](https://github.com/codinasion/codinasion/pull/4626#pullrequestreview-1652230147) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. ✔️ Closed issue [#3922](https://github.com/codinasion/codinasion/issues/3922) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
