@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [The Unfair Advantage: Harnessing Your Unique Abilities](https://victoriacheng15.vercel.app/posts/the-unfair-advantage-harnessing-your-unique-abilities/)
- - 🌮 [September Reflection 2023](https://victoriacheng15.vercel.app/posts/september-reflection/)
+ - 💯 [TypeScript Utility Types - Omit](https://victoriacheng15.vercel.app/posts/typescript-utility-types-omit/)
+ - 🌮 [The Unfair Advantage: Harnessing Your Unique Abilities](https://victoriacheng15.vercel.app/posts/the-unfair-advantage-harnessing-your-unique-abilities/)
+ - 💫 [September Reflection 2023](https://victoriacheng15.vercel.app/posts/september-reflection/)
  - 💫 [Ultralearning: Accelerated Learning Strategies](https://victoriacheng15.vercel.app/posts/ultralearning-accelerated-learning-strategies/)
- - 💫 [TypeScript Utility Types - Exclude](https://victoriacheng15.vercel.app/posts/typescript-utility-types-exclude/)
- - 🌮 [Clean Architecture: Building Robust Systems](https://victoriacheng15.vercel.app/posts/clean-architecture-building-robust-systems/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [TypeScript Utility Types - Exclude](https://victoriacheng15.vercel.app/posts/typescript-utility-types-exclude/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
