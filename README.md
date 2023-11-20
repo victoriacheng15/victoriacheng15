@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-2. ⭐ Starred [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners)
-3. ✔️ Closed issue [#3835](https://github.com/codinasion/codinasion/issues/3835) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-4. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. 🎉 Merged PR [#4699](https://github.com/codinasion/codinasion/pull/4699) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#216](https://github.com/victoriacheng15/codewars/pull/216) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#216](https://github.com/victoriacheng15/codewars/pull/216) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⭐ Starred [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+5. ⭐ Starred [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
