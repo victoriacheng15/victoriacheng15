@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#219](https://github.com/victoriacheng15/codewars/pull/219) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
-4. ✔️ Closed issue [#4062](https://github.com/codinasion/codinasion/issues/4062) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. 🎉 Merged PR [#4729](https://github.com/codinasion/codinasion/pull/4729) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⭐ Starred [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 🎉 Merged PR [#219](https://github.com/victoriacheng15/codewars/pull/219) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. ✔️ Closed issue [#4062](https://github.com/codinasion/codinasion/issues/4062) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
