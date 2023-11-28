@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 🎉 Merged PR [#219](https://github.com/victoriacheng15/codewars/pull/219) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. ✔️ Closed issue [#4062](https://github.com/codinasion/codinasion/issues/4062) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. 👍 Approved [#4754](https://github.com/codinasion/codinasion/pull/4754#pullrequestreview-1753036630) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+2. 👍 Approved [#4749](https://github.com/codinasion/codinasion/pull/4749#pullrequestreview-1753030346) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+4. ✔️ Closed issue [#3719](https://github.com/codinasion/codinasion/issues/3719) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. 🎉 Merged PR [#4740](https://github.com/codinasion/codinasion/pull/4740) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
