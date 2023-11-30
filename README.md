@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/advent-of-code/pull/10) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-3. 💪 Opened PR [#10](https://github.com/victoriacheng15/advent-of-code/pull/10) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
-5. 🎉 Merged PR [#9](https://github.com/victoriacheng15/advent-of-code/pull/9) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+1. ⬆️ Pushed 53 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+3. 🎉 Merged PR [#10](https://github.com/victoriacheng15/advent-of-code/pull/10) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+4. 💪 Opened PR [#10](https://github.com/victoriacheng15/advent-of-code/pull/10) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
