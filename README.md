@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/ccwc-js/pull/1) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/ccwc-js/pull/1) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-4. 📔 Created new repository [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-5. 👍 Approved [#4807](https://github.com/codinasion/codinasion/pull/4807#pullrequestreview-1757899911) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/advent-of-code/pull/12) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+3. 💪 Opened PR [#12](https://github.com/victoriacheng15/advent-of-code/pull/12) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
+5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/advent-of-code/pull/11) in [victoriacheng15/advent-of-code](https://github.com/victoriacheng15/advent-of-code)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
