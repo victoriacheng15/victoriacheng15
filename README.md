@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [JavaScript - Logical OR Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-or-assignment-operator/)
- - 🌮 [JavaScript - Logical AND Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-and-assignment-operator/)
+ - 💯 [Boost Productivity with the Getting Things Done Method](https://victoriacheng15.vercel.app/posts/boost-productivity-with-the-getting-things-done-method/)
+ - 🌮 [JavaScript - Logical OR Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-or-assignment-operator/)
+ - 💫 [JavaScript - Logical AND Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-and-assignment-operator/)
  - 💫 [Jumpstart Your Day with &#39;Eat That Frog&#39; Wisdom](https://victoriacheng15.vercel.app/posts/jumpstart-your-day-with-eat-that-frog-wisdom/)
- - 💫 [TypeScript Utility Types - Omit](https://victoriacheng15.vercel.app/posts/typescript-utility-types-omit/)
- - 🌮 [The Unfair Advantage: Harnessing Your Unique Abilities](https://victoriacheng15.vercel.app/posts/the-unfair-advantage-harnessing-your-unique-abilities/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [TypeScript Utility Types - Omit](https://victoriacheng15.vercel.app/posts/typescript-utility-types-omit/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
