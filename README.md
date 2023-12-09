@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [JavaScript - Nullish Coalescing Assignment](https://victoriacheng15.vercel.app/posts/javascript-nullish-coalescing-assignment/)
- - 🌮 [Boost Productivity with the Getting Things Done Method](https://victoriacheng15.vercel.app/posts/boost-productivity-with-the-getting-things-done-method/)
+ - 💯 [The 4-Hour Workweek - To the Lifestyle You Want](https://victoriacheng15.vercel.app/posts/the-4-hour-workweek-to-the-lifestyle-you-want/)
+ - 🌮 [JavaScript - Nullish Coalescing Assignment](https://victoriacheng15.vercel.app/posts/javascript-nullish-coalescing-assignment/)
+ - 💫 [Boost Productivity with the Getting Things Done Method](https://victoriacheng15.vercel.app/posts/boost-productivity-with-the-getting-things-done-method/)
  - 💫 [JavaScript - Logical OR Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-or-assignment-operator/)
- - 💫 [JavaScript - Logical AND Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-and-assignment-operator/)
- - 🌮 [Jumpstart Your Day with &#39;Eat That Frog&#39; Wisdom](https://victoriacheng15.vercel.app/posts/jumpstart-your-day-with-eat-that-frog-wisdom/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [JavaScript - Logical AND Assignment Operator](https://victoriacheng15.vercel.app/posts/javascript-logical-and-assignment-operator/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
