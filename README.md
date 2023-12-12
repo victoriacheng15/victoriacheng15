@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/ccwc-js/pull/4) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-3. 💪 Opened PR [#4](https://github.com/victoriacheng15/ccwc-js/pull/4) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#348](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/348) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#5](https://github.com/victoriacheng15/ccwc-js/pull/5) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
+3. 💪 Opened PR [#5](https://github.com/victoriacheng15/ccwc-js/pull/5) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
+5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/ccwc-js/pull/4) in [victoriacheng15/ccwc-js](https://github.com/victoriacheng15/ccwc-js)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
