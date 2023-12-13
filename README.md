@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-2. 🎉 Merged PR [#48](https://github.com/victoriacheng15/bubble-tea-api/pull/48) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-3. 💪 Opened PR [#48](https://github.com/victoriacheng15/bubble-tea-api/pull/48) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#349](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/349) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#50](https://github.com/victoriacheng15/bubble-tea-api/pull/50) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+3. 💪 Opened PR [#50](https://github.com/victoriacheng15/bubble-tea-api/pull/50) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+5. 🎉 Merged PR [#49](https://github.com/victoriacheng15/bubble-tea-api/pull/49) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
