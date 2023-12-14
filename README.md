@@ -65,9 +65,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/pdf-generator](https://github.com/victoriacheng15/pdf-generator)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/pdf-generator/pull/1) in [victoriacheng15/pdf-generator](https://github.com/victoriacheng15/pdf-generator)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/pdf-generator/pull/1) in [victoriacheng15/pdf-generator](https://github.com/victoriacheng15/pdf-generator)
-4. 📔 Created new repository [victoriacheng15/pdf-generator](https://github.com/victoriacheng15/pdf-generator)
+2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/pdf-generator/pull/2) in [victoriacheng15/pdf-generator](https://github.com/victoriacheng15/pdf-generator)
+3. 💪 Opened PR [#2](https://github.com/victoriacheng15/pdf-generator/pull/2) in [victoriacheng15/pdf-generator](https://github.com/victoriacheng15/pdf-generator)
+4. 🎉 Merged PR [#51](https://github.com/victoriacheng15/bubble-tea-api/pull/51) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 <!--RECENT_ACTIVITY:end-->
 
