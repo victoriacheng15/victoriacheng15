@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring the Aspects of Modern Software Engineering](https://victoriacheng15.vercel.app/posts/exploring-the-aspects-of-modern-software-engineering/)
- - 🌮 [TypeScript Utility Types - Extract](https://victoriacheng15.vercel.app/posts/typescript-utility-types-extract/)
+ - 💯 [TypeScript Utility Types - NonNullable](https://victoriacheng15.vercel.app/posts/typescript-utility-types-nonnullable/)
+ - 🌮 [Exploring the Aspects of Modern Software Engineering](https://victoriacheng15.vercel.app/posts/exploring-the-aspects-of-modern-software-engineering/)
+ - 💫 [TypeScript Utility Types - Extract](https://victoriacheng15.vercel.app/posts/typescript-utility-types-extract/)
  - 💫 [The 4-Hour Workweek - To the Lifestyle You Want](https://victoriacheng15.vercel.app/posts/the-4-hour-workweek-to-the-lifestyle-you-want/)
- - 💫 [JavaScript - Nullish Coalescing Assignment](https://victoriacheng15.vercel.app/posts/javascript-nullish-coalescing-assignment/)
- - 🌮 [Boost Productivity with the Getting Things Done Method](https://victoriacheng15.vercel.app/posts/boost-productivity-with-the-getting-things-done-method/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [JavaScript - Nullish Coalescing Assignment](https://victoriacheng15.vercel.app/posts/javascript-nullish-coalescing-assignment/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
