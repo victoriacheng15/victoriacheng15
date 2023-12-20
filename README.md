@@ -65,10 +65,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
-2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/weather-bot/pull/3) in [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
-3. 💪 Opened PR [#3](https://github.com/victoriacheng15/weather-bot/pull/3) in [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#361](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/361) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/weather-bot/pull/4) in [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
+3. 💪 Opened PR [#4](https://github.com/victoriacheng15/weather-bot/pull/4) in [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/weather-bot/pull/3) in [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
