@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [TypeScript Utility Types - NonNullable](https://victoriacheng15.vercel.app/posts/typescript-utility-types-nonnullable/)
- - 🌮 [Exploring the Aspects of Modern Software Engineering](https://victoriacheng15.vercel.app/posts/exploring-the-aspects-of-modern-software-engineering/)
+ - 💯 [Unignorable Mastery: So Good They Can&#39;t Ignore You](https://victoriacheng15.vercel.app/posts/unignorable-mastery-so-good-they-cant-ignore-you/)
+ - 🌮 [TypeScript Utility Types - NonNullable](https://victoriacheng15.vercel.app/posts/typescript-utility-types-nonnullable/)
+ - 💫 [Exploring the Aspects of Modern Software Engineering](https://victoriacheng15.vercel.app/posts/exploring-the-aspects-of-modern-software-engineering/)
  - 💫 [TypeScript Utility Types - Extract](https://victoriacheng15.vercel.app/posts/typescript-utility-types-extract/)
- - 💫 [The 4-Hour Workweek - To the Lifestyle You Want](https://victoriacheng15.vercel.app/posts/the-4-hour-workweek-to-the-lifestyle-you-want/)
- - 🌮 [JavaScript - Nullish Coalescing Assignment](https://victoriacheng15.vercel.app/posts/javascript-nullish-coalescing-assignment/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [The 4-Hour Workweek - To the Lifestyle You Want](https://victoriacheng15.vercel.app/posts/the-4-hour-workweek-to-the-lifestyle-you-want/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
