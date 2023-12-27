@@ -50,11 +50,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Unignorable Mastery: So Good They Can&#39;t Ignore You](https://victoriacheng15.vercel.app/posts/unignorable-mastery-so-good-they-cant-ignore-you/)
- - 🌮 [TypeScript Utility Types - NonNullable](https://victoriacheng15.vercel.app/posts/typescript-utility-types-nonnullable/)
+ - 💯 [Reflecting on 2023: A Year in Review](https://victoriacheng15.vercel.app/posts/reflecting-on-a-year-in-review/)
+ - 🌮 [Unignorable Mastery: So Good They Can&#39;t Ignore You](https://victoriacheng15.vercel.app/posts/unignorable-mastery-so-good-they-cant-ignore-you/)
+ - 💫 [TypeScript Utility Types - NonNullable](https://victoriacheng15.vercel.app/posts/typescript-utility-types-nonnullable/)
  - 💫 [Exploring the Aspects of Modern Software Engineering](https://victoriacheng15.vercel.app/posts/exploring-the-aspects-of-modern-software-engineering/)
- - 💫 [TypeScript Utility Types - Extract](https://victoriacheng15.vercel.app/posts/typescript-utility-types-extract/)
- - 🌮 [The 4-Hour Workweek - To the Lifestyle You Want](https://victoriacheng15.vercel.app/posts/the-4-hour-workweek-to-the-lifestyle-you-want/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [TypeScript Utility Types - Extract](https://victoriacheng15.vercel.app/posts/typescript-utility-types-extract/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
