@@ -64,11 +64,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-2. 🎉 Merged PR [#371](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/371) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 💪 Opened PR [#371](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/371) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⭐ Starred [CodingChallegesFYI/SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions)
+2. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+3. 🎉 Merged PR [#371](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/371) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 💪 Opened PR [#371](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/371) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
