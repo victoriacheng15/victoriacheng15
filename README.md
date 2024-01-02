@@ -8,30 +8,11 @@
 
 - Pronouns: she/her
 - I'm based in Calgary, Canada
-- I'm looking to collaborate projects or contribute to open sources
+- I'm looking to collaborate on projects or contribute to open sources
 - I'm currently working on improving my skills
 - Drinks: ☕ coffee and 🍵 tea
 - Coding Environment: dark mode
-- Languages: English, Mandarin and American Sign Language
-
-### 🌱 I am currently learning
-
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![PostreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-
-
-<!-- ## My Projects
-
-<div align="center">
-
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=bubble-tea-api&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/bubble-tea-api#readme)  
-  
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=hacker-news-next&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/hacker-news-next#readme) 
-  
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=rest-countries-api-next&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/rest-countries-api-next#readme)   
-  
-[<img src='https://github-readme-stats-victoriacheng15.vercel.app/api/pin/?username=victoriacheng15&repo=ai-image-generation&bg_color=00172e&title_color=70b8ff&text_color=f5f5f5&icon_color=70b8ff&border_color=0070e0' />](https://github.com/victoriacheng15/ai-image-generation#readme)   
-  
-</div> -->
+- Languages: Chinese, English and American Sign Language
 
 # 💼 Tech Stack
 
@@ -72,16 +53,3 @@
 <!--RECENT_ACTIVITY:end-->
 
 </details>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[<img src="https://github-readme-stats-victoriacheng15.vercel.app/api/top-langs/?username=victoriacheng15&layout=compact&bg_color=00172e&title_color=70b8ff&text_color=f97316&icon_color=70b8ff&border_color=0070e0&" height="180" />](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src="https://github-readme-stats-victoriacheng15.vercel.app/api?username=victoriacheng15&bg_color=00172e&title_color=70b8ff&text_color=f97316&icon_color=70b8ff&border_color=0070e0&show_icons=true" height="180" />](https://github.com/anuraghazra/github-readme-stats)
-  
-<!--   [<img src='https://streak-stats.demolab.com?user=victoriacheng15&theme=dark&background=00172E&border=0070E0&dates=F5F5F5&currStreakNum=70B8FF&sideNums=70B8FF&sideLabels=70B8FF' height="150" />](https://streak-stats.demolab.com) -->
-
-</div>
-
