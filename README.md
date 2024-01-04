@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
-2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/cc-write-your-discord-bot/pull/10) in [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
-3. 💪 Opened PR [#10](https://github.com/victoriacheng15/cc-write-your-discord-bot/pull/10) in [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
-5. 🎉 Merged PR [#9](https://github.com/victoriacheng15/weather-bot/pull/9) in [victoriacheng15/weather-bot](https://github.com/victoriacheng15/weather-bot)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/10) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+3. 💪 Opened PR [#10](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/10) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+5. 🎉 Merged PR [#9](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/9) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
