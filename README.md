@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-2. 💪 Opened PR [#13](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/13) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-4. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/12) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-5. 💪 Opened PR [#12](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/12) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#382](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/382) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 🔴 Requested 2 change(s) for [#5020](https://github.com/codinasion/codinasion/pull/5020#pullrequestreview-1806706013) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+4. 💬 Commented on [#5020](https://github.com/codinasion/codinasion/pull/5020#discussion_r1443291160) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
