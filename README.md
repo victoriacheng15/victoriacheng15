@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 🎉 Merged PR [#381](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/381) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 💪 Opened PR [#381](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/381) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
+2. 🎉 Merged PR [#15](https://github.com/victoriacheng15/cc-write-your-discord-bot/pull/15) in [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
+3. 💪 Opened PR [#15](https://github.com/victoriacheng15/cc-write-your-discord-bot/pull/15) in [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
+4. ⬆️ Pushed 6 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
