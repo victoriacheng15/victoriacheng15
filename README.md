@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#13](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/13) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-3. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/12) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-4. 💪 Opened PR [#12](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/12) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-discord-bot](https://github.com/victoriacheng15/cc-write-your-discord-bot)
+1. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+2. 💪 Opened PR [#13](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/13) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+4. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/12) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
+5. 💪 Opened PR [#12](https://github.com/victoriacheng15/cc-write-your-own-wc/pull/12) in [victoriacheng15/cc-write-your-own-wc](https://github.com/victoriacheng15/cc-write-your-own-wc)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
