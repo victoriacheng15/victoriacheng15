@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5018](https://github.com/codinasion/codinasion/issues/5018) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-2. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
-3. 🎉 Merged PR [#5020](https://github.com/codinasion/codinasion/pull/5020) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-4. 👍 Approved [#5020](https://github.com/codinasion/codinasion/pull/5020#pullrequestreview-1807244656) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. ❌ Closed PR [#383](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/383) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⭐ Starred [narutosstudent/system-design-notes](https://github.com/narutosstudent/system-design-notes)
+2. ✔️ Closed issue [#5018](https://github.com/codinasion/codinasion/issues/5018) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+3. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+4. 🎉 Merged PR [#5020](https://github.com/codinasion/codinasion/pull/5020) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. 👍 Approved [#5020](https://github.com/codinasion/codinasion/pull/5020#pullrequestreview-1807244656) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
