@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A Blueprint for Digital Visibility - Show Your Work](https://victoriacheng15.vercel.app/posts/a-blueprint-for-digital-visibility-show-your-work/)
- - 🌮 [TypeScript Utility Types - Parameters](https://victoriacheng15.vercel.app/posts/typescript-utility-types-parameters/)
+ - 💯 [System Design - Understanding Vertical vs Horizontal Scaling](https://victoriacheng15.vercel.app/posts/system-design-understanding-vertical-vs-horizontal-scaling/)
+ - 🌮 [A Blueprint for Digital Visibility - Show Your Work](https://victoriacheng15.vercel.app/posts/a-blueprint-for-digital-visibility-show-your-work/)
+ - 💫 [TypeScript Utility Types - Parameters](https://victoriacheng15.vercel.app/posts/typescript-utility-types-parameters/)
  - 💫 [Reflecting on 2023: A Year in Review](https://victoriacheng15.vercel.app/posts/reflecting-on-a-year-in-review/)
- - 💫 [Unignorable Mastery: So Good They Can&#39;t Ignore You](https://victoriacheng15.vercel.app/posts/unignorable-mastery-so-good-they-cant-ignore-you/)
- - 🌮 [TypeScript Utility Types - NonNullable](https://victoriacheng15.vercel.app/posts/typescript-utility-types-nonnullable/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Unignorable Mastery: So Good They Can&#39;t Ignore You](https://victoriacheng15.vercel.app/posts/unignorable-mastery-so-good-they-cant-ignore-you/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
