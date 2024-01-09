@@ -46,10 +46,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/info-pack-bot/pull/4) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-3. 💪 Opened PR [#4](https://github.com/victoriacheng15/info-pack-bot/pull/4) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#390](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/390) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/info-pack-bot/pull/6) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+3. 💪 Opened PR [#6](https://github.com/victoriacheng15/info-pack-bot/pull/6) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+5. 🎉 Merged PR [#5](https://github.com/victoriacheng15/info-pack-bot/pull/5) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
