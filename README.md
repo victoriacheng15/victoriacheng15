@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/info-pack-bot/pull/11) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-3. 💪 Opened PR [#11](https://github.com/victoriacheng15/info-pack-bot/pull/11) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-4. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#88](https://github.com/victoriacheng15/hacker-news-next/pull/88) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+4. 🎉 Merged PR [#11](https://github.com/victoriacheng15/info-pack-bot/pull/11) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+5. 💪 Opened PR [#11](https://github.com/victoriacheng15/info-pack-bot/pull/11) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
