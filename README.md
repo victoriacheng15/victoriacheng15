@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 🎉 Merged PR [#391](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/391) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 👍 Approved [#5158](https://github.com/codinasion/codinasion/pull/5158#pullrequestreview-1814349126) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/info-pack-bot/pull/11) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+3. 💪 Opened PR [#11](https://github.com/victoriacheng15/info-pack-bot/pull/11) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+4. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
