@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-3. 🎉 Merged PR [#12](https://github.com/victoriacheng15/info-pack-bot/pull/12) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-4. 💪 Opened PR [#12](https://github.com/victoriacheng15/info-pack-bot/pull/12) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#392](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/392) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⭐ Starred [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+5. 🎉 Merged PR [#12](https://github.com/victoriacheng15/info-pack-bot/pull/12) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
