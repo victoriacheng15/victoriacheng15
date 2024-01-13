@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Coding Challenges: What I Learned From Write Your wc Tool?](https://victoriacheng15.vercel.app/posts/coding-challenges-what-i-learned-from-write-your-wc-tool/)
- - 🌮 [System Design - Understanding Vertical vs Horizontal Scaling](https://victoriacheng15.vercel.app/posts/system-design-understanding-vertical-vs-horizontal-scaling/)
+ - 💯 [Steal Like an Artist: Navigating Inspiration and Innovation](https://victoriacheng15.vercel.app/posts/steal-like-an-artist-navigating-inspiration-and-innovation/)
+ - 🌮 [Coding Challenges: What I Learned From Write Your wc Tool?](https://victoriacheng15.vercel.app/posts/coding-challenges-what-i-learned-from-write-your-wc-tool/)
+ - 💫 [System Design - Understanding Vertical vs Horizontal Scaling](https://victoriacheng15.vercel.app/posts/system-design-understanding-vertical-vs-horizontal-scaling/)
  - 💫 [A Blueprint for Digital Visibility - Show Your Work](https://victoriacheng15.vercel.app/posts/a-blueprint-for-digital-visibility-show-your-work/)
- - 💫 [TypeScript Utility Types - Parameters](https://victoriacheng15.vercel.app/posts/typescript-utility-types-parameters/)
- - 🌮 [Reflecting on 2023: A Year in Review](https://victoriacheng15.vercel.app/posts/reflecting-on-a-year-in-review/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [TypeScript Utility Types - Parameters](https://victoriacheng15.vercel.app/posts/typescript-utility-types-parameters/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
