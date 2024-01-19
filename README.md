@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Simplifying Big O Notation - A Guide to Algorithm Efficiency](https://victoriacheng15.vercel.app/posts/simplifying-big-o-notation-a-guide-to-algorithm-efficiency/)
- - 🌮 [Steal Like an Artist: Navigating Inspiration and Innovation](https://victoriacheng15.vercel.app/posts/steal-like-an-artist-navigating-inspiration-and-innovation/)
+ - 💯 [Commands for Linux - alias](https://victoriacheng15.vercel.app/posts/commands-for-linux-alias/)
+ - 🌮 [Simplifying Big O Notation - A Guide to Algorithm Efficiency](https://victoriacheng15.vercel.app/posts/simplifying-big-o-notation-a-guide-to-algorithm-efficiency/)
+ - 💫 [Steal Like an Artist: Navigating Inspiration and Innovation](https://victoriacheng15.vercel.app/posts/steal-like-an-artist-navigating-inspiration-and-innovation/)
  - 💫 [Coding Challenges: What I Learned From Write Your wc Tool?](https://victoriacheng15.vercel.app/posts/coding-challenges-what-i-learned-from-write-your-wc-tool/)
- - 💫 [System Design - Understanding Vertical vs Horizontal Scaling](https://victoriacheng15.vercel.app/posts/system-design-understanding-vertical-vs-horizontal-scaling/)
- - 🌮 [A Blueprint for Digital Visibility - Show Your Work](https://victoriacheng15.vercel.app/posts/a-blueprint-for-digital-visibility-show-your-work/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [System Design - Understanding Vertical vs Horizontal Scaling](https://victoriacheng15.vercel.app/posts/system-design-understanding-vertical-vs-horizontal-scaling/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
