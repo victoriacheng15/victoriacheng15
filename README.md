@@ -45,10 +45,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5378](https://github.com/codinasion/codinasion/pull/5378#pullrequestreview-1833609346) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-3. 🎉 Merged PR [#17](https://github.com/victoriacheng15/info-pack-bot/pull/17) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-4. 💪 Opened PR [#17](https://github.com/victoriacheng15/info-pack-bot/pull/17) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/victoriacheng15/pull/11) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. 💪 Opened PR [#11](https://github.com/victoriacheng15/victoriacheng15/pull/11) in [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+4. 👍 Approved [#5378](https://github.com/codinasion/codinasion/pull/5378#pullrequestreview-1833609346) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
 <!--RECENT_ACTIVITY:end-->
 
