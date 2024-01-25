@@ -46,10 +46,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
-2. 💪 Opened PR [#16](https://github.com/victoriacheng15/cc-discord-bot-js/pull/16) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
-3. ⭐ Starred [addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)
-4. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-5. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+2. 🎉 Merged PR [#18](https://github.com/victoriacheng15/cc-discord-bot-js/pull/18) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
+3. 💪 Opened PR [#18](https://github.com/victoriacheng15/cc-discord-bot-js/pull/18) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
+5. 🎉 Merged PR [#17](https://github.com/victoriacheng15/cc-discord-bot-js/pull/17) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
