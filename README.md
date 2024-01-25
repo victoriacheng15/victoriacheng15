@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5405](https://github.com/codinasion/codinasion/pull/5405#pullrequestreview-1842052642) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 🎉 Merged PR [#246](https://github.com/victoriacheng15/codewars/pull/246) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 💪 Opened PR [#246](https://github.com/victoriacheng15/codewars/pull/246) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⭐ Starred [addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)
+2. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+3. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+4. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+5. ⭐ Starred [kdn251/interviews](https://github.com/kdn251/interviews)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
