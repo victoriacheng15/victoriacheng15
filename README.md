@@ -46,10 +46,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
-2. 🎉 Merged PR [#18](https://github.com/victoriacheng15/cc-discord-bot-js/pull/18) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
-3. 💪 Opened PR [#18](https://github.com/victoriacheng15/cc-discord-bot-js/pull/18) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
+2. 🎉 Merged PR [#20](https://github.com/victoriacheng15/cc-discord-bot-js/pull/20) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
+3. 💪 Opened PR [#20](https://github.com/victoriacheng15/cc-discord-bot-js/pull/20) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
-5. 🎉 Merged PR [#17](https://github.com/victoriacheng15/cc-discord-bot-js/pull/17) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
+5. 🎉 Merged PR [#19](https://github.com/victoriacheng15/cc-discord-bot-js/pull/19) in [victoriacheng15/cc-discord-bot-js](https://github.com/victoriacheng15/cc-discord-bot-js)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
