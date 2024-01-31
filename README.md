@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marcobehler/marcobehler-guides](https://github.com/marcobehler/marcobehler-guides)
-2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 🎉 Merged PR [#253](https://github.com/victoriacheng15/codewars/pull/253) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. 💪 Opened PR [#253](https://github.com/victoriacheng15/codewars/pull/253) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+2. 🎉 Merged PR [#23](https://github.com/victoriacheng15/info-pack-bot/pull/23) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+3. 💪 Opened PR [#23](https://github.com/victoriacheng15/info-pack-bot/pull/23) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+4. ⭐ Starred [marcobehler/marcobehler-guides](https://github.com/marcobehler/marcobehler-guides)
+5. ⬆️ Pushed 2 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
