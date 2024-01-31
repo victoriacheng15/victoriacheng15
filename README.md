@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-2. 🎉 Merged PR [#413](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/413) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 💪 Opened PR [#413](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/413) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#253](https://github.com/victoriacheng15/codewars/pull/253) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#253](https://github.com/victoriacheng15/codewars/pull/253) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#252](https://github.com/victoriacheng15/codewars/pull/252) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
