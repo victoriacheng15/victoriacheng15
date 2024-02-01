@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Commands for Linux - alias](https://victoriacheng15.vercel.app/posts/commands-for-linux-alias/)
- - 🌮 [Simplifying Big O Notation - A Guide to Algorithm Efficiency](https://victoriacheng15.vercel.app/posts/simplifying-big-o-notation-a-guide-to-algorithm-efficiency/)
- - 💫 [Steal Like an Artist: Navigating Inspiration and Innovation](https://victoriacheng15.vercel.app/posts/steal-like-an-artist-navigating-inspiration-and-innovation/)
- - 💫 [Coding Challenges: What I Learned From Write Your wc Tool?](https://victoriacheng15.vercel.app/posts/coding-challenges-what-i-learned-from-write-your-wc-tool/)
- - 🌮 [System Design - Understanding Vertical vs Horizontal Scaling](https://victoriacheng15.vercel.app/posts/system-design-understanding-vertical-vs-horizontal-scaling/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Docker Compose: Configuring Images and Container Names](https://victoriacheng15.vercel.app/posts/docker-compose-configuring-images-and-container-names/)
+ - 🌮 [January Reflection 2024](https://victoriacheng15.vercel.app/posts/january-reflection/)
+ - 💫 [Commands for Linux - alias](https://victoriacheng15.vercel.app/posts/commands-for-linux-alias/)
+ - 💫 [Simplifying Big O Notation - A Guide to Algorithm Efficiency](https://victoriacheng15.vercel.app/posts/simplifying-big-o-notation-a-guide-to-algorithm-efficiency/)
+ - 🌮 [Steal Like an Artist: Navigating Inspiration and Innovation](https://victoriacheng15.vercel.app/posts/steal-like-an-artist-navigating-inspiration-and-innovation/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
