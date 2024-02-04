@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-2. 📔 Created new repository [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 🎉 Merged PR [#419](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/419) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 💪 Opened PR [#419](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/419) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/articles-scrap/pull/1) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/articles-scrap/pull/1) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+5. 📔 Created new repository [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
