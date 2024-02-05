@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/victoriacheng15/articles-scrap/pull/2) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/articles-scrap/pull/2) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/articles-scrap/pull/1) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/articles-scrap/pull/3) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/articles-scrap/pull/3) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/articles-scrap/pull/2) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
