@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-2. 🎉 Merged PR [#24](https://github.com/victoriacheng15/info-pack-bot/pull/24) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-3. 💪 Opened PR [#24](https://github.com/victoriacheng15/info-pack-bot/pull/24) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-5. 🎉 Merged PR [#5](https://github.com/victoriacheng15/articles-scrap/pull/5) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
+2. 🎉 Merged PR [#27](https://github.com/victoriacheng15/info-pack-bot/pull/27) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+3. 💪 Opened PR [#27](https://github.com/victoriacheng15/info-pack-bot/pull/27) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+5. 🎉 Merged PR [#26](https://github.com/victoriacheng15/info-pack-bot/pull/26) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
