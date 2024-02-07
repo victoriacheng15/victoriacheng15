@@ -26,11 +26,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Empower Your Journey with the 7 Highly Effective Habits](https://victoriacheng15.vercel.app/posts/empower-your-journey-with-the-highly-effective-habits/)
- - 🌮 [Docker Compose: Configuring Images and Container Names](https://victoriacheng15.vercel.app/posts/docker-compose-configuring-images-and-container-names/)
+ - 💯 [Managing Workflows with GitHub Actions: needs](https://victoriacheng15.vercel.app/posts/managing-workflows-with-github-actions-needs/)
+ - 🌮 [Empower Your Journey with the 7 Highly Effective Habits](https://victoriacheng15.vercel.app/posts/empower-your-journey-with-the-highly-effective-habits/)
+ - 💫 [Docker Compose: Configuring Images and Container Names](https://victoriacheng15.vercel.app/posts/docker-compose-configuring-images-and-container-names/)
  - 💫 [January Reflection 2024](https://victoriacheng15.vercel.app/posts/january-reflection-2024/)
- - 💫 [Commands for Linux - alias](https://victoriacheng15.vercel.app/posts/commands-for-linux-alias/)
- - 🌮 [Simplifying Big O Notation - A Guide to Algorithm Efficiency](https://victoriacheng15.vercel.app/posts/simplifying-big-o-notation-a-guide-to-algorithm-efficiency/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Commands for Linux - alias](https://victoriacheng15.vercel.app/posts/commands-for-linux-alias/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
