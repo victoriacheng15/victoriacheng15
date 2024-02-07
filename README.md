@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-3. 🎉 Merged PR [#6](https://github.com/victoriacheng15/articles-scrap/pull/6) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-4. 💪 Opened PR [#6](https://github.com/victoriacheng15/articles-scrap/pull/6) in [victoriacheng15/articles-scrap](https://github.com/victoriacheng15/articles-scrap)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+2. 🎉 Merged PR [#29](https://github.com/victoriacheng15/info-pack-bot/pull/29) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+3. 💪 Opened PR [#29](https://github.com/victoriacheng15/info-pack-bot/pull/29) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
+5. 🎉 Merged PR [#28](https://github.com/victoriacheng15/info-pack-bot/pull/28) in [victoriacheng15/info-pack-bot](https://github.com/victoriacheng15/info-pack-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
