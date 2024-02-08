@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions) from [CodingChallegesFYI/SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/articles-extractor/pull/9) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 💪 Opened PR [#9](https://github.com/victoriacheng15/articles-extractor/pull/9) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#259](https://github.com/victoriacheng15/codewars/pull/259) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#259](https://github.com/victoriacheng15/codewars/pull/259) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🔱 Forked [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions) from [CodingChallegesFYI/SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
