@@ -26,11 +26,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Managing Workflows with GitHub Actions: needs](https://victoriacheng15.vercel.app/posts/managing-workflows-with-github-actions-needs/)
- - 🌮 [Empower Your Journey with the 7 Highly Effective Habits](https://victoriacheng15.vercel.app/posts/empower-your-journey-with-the-highly-effective-habits/)
+ - 💯 [SSH &amp; Desktop: Pi Connection Guide](https://victoriacheng15.vercel.app/posts/ssh-desktop-pi-connection-guide/)
+ - 🌮 [Managing Workflows with GitHub Actions: needs](https://victoriacheng15.vercel.app/posts/managing-workflows-with-github-actions-needs/)
+ - 💫 [Empower Your Journey with the 7 Highly Effective Habits](https://victoriacheng15.vercel.app/posts/empower-your-journey-with-the-highly-effective-habits/)
  - 💫 [Docker Compose: Configuring Images and Container Names](https://victoriacheng15.vercel.app/posts/docker-compose-configuring-images-and-container-names/)
- - 💫 [January Reflection 2024](https://victoriacheng15.vercel.app/posts/january-reflection-2024/)
- - 🌮 [Commands for Linux - alias](https://victoriacheng15.vercel.app/posts/commands-for-linux-alias/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [January Reflection 2024](https://victoriacheng15.vercel.app/posts/january-reflection-2024/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
