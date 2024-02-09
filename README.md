@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/cc-cat-rs/pull/1) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/cc-cat-rs/pull/1) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/cc-cat-rs/pull/4) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+3. 💪 Opened PR [#4](https://github.com/victoriacheng15/cc-cat-rs/pull/4) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cc-cat-rs/pull/3) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
