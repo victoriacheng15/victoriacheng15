@@ -26,11 +26,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Keep Going: Navigate Your Creative Journey](https://victoriacheng15.vercel.app/posts/keep-going-navigate-your-creative-journey/)
- - 🌮 [SSH &amp; Desktop: Pi Connection Guide](https://victoriacheng15.vercel.app/posts/ssh-desktop-pi-connection-guide/)
+ - 💯 [JavaScript - Change Array by Copy Methods](https://victoriacheng15.vercel.app/posts/javascript-change-array-by-copy-methods/)
+ - 🌮 [Keep Going: Navigate Your Creative Journey](https://victoriacheng15.vercel.app/posts/keep-going-navigate-your-creative-journey/)
+ - 💫 [SSH &amp; Desktop: Pi Connection Guide](https://victoriacheng15.vercel.app/posts/ssh-desktop-pi-connection-guide/)
  - 💫 [Managing Workflows with GitHub Actions: needs](https://victoriacheng15.vercel.app/posts/managing-workflows-with-github-actions-needs/)
- - 💫 [Empower Your Journey with the 7 Highly Effective Habits](https://victoriacheng15.vercel.app/posts/empower-your-journey-with-the-highly-effective-habits/)
- - 🌮 [Docker Compose: Configuring Images and Container Names](https://victoriacheng15.vercel.app/posts/docker-compose-configuring-images-and-container-names/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Empower Your Journey with the 7 Highly Effective Habits](https://victoriacheng15.vercel.app/posts/empower-your-journey-with-the-highly-effective-habits/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
