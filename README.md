@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/2) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/2) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/3) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/3) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/1) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
+5. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/2) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
