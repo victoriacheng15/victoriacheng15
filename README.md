@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+1. 📔 Created new repository [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/cc-cat-rs/pull/13) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-4. 💪 Opened PR [#13](https://github.com/victoriacheng15/cc-cat-rs/pull/13) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-5. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cc-cat-rs/pull/12) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+3. 🎉 Merged PR [#14](https://github.com/victoriacheng15/cc-cat-rs/pull/14) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+4. 💪 Opened PR [#14](https://github.com/victoriacheng15/cc-cat-rs/pull/14) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
