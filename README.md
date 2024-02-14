@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cc-cat-rs/pull/12) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-3. 💪 Opened PR [#12](https://github.com/victoriacheng15/cc-cat-rs/pull/12) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#437](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/437) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/cc-cat-rs/pull/13) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+4. 💪 Opened PR [#13](https://github.com/victoriacheng15/cc-cat-rs/pull/13) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
+5. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cc-cat-rs/pull/12) in [victoriacheng15/cc-cat-rs](https://github.com/victoriacheng15/cc-cat-rs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
