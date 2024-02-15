@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/3) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/3) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-5. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/2) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
+1. ⬆️ Pushed 11 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
+2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/articles-extractor/pull/12) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 💪 Opened PR [#12](https://github.com/victoriacheng15/articles-extractor/pull/12) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
