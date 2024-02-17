@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-3. 🎉 Merged PR [#4](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/4) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-4. 💪 Opened PR [#4](https://github.com/victoriacheng15/cc-linkedin-carousel/pull/4) in [victoriacheng15/cc-linkedin-carousel](https://github.com/victoriacheng15/cc-linkedin-carousel)
-5. ⬆️ Pushed 11 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+2. 🎉 Merged PR [#53](https://github.com/victoriacheng15/allTheLinks/pull/53) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+3. ❌ Closed PR [#50](https://github.com/victoriacheng15/allTheLinks/pull/50) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+4. 💪 Opened PR [#53](https://github.com/victoriacheng15/allTheLinks/pull/53) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
