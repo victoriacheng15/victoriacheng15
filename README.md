@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#438](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/438) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-4. 🎉 Merged PR [#53](https://github.com/victoriacheng15/allTheLinks/pull/53) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
-5. ❌ Closed PR [#50](https://github.com/victoriacheng15/allTheLinks/pull/50) in [victoriacheng15/allTheLinks](https://github.com/victoriacheng15/allTheLinks)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/tetris-py/pull/1) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/tetris-py/pull/1) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+4. 📔 Created new repository [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
