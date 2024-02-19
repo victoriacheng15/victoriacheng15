@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/tetris-py/pull/4) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-3. 💪 Opened PR [#4](https://github.com/victoriacheng15/tetris-py/pull/4) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-4. ⭐ Starred [Zulko/moviepy](https://github.com/Zulko/moviepy)
-5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/tetris-py/pull/3) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#444](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/444) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 💪 Opened PR [#444](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/444) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
