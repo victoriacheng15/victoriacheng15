@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/tetris-py/pull/6) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-3. 💪 Opened PR [#6](https://github.com/victoriacheng15/tetris-py/pull/6) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-5. 🎉 Merged PR [#5](https://github.com/victoriacheng15/tetris-py/pull/5) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#442](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/442) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 🎉 Merged PR [#443](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/443) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
