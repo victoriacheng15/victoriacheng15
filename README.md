@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#13](https://github.com/victoriacheng15/articles-extractor/pull/13) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 💪 Opened PR [#13](https://github.com/victoriacheng15/articles-extractor/pull/13) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 👍 Approved [#5489](https://github.com/codinasion/codinasion/pull/5489#pullrequestreview-1891306066) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⭐ Starred [systemdesign42/system-design](https://github.com/systemdesign42/system-design)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/articles-extractor/pull/13) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 💪 Opened PR [#13](https://github.com/victoriacheng15/articles-extractor/pull/13) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
