@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [systemdesign42/system-design](https://github.com/systemdesign42/system-design)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/articles-extractor/pull/13) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 💪 Opened PR [#13](https://github.com/victoriacheng15/articles-extractor/pull/13) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+2. 🎉 Merged PR [#8](https://github.com/victoriacheng15/tetris-py/pull/8) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+3. 💪 Opened PR [#8](https://github.com/victoriacheng15/tetris-py/pull/8) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+4. 🎉 Merged PR [#7](https://github.com/victoriacheng15/tetris-py/pull/7) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
