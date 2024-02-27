@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Home](https://github.com/victoriacheng15/articles-extractor/wiki/Home) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/tetris-py/pull/11) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-4. 💪 Opened PR [#11](https://github.com/victoriacheng15/tetris-py/pull/11) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#14](https://github.com/victoriacheng15/articles-extractor/pull/14) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 💪 Opened PR [#14](https://github.com/victoriacheng15/articles-extractor/pull/14) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 📖 Created new wiki page [Home](https://github.com/victoriacheng15/articles-extractor/wiki/Home) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/tetris-py/pull/11) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
