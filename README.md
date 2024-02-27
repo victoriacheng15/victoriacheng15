@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huaweicodelabs/harmonyos-codelabs](https://github.com/huaweicodelabs/harmonyos-codelabs)
+1. 🎉 Merged PR [#11](https://github.com/victoriacheng15/tetris-py/pull/11) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/tetris-py/pull/9) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-4. 💪 Opened PR [#9](https://github.com/victoriacheng15/tetris-py/pull/9) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 💪 Opened PR [#11](https://github.com/victoriacheng15/tetris-py/pull/11) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
+5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/tetris-py/pull/10) in [victoriacheng15/tetris-py](https://github.com/victoriacheng15/tetris-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
