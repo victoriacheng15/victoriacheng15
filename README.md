@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/bioHub/pull/9) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-3. 💪 Opened PR [#9](https://github.com/victoriacheng15/bioHub/pull/9) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/bioHub/pull/11) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+3. 💪 Opened PR [#11](https://github.com/victoriacheng15/bioHub/pull/11) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-5. 🎉 Merged PR [#8](https://github.com/victoriacheng15/bioHub/pull/8) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/bioHub/pull/10) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
