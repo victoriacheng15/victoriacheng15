@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/bioHub/pull/11) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-3. 💪 Opened PR [#11](https://github.com/victoriacheng15/bioHub/pull/11) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/bioHub/pull/10) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#97](https://github.com/victoriacheng15/hacker-news-next/pull/97) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 🎉 Merged PR [#96](https://github.com/victoriacheng15/hacker-news-next/pull/96) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
