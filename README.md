@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#15](https://github.com/victoriacheng15/articles-extractor/pull/15) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 💪 Opened PR [#15](https://github.com/victoriacheng15/articles-extractor/pull/15) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⭐ Starred [Daniele-rolli/Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes)
+2. ⭐ Starred [NickvisionApps/Denaro](https://github.com/NickvisionApps/Denaro)
+3. ⭐ Starred [zidoro/pomatez](https://github.com/zidoro/pomatez)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 🎉 Merged PR [#15](https://github.com/victoriacheng15/articles-extractor/pull/15) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
