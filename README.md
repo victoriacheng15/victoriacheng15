@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#16](https://github.com/victoriacheng15/articles-extractor/pull/16) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 💪 Opened PR [#16](https://github.com/victoriacheng15/articles-extractor/pull/16) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. ⭐ Starred [Daniele-rolli/Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes)
-5. ⭐ Starred [NickvisionApps/Denaro](https://github.com/NickvisionApps/Denaro)
+1. ⬆️ Pushed 20 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 🎉 Merged PR [#16](https://github.com/victoriacheng15/articles-extractor/pull/16) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 💪 Opened PR [#16](https://github.com/victoriacheng15/articles-extractor/pull/16) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. ⭐ Starred [Daniele-rolli/Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
