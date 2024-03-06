@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/currency-converter/pull/2) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/currency-converter/pull/2) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/currency-converter/pull/1) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
+1. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+2. ✔️ Closed issue [#5265](https://github.com/codinasion/codinasion/issues/5265) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+3. 🎉 Merged PR [#5528](https://github.com/codinasion/codinasion/pull/5528) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+4. 👍 Approved [#5528](https://github.com/codinasion/codinasion/pull/5528#pullrequestreview-1920700620) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+5. ✔️ Closed issue [#3130](https://github.com/codinasion/codinasion/issues/3130) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
