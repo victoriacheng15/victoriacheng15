@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 9 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 🎉 Merged PR [#465](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/465) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. ✔️ Closed issue [#5265](https://github.com/codinasion/codinasion/issues/5265) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. 💪 Opened PR [#3](https://github.com/victoriacheng15/currency-converter/pull/3) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
+2. ⬆️ Pushed 9 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 🎉 Merged PR [#465](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/465) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
