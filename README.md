@@ -26,11 +26,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Commands for Linux - stat](https://victoriacheng15.vercel.app/posts/commands-for-linux-stat/)
- - 🌮 [February Reflection 2024](https://victoriacheng15.vercel.app/posts/february-reflection-2024/)
+ - 💯 [Commands for Linux - touch](https://victoriacheng15.vercel.app/posts/commands-for-linux-touch/)
+ - 🌮 [Commands for Linux - stat](https://victoriacheng15.vercel.app/posts/commands-for-linux-stat/)
+ - 💫 [February Reflection 2024](https://victoriacheng15.vercel.app/posts/february-reflection-2024/)
  - 💫 [TypeScript Utility Types - ReturnType](https://victoriacheng15.vercel.app/posts/typescript-utility-types-returntype/)
- - 💫 [Smart Brevity: Your Path to Effective Communication](https://victoriacheng15.vercel.app/posts/smart-brevity-your-path-to-effective-communication/)
- - 🌮 [JavaScript - Change Array by Copy Methods](https://victoriacheng15.vercel.app/posts/javascript-change-array-by-copy-methods/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Smart Brevity: Your Path to Effective Communication](https://victoriacheng15.vercel.app/posts/smart-brevity-your-path-to-effective-communication/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
