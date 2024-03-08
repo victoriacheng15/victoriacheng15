@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/currency-converter/pull/11) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-3. 💪 Opened PR [#11](https://github.com/victoriacheng15/currency-converter/pull/11) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
+2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/currency-converter/pull/12) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
+3. 💪 Opened PR [#12](https://github.com/victoriacheng15/currency-converter/pull/12) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/currency-converter/pull/10) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
+5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/currency-converter/pull/11) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
