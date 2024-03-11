@@ -40,10 +40,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-2. 🎉 Merged PR [#18](https://github.com/victoriacheng15/currency-converter/pull/18) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-3. 💪 Opened PR [#18](https://github.com/victoriacheng15/currency-converter/pull/18) in [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
-4. ⭐ Starred [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+2. 🎉 Merged PR [#266](https://github.com/victoriacheng15/codewars/pull/266) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 🎉 Merged PR [#265](https://github.com/victoriacheng15/codewars/pull/265) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
 <!--RECENT_ACTIVITY:end-->
 
