@@ -41,10 +41,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#266](https://github.com/victoriacheng15/codewars/pull/266) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 🎉 Merged PR [#265](https://github.com/victoriacheng15/codewars/pull/265) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/currency-converter](https://github.com/victoriacheng15/currency-converter)
+2. 🎉 Merged PR [#267](https://github.com/victoriacheng15/codewars/pull/267) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 💪 Opened PR [#267](https://github.com/victoriacheng15/codewars/pull/267) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#266](https://github.com/victoriacheng15/codewars/pull/266) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
