@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TanStack/store](https://github.com/TanStack/store)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 🎉 Merged PR [#472](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/472) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 💪 Opened PR [#472](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/472) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
+2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/shorts-process-py/pull/12) in [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
+3. 💪 Opened PR [#12](https://github.com/victoriacheng15/shorts-process-py/pull/12) in [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
