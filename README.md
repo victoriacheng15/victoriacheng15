@@ -26,11 +26,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Start with Why: Unveil Your Why](https://victoriacheng15.vercel.app/posts/start-with-why-unveil-your-why/)
- - 🌮 [Commands for Linux - touch](https://victoriacheng15.vercel.app/posts/commands-for-linux-touch/)
+ - 💯 [System Design - Domain Name System](https://victoriacheng15.vercel.app/posts/system-design-domain-name-system/)
+ - 🌮 [Start with Why: Unveil Your Why](https://victoriacheng15.vercel.app/posts/start-with-why-unveil-your-why/)
+ - 💫 [Commands for Linux - touch](https://victoriacheng15.vercel.app/posts/commands-for-linux-touch/)
  - 💫 [Commands for Linux - stat](https://victoriacheng15.vercel.app/posts/commands-for-linux-stat/)
- - 💫 [February Reflection 2024](https://victoriacheng15.vercel.app/posts/february-reflection-2024/)
- - 🌮 [TypeScript Utility Types - ReturnType](https://victoriacheng15.vercel.app/posts/typescript-utility-types-returntype/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [February Reflection 2024](https://victoriacheng15.vercel.app/posts/february-reflection-2024/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
