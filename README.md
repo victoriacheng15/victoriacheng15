@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [victoriacheng15/simple-icons](https://github.com/victoriacheng15/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 🎉 Merged PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. 💪 Opened PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-5. ⭐ Starred [codediodeio/rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#98](https://github.com/victoriacheng15/hacker-news-next/pull/98) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 🔱 Forked [victoriacheng15/simple-icons](https://github.com/victoriacheng15/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. 🎉 Merged PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
