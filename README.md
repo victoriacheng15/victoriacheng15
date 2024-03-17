@@ -40,11 +40,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-2. 🎉 Merged PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-3. 💪 Opened PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
-4. ⭐ Starred [codediodeio/rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. 🔱 Forked [victoriacheng15/simple-icons](https://github.com/victoriacheng15/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+3. 🎉 Merged PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+4. 💪 Opened PR [#269](https://github.com/victoriacheng15/codewars/pull/269) in [victoriacheng15/codewars](https://github.com/victoriacheng15/codewars)
+5. ⭐ Starred [codediodeio/rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
