@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Automating Checkboxes in Google Sheets with Apps Script](https://victoriacheng15.vercel.app/posts/automating-checkboxes-in-google-sheets-with-apps-script/)
- - 🌮 [System Design - Domain Name System](https://victoriacheng15.vercel.app/posts/system-design-domain-name-system/)
+ - 💯 [Python - A Guide to List Methods With Examples](https://victoriacheng15.vercel.app/posts/python-a-guide-to-list-methods-with-examples/)
+ - 🌮 [Automating Checkboxes in Google Sheets with Apps Script](https://victoriacheng15.vercel.app/posts/automating-checkboxes-in-google-sheets-with-apps-script/)
+ - 💫 [System Design - Domain Name System](https://victoriacheng15.vercel.app/posts/system-design-domain-name-system/)
  - 💫 [Start with Why: Unveil Your Why](https://victoriacheng15.vercel.app/posts/start-with-why-unveil-your-why/)
- - 💫 [Commands for Linux - touch](https://victoriacheng15.vercel.app/posts/commands-for-linux-touch/)
- - 🌮 [Commands for Linux - stat](https://victoriacheng15.vercel.app/posts/commands-for-linux-stat/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Commands for Linux - touch](https://victoriacheng15.vercel.app/posts/commands-for-linux-touch/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
