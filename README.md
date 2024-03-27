@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/flask-weather/pull/10) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-4. 💪 Opened PR [#10](https://github.com/victoriacheng15/flask-weather/pull/10) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-5. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
+3. 🎉 Merged PR [#10](https://github.com/victoriacheng15/flask-weather/pull/10) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
+5. 💪 Opened PR [#10](https://github.com/victoriacheng15/flask-weather/pull/10) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
