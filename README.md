@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-2. 🎉 Merged PR [#37](https://github.com/victoriacheng15/rest-countries-api-next/pull/37) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-3. 💪 Opened PR [#37](https://github.com/victoriacheng15/rest-countries-api-next/pull/37) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 🎉 Merged PR [#52](https://github.com/victoriacheng15/bubble-tea-api/pull/52) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cc-cut-rs/pull/3) in [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cc-cut-rs/pull/3) in [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+5. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cc-cut-rs/pull/2) in [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
