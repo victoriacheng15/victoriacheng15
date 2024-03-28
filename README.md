@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 🎉 Merged PR [#23](https://github.com/victoriacheng15/articles-extractor/pull/23) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+2. 🎉 Merged PR [#37](https://github.com/victoriacheng15/rest-countries-api-next/pull/37) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+3. 💪 Opened PR [#37](https://github.com/victoriacheng15/rest-countries-api-next/pull/37) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+5. 🎉 Merged PR [#52](https://github.com/victoriacheng15/bubble-tea-api/pull/52) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
