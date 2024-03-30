@@ -47,9 +47,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
-4. 🎉 Merged PR [#4](https://github.com/victoriacheng15/cc-cut-rs/pull/4) in [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
-5. 💪 Opened PR [#4](https://github.com/victoriacheng15/cc-cut-rs/pull/4) in [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/cc-cut-rs/pull/4) in [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
