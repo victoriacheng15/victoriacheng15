@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/flask-weather/pull/12) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-4. 💪 Opened PR [#12](https://github.com/victoriacheng15/flask-weather/pull/12) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-rs](https://github.com/victoriacheng15/cc-cut-rs)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#493](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/493) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 🎉 Merged PR [#494](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/494) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
