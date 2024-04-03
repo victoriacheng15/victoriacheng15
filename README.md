@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
-2. 🎉 Merged PR [#13](https://github.com/victoriacheng15/shorts-process-py/pull/13) in [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
-3. 💪 Opened PR [#13](https://github.com/victoriacheng15/shorts-process-py/pull/13) in [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#506](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/506) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#24](https://github.com/victoriacheng15/articles-extractor/pull/24) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 💪 Opened PR [#24](https://github.com/victoriacheng15/articles-extractor/pull/24) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shorts-process-py](https://github.com/victoriacheng15/shorts-process-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
