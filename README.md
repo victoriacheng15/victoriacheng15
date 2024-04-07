@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 🎉 Merged PR [#105](https://github.com/victoriacheng15/hacker-news-next/pull/105) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-4. 🎉 Merged PR [#13](https://github.com/victoriacheng15/flask-weather/pull/13) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
-5. 💪 Opened PR [#13](https://github.com/victoriacheng15/flask-weather/pull/13) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 🎉 Merged PR [#105](https://github.com/victoriacheng15/hacker-news-next/pull/105) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
+5. 🎉 Merged PR [#13](https://github.com/victoriacheng15/flask-weather/pull/13) in [victoriacheng15/flask-weather](https://github.com/victoriacheng15/flask-weather)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
