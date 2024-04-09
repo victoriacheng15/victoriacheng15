@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Discover Python&#39;s Sets Data Structure](https://victoriacheng15.vercel.app/posts/discover-pythons-sets-data-structure/)
- - 🌮 [Exploring Python Tuples: Immutable Data Structures](https://victoriacheng15.vercel.app/posts/exploring-python-tuples-immutable-data-structures/)
+ - 💯 [Unlocking the Power of Python Dictionary](https://victoriacheng15.vercel.app/posts/unlocking-the-power-of-python-dictionary/)
+ - 🌮 [Discover Python&#39;s Sets Data Structure](https://victoriacheng15.vercel.app/posts/discover-pythons-sets-data-structure/)
+ - 💫 [Exploring Python Tuples: Immutable Data Structures](https://victoriacheng15.vercel.app/posts/exploring-python-tuples-immutable-data-structures/)
  - 💫 [March Reflection 2024](https://victoriacheng15.vercel.app/posts/march-reflection-2024/)
- - 💫 [Commands for Linux: mkdir](https://victoriacheng15.vercel.app/posts/commands-for-linux-mkdir/)
- - 🌮 [Python - A Guide to List Methods With Examples](https://victoriacheng15.vercel.app/posts/python-a-guide-to-list-methods-with-examples/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring mkdir - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-mkdir-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
