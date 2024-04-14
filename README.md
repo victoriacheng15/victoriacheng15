@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-2. 🎉 Merged PR [#8](https://github.com/victoriacheng15/crypto-pipeline/pull/8) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-3. 💪 Opened PR [#8](https://github.com/victoriacheng15/crypto-pipeline/pull/8) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 🎉 Merged PR [#25](https://github.com/victoriacheng15/articles-extractor/pull/25) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
+4. 🎉 Merged PR [#8](https://github.com/victoriacheng15/crypto-pipeline/pull/8) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
+5. 💪 Opened PR [#8](https://github.com/victoriacheng15/crypto-pipeline/pull/8) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
