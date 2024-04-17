@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring cd - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cd-linux-commands/)
- - 🌮 [Looping Like a Pro: Python Essentials](https://victoriacheng15.vercel.app/posts/looping-like-a-pro-python-essentials/)
+ - 💯 [System Design - Content Delivery Networks](https://victoriacheng15.vercel.app/posts/system-design-content-delivery-networks/)
+ - 🌮 [Exploring cd - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cd-linux-commands/)
+ - 💫 [Looping Like a Pro: Python Essentials](https://victoriacheng15.vercel.app/posts/looping-like-a-pro-python-essentials/)
  - 💫 [Unlocking the Power of Python Dictionary](https://victoriacheng15.vercel.app/posts/unlocking-the-power-of-python-dictionary/)
- - 💫 [Discover Python&#39;s Sets Data Structure](https://victoriacheng15.vercel.app/posts/discover-pythons-sets-data-structure/)
- - 🌮 [Exploring Python Tuples: Immutable Data Structures](https://victoriacheng15.vercel.app/posts/exploring-python-tuples-immutable-data-structures/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Discover Python&#39;s Sets Data Structure](https://victoriacheng15.vercel.app/posts/discover-pythons-sets-data-structure/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
