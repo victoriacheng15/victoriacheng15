@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Data Structure - Stacks](https://victoriacheng15.vercel.app/posts/data-structure-stacks/)
- - 🌮 [System Design - Content Delivery Networks](https://victoriacheng15.vercel.app/posts/system-design-content-delivery-networks/)
+ - 💯 [Exploring ls - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-ls-linux-commands/)
+ - 🌮 [Data Structure - Stacks](https://victoriacheng15.vercel.app/posts/data-structure-stacks/)
+ - 💫 [System Design - Content Delivery Networks](https://victoriacheng15.vercel.app/posts/system-design-content-delivery-networks/)
  - 💫 [Exploring cd - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cd-linux-commands/)
- - 💫 [Looping Like a Pro: Python Essentials](https://victoriacheng15.vercel.app/posts/looping-like-a-pro-python-essentials/)
- - 🌮 [Unlocking the Power of Python Dictionary](https://victoriacheng15.vercel.app/posts/unlocking-the-power-of-python-dictionary/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Looping Like a Pro: Python Essentials](https://victoriacheng15.vercel.app/posts/looping-like-a-pro-python-essentials/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
