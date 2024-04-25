@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [waylau/harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial)
-2. ⭐ Starred [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)
-3. ⬆️ Pushed 1 commit(s) to [codinasion/codinasion](https://github.com/codinasion/codinasion)
-4. 🎉 Merged PR [#5671](https://github.com/codinasion/codinasion/pull/5671) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
-5. 👍 Approved [#5671](https://github.com/codinasion/codinasion/pull/5671#pullrequestreview-2020112721) in [codinasion/codinasion](https://github.com/codinasion/codinasion)
+1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ❌ Closed PR [#504](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/504) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ⬆️ Pushed 0 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 🎉 Merged PR [#543](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/543) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
