@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
-2. 📔 Created new repository [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
-3. ⭐ Starred [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024)
-4. ⬆️ Pushed 0 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ❌ Closed PR [#504](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/504) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
+3. 🎉 Merged PR [#1](https://github.com/victoriacheng15/earthquakes_data/pull/1) in [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
+4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
+5. 💪 Opened PR [#1](https://github.com/victoriacheng15/earthquakes_data/pull/1) in [victoriacheng15/earthquakes_data](https://github.com/victoriacheng15/earthquakes_data)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
