@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/crypto-pipeline/pull/13) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-4. 💪 Opened PR [#13](https://github.com/victoriacheng15/crypto-pipeline/pull/13) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-5. ⬆️ Pushed 14 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
+1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+3. 🎉 Merged PR [#7](https://github.com/victoriacheng15/all-earthquakes-data/pull/7) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+4. 💪 Opened PR [#7](https://github.com/victoriacheng15/all-earthquakes-data/pull/7) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+5. ⬆️ Pushed 13 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
