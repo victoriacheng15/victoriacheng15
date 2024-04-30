@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#550](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/550) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. ⬆️ Pushed 460 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 0 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/all-earthquakes-data/pull/11) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. ⬆️ Pushed 0 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. 🎉 Merged PR [#550](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/550) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 💪 Opened PR [#550](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/550) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. ⬆️ Pushed 460 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
