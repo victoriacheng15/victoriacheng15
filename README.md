@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-3. 🎉 Merged PR [#14](https://github.com/victoriacheng15/all-earthquakes-data/pull/14) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-4. 💪 Opened PR [#14](https://github.com/victoriacheng15/all-earthquakes-data/pull/14) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-5. ⬆️ Pushed 15 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 🎉 Merged PR [#109](https://github.com/victoriacheng15/hacker-news-next/pull/109) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. ⬆️ Pushed 0 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
