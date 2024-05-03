@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-2. ⬆️ Pushed 0 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-3. 🎉 Merged PR [#16](https://github.com/victoriacheng15/all-earthquakes-data/pull/16) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-4. 💪 Opened PR [#16](https://github.com/victoriacheng15/all-earthquakes-data/pull/16) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
-5. ⬆️ Pushed 17 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+1. ⬆️ Pushed 0 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+3. 🎉 Merged PR [#17](https://github.com/victoriacheng15/all-earthquakes-data/pull/17) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+4. 💪 Opened PR [#17](https://github.com/victoriacheng15/all-earthquakes-data/pull/17) in [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
+5. ⬆️ Pushed 19 commit(s) to [victoriacheng15/all-earthquakes-data](https://github.com/victoriacheng15/all-earthquakes-data)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
