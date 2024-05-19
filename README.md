@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Singly Linked List: Practical Code Example](https://victoriacheng15.vercel.app/posts/singly-linked-list-practical-code-example/)
- - 🌮 [Data Structure - Linked List](https://victoriacheng15.vercel.app/posts/data-structure-linked-list/)
+ - 💯 [Exploring mv - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-mv-linux-commands/)
+ - 🌮 [Singly Linked List: Practical Code Example](https://victoriacheng15.vercel.app/posts/singly-linked-list-practical-code-example/)
+ - 💫 [Data Structure - Linked List](https://victoriacheng15.vercel.app/posts/data-structure-linked-list/)
  - 💫 [April Reflection 2024](https://victoriacheng15.vercel.app/posts/april-reflection-2024/)
- - 💫 [Exploring cp - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cp-linux-commands/)
- - 🌮 [Data Structure - Queues](https://victoriacheng15.vercel.app/posts/data-structure-queues/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring cp - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cp-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
