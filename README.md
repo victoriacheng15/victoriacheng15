@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice)
-2. ⭐ Starred [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki)
-3. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
-4. ⭐ Starred [AlexIoannides/pyspark-example-project](https://github.com/AlexIoannides/pyspark-example-project)
-5. ⭐ Starred [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#569](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/569) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⭐ Starred [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice)
+4. ⭐ Starred [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki)
+5. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
