@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#600](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/600) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 💪 Opened PR [#600](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/600) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#599](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/599) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⭐ Starred [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
+2. ⭐ Starred [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit)
+3. ⭐ Starred [rishabhnmishra/SQL_Music_Store_Analysis](https://github.com/rishabhnmishra/SQL_Music_Store_Analysis)
+4. ⭐ Starred [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples)
+5. ⭐ Starred [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
