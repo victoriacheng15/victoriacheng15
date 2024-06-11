@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Boost Your Day with The Miracle Morning](https://victoriacheng15.vercel.app/posts/boost-your-day-with-the-miracle-morning/)
- - 🌮 [Update Your Git Remote URL 🔄](https://victoriacheng15.vercel.app/posts/update-your-git-remote-url/)
+ - 💯 [Understanding NoSQL vs SQL Databases](https://victoriacheng15.vercel.app/posts/understanding-nosql-vs-sql-databases/)
+ - 🌮 [Boost Your Day with The Miracle Morning](https://victoriacheng15.vercel.app/posts/boost-your-day-with-the-miracle-morning/)
+ - 💫 [Update Your Git Remote URL 🔄](https://victoriacheng15.vercel.app/posts/update-your-git-remote-url/)
  - 💫 [Doubly Linked List with Code Example](https://victoriacheng15.vercel.app/posts/doubly-linked-list-with-code-example/)
- - 💫 [Exploring mv - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-mv-linux-commands/)
- - 🌮 [Singly Linked List: Practical Code Example](https://victoriacheng15.vercel.app/posts/singly-linked-list-practical-code-example/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring mv - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-mv-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
