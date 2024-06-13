@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#28](https://github.com/victoriacheng15/articles-extractor/pull/28) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 💪 Opened PR [#28](https://github.com/victoriacheng15/articles-extractor/pull/28) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. ⭐ Starred [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
-5. ⭐ Starred [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#601](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/601) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 🎉 Merged PR [#28](https://github.com/victoriacheng15/articles-extractor/pull/28) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 💪 Opened PR [#28](https://github.com/victoriacheng15/articles-extractor/pull/28) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
