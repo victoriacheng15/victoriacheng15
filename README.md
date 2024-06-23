@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Python - What is range&lpar;&rpar; Function? 🤔](https://victoriacheng15.vercel.app/posts/python-what-is-range-function/)
- - 🌮 [Binary, Decimal, Hexadecimal - Practical Conversions Guide](https://victoriacheng15.vercel.app/posts/binary-decimal-hexadecimal-practical-conversions-guide/)
+ - 💯 [Exploring cat - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cat-linux-commands/)
+ - 🌮 [Python - What is range&lpar;&rpar; Function? 🤔](https://victoriacheng15.vercel.app/posts/python-what-is-range-function/)
+ - 💫 [Binary, Decimal, Hexadecimal - Practical Conversions Guide](https://victoriacheng15.vercel.app/posts/binary-decimal-hexadecimal-practical-conversions-guide/)
  - 💫 [Exploring rmdir - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-rmdir-linux-commands/)
- - 💫 [Exploring rm - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-rm-linux-commands/)
- - 🌮 [Understanding NoSQL vs SQL Databases](https://victoriacheng15.vercel.app/posts/understanding-nosql-vs-sql-databases/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring rm - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-rm-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
