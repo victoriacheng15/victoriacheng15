@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-2. 🎉 Merged PR [#56](https://github.com/victoriacheng15/bubble-tea-api/pull/56) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. 🎉 Merged PR [#637](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/637) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/blender-python/pull/1) in [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/blender-python/pull/1) in [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+5. 🎉 Merged PR [#56](https://github.com/victoriacheng15/bubble-tea-api/pull/56) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
