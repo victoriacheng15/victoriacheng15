@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/blender-python/pull/1) in [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/blender-python/pull/1) in [victoriacheng15/blender-python](https://github.com/victoriacheng15/blender-python)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
-5. 🎉 Merged PR [#56](https://github.com/victoriacheng15/bubble-tea-api/pull/56) in [victoriacheng15/bubble-tea-api](https://github.com/victoriacheng15/bubble-tea-api)
+1. 🎉 Merged PR [#121](https://github.com/victoriacheng15/hacker-news-next/pull/121) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 🎉 Merged PR [#119](https://github.com/victoriacheng15/hacker-news-next/pull/119) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
