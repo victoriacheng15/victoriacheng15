@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Make Time - Conquer Busyness, End Distractions](https://victoriacheng15.vercel.app/posts/make-time-conquer-busyness-end-distractions/)
- - 🌮 [June Reflection 2024](https://victoriacheng15.vercel.app/posts/june-reflection-2024/)
+ - 💯 [Understanding Node.js Event Loop Efficiency](https://victoriacheng15.vercel.app/posts/understanding-nodejs-event-loop-efficiency/)
+ - 🌮 [Make Time - Conquer Busyness, End Distractions](https://victoriacheng15.vercel.app/posts/make-time-conquer-busyness-end-distractions/)
+ - 💫 [June Reflection 2024](https://victoriacheng15.vercel.app/posts/june-reflection-2024/)
  - 💫 [Exploring cat - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cat-linux-commands/)
- - 💫 [Python - What is range&lpar;&rpar; Function? 🤔](https://victoriacheng15.vercel.app/posts/python-what-is-range-function/)
- - 🌮 [Binary, Decimal, Hexadecimal - Practical Conversions Guide](https://victoriacheng15.vercel.app/posts/binary-decimal-hexadecimal-practical-conversions-guide/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Python - What is range&lpar;&rpar; Function? 🤔](https://victoriacheng15.vercel.app/posts/python-what-is-range-function/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
