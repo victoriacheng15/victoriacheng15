@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Understanding Node.js Event Loop Efficiency](https://victoriacheng15.vercel.app/posts/understanding-nodejs-event-loop-efficiency/)
- - 🌮 [Make Time - Conquer Busyness, End Distractions](https://victoriacheng15.vercel.app/posts/make-time-conquer-busyness-end-distractions/)
+ - 💯 [Python - sorted&lpar;&rpar; vs sort&lpar;&rpar; Usage](https://victoriacheng15.vercel.app/posts/python-sorted-vs-sort-usage/)
+ - 🌮 [Understanding Node.js Event Loop Efficiency](https://victoriacheng15.vercel.app/posts/understanding-nodejs-event-loop-efficiency/)
+ - 💫 [Make Time - Conquer Busyness, End Distractions](https://victoriacheng15.vercel.app/posts/make-time-conquer-busyness-end-distractions/)
  - 💫 [June Reflection 2024](https://victoriacheng15.vercel.app/posts/june-reflection-2024/)
- - 💫 [Exploring cat - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cat-linux-commands/)
- - 🌮 [Python - What is range&lpar;&rpar; Function? 🤔](https://victoriacheng15.vercel.app/posts/python-what-is-range-function/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring cat - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cat-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
