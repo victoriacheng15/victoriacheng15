@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#647](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/647) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 💪 Opened PR [#647](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/647) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#646](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/646) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+2. 🎉 Merged PR [#38](https://github.com/victoriacheng15/rest-countries-api-next/pull/38) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
+4. 🎉 Merged PR [#17](https://github.com/victoriacheng15/crypto-pipeline/pull/17) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
