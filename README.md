@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-2. 🎉 Merged PR [#43](https://github.com/victoriacheng15/rest-countries-api-next/pull/43) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-3. ❌ Closed PR [#33](https://github.com/victoriacheng15/ai-image-generation/pull/33) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+1. 💪 Opened PR [#1](https://github.com/victoriacheng15/skills-deploy-to-azure/pull/1) in [victoriacheng15/skills-deploy-to-azure](https://github.com/victoriacheng15/skills-deploy-to-azure)
+2. 📔 Created new repository [victoriacheng15/skills-deploy-to-azure](https://github.com/victoriacheng15/skills-deploy-to-azure)
+3. 💪 Opened PR [#29](https://github.com/victoriacheng15/articles-extractor/pull/29) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-5. 🎉 Merged PR [#42](https://github.com/victoriacheng15/rest-countries-api-next/pull/42) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+5. 🎉 Merged PR [#43](https://github.com/victoriacheng15/rest-countries-api-next/pull/43) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
