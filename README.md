@@ -46,10 +46,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-2. 🎉 Merged PR [#38](https://github.com/victoriacheng15/rest-countries-api-next/pull/38) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-4. 🎉 Merged PR [#17](https://github.com/victoriacheng15/crypto-pipeline/pull/17) in [victoriacheng15/crypto-pipeline](https://github.com/victoriacheng15/crypto-pipeline)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#43](https://github.com/victoriacheng15/rest-countries-api-next/pull/43) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+3. ❌ Closed PR [#33](https://github.com/victoriacheng15/ai-image-generation/pull/33) in [victoriacheng15/ai-image-generation](https://github.com/victoriacheng15/ai-image-generation)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+5. 🎉 Merged PR [#42](https://github.com/victoriacheng15/rest-countries-api-next/pull/42) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
