@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Understanding the OSI Reference Model](https://victoriacheng15.vercel.app/posts/understanding-the-osi-reference-model/)
- - 🌮 [Exploring head and tail - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-head-and-tail-linux-commands/)
+ - 💯 [Exploring grep - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-grep-linux-commands/)
+ - 🌮 [Understanding the OSI Reference Model](https://victoriacheng15.vercel.app/posts/understanding-the-osi-reference-model/)
+ - 💫 [Exploring head and tail - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-head-and-tail-linux-commands/)
  - 💫 [Python - sorted&lpar;&rpar; vs sort&lpar;&rpar; Usage](https://victoriacheng15.vercel.app/posts/python-sorted-vs-sort-usage/)
- - 💫 [Understanding Node.js Event Loop Efficiency](https://victoriacheng15.vercel.app/posts/understanding-nodejs-event-loop-efficiency/)
- - 🌮 [Make Time - Conquer Busyness, End Distractions](https://victoriacheng15.vercel.app/posts/make-time-conquer-busyness-end-distractions/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Understanding Node.js Event Loop Efficiency](https://victoriacheng15.vercel.app/posts/understanding-nodejs-event-loop-efficiency/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
