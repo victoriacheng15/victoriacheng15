@@ -46,10 +46,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-2. 🎉 Merged PR [#19](https://github.com/victoriacheng15/bioHub/pull/19) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-4. 💪 Opened PR [#19](https://github.com/victoriacheng15/bioHub/pull/19) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#21](https://github.com/victoriacheng15/bioHub/pull/21) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+3. 💪 Opened PR [#21](https://github.com/victoriacheng15/bioHub/pull/21) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/first-azure-static-web-app](https://github.com/victoriacheng15/first-azure-static-web-app)
+5. 📔 Created new repository [victoriacheng15/first-azure-static-web-app](https://github.com/victoriacheng15/first-azure-static-web-app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
