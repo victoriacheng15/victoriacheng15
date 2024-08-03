@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [July Reflection 2024](https://victoriacheng15.vercel.app/posts/july-reflection-2024/)
- - 🌮 [Unveiling Alchemy: Power of Absurdity](https://victoriacheng15.vercel.app/posts/unveiling-alchemy-power-of-absurdity/)
+ - 💯 [Exploring cut - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cut-linux-commands/)
+ - 🌮 [July Reflection 2024](https://victoriacheng15.vercel.app/posts/july-reflection-2024/)
+ - 💫 [Unveiling Alchemy: Power of Absurdity](https://victoriacheng15.vercel.app/posts/unveiling-alchemy-power-of-absurdity/)
  - 💫 [Python - Exploring Lambda Functions](https://victoriacheng15.vercel.app/posts/python-exploring-lambda-functions/)
- - 💫 [Exploring less and more - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-less-and-more-linux-commands/)
- - 🌮 [Data Structure - Hash Tables](https://victoriacheng15.vercel.app/posts/data-structure-hash-tables/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring less and more - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-less-and-more-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
