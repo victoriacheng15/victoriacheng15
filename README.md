@@ -46,9 +46,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#692](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/692) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. 🎉 Merged PR [#695](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/695) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#696](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/696) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. 💪 Opened PR [#696](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/696) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
