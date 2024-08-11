@@ -45,11 +45,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#697](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/697) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. 🎉 Merged PR [#699](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/699) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⭐ Starred [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
+3. 💪 Opened PR [#699](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/699) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#696](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/696) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 🎉 Merged PR [#698](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/698) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
