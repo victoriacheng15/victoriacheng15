@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring wc - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-wc-linux-commands/)
- - 🌮 [Understanding the Difference Between TCP and UDP](https://victoriacheng15.vercel.app/posts/understanding-the-difference-between-tcp-and-udp/)
+ - 💯 [Python Error Handling: try, except, else, and finally](https://victoriacheng15.vercel.app/posts/python-error-handling-try-except-else-and-finally/)
+ - 🌮 [Exploring wc - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-wc-linux-commands/)
+ - 💫 [Understanding the Difference Between TCP and UDP](https://victoriacheng15.vercel.app/posts/understanding-the-difference-between-tcp-and-udp/)
  - 💫 [Exploring cut - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-cut-linux-commands/)
- - 💫 [July Reflection 2024](https://victoriacheng15.vercel.app/posts/july-reflection-2024/)
- - 🌮 [Unveiling Alchemy: Power of Absurdity](https://victoriacheng15.vercel.app/posts/unveiling-alchemy-power-of-absurdity/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [July Reflection 2024](https://victoriacheng15.vercel.app/posts/july-reflection-2024/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
