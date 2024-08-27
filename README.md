@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring uniq - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-uniq-linux-commands/)
- - 🌮 [IPv4 vs IPv6: A Quick Guide](https://victoriacheng15.vercel.app/posts/ipv4-vs-ipv6-a-quick-guide/)
+ - 💯 [August Reflection 2024](https://victoriacheng15.vercel.app/posts/august-reflection-2024/)
+ - 🌮 [Exploring uniq - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-uniq-linux-commands/)
+ - 💫 [IPv4 vs IPv6: A Quick Guide](https://victoriacheng15.vercel.app/posts/ipv4-vs-ipv6-a-quick-guide/)
  - 💫 [Exploring sort - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-sort-linux-commands/)
- - 💫 [Python Error Handling: try, except, else, and finally](https://victoriacheng15.vercel.app/posts/python-error-handling-try-except-else-and-finally/)
- - 🌮 [Exploring wc - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-wc-linux-commands/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Python Error Handling: try, except, else, and finally](https://victoriacheng15.vercel.app/posts/python-error-handling-try-except-else-and-finally/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
