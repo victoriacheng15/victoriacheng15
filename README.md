@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring the Python OS Module](https://victoriacheng15.vercel.app/posts/exploring-the-python-os-module/)
- - 🌮 [Exploring gzip and gunzip - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-gzip-and-gunzip-linux-commands/)
+ - 💯 [Exploring diff - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-diff-linux-commands/)
+ - 🌮 [Exploring the Python OS Module](https://victoriacheng15.vercel.app/posts/exploring-the-python-os-module/)
+ - 💫 [Exploring gzip and gunzip - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-gzip-and-gunzip-linux-commands/)
  - 💫 [August Reflection 2024](https://victoriacheng15.vercel.app/posts/august-reflection-2024/)
- - 💫 [Exploring uniq - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-uniq-linux-commands/)
- - 🌮 [IPv4 vs IPv6: A Quick Guide](https://victoriacheng15.vercel.app/posts/ipv4-vs-ipv6-a-quick-guide/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring uniq - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-uniq-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
