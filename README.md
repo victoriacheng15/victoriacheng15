@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring sed - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-sed-linux-commands/)
- - 🌮 [Learning SQL: SELECT and SELECT DISTINCT](https://victoriacheng15.vercel.app/posts/learning-sql-select-and-select-distinct/)
+ - 💯 [Learning SQL: Column Alias](https://victoriacheng15.vercel.app/posts/learning-sql-column-alias/)
+ - 🌮 [Exploring sed - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-sed-linux-commands/)
+ - 💫 [Learning SQL: SELECT and SELECT DISTINCT](https://victoriacheng15.vercel.app/posts/learning-sql-select-and-select-distinct/)
  - 💫 [Exploring diff - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-diff-linux-commands/)
- - 💫 [Exploring the Python OS Module](https://victoriacheng15.vercel.app/posts/exploring-the-python-os-module/)
- - 🌮 [Exploring gzip and gunzip - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-gzip-and-gunzip-linux-commands/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring the Python OS Module](https://victoriacheng15.vercel.app/posts/exploring-the-python-os-module/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
