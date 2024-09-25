@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring awk - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-awk-linux-commands/)
- - 🌮 [Learning SQL: Column Alias](https://victoriacheng15.vercel.app/posts/learning-sql-column-alias/)
+ - 💯 [September Reflection 2024](https://victoriacheng15.vercel.app/posts/september-reflection-2024/)
+ - 🌮 [Exploring awk - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-awk-linux-commands/)
+ - 💫 [Learning SQL: Column Alias](https://victoriacheng15.vercel.app/posts/learning-sql-column-alias/)
  - 💫 [Exploring sed - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-sed-linux-commands/)
- - 💫 [Learning SQL: SELECT and SELECT DISTINCT](https://victoriacheng15.vercel.app/posts/learning-sql-select-and-select-distinct/)
- - 🌮 [Exploring diff - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-diff-linux-commands/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Learning SQL: SELECT and SELECT DISTINCT](https://victoriacheng15.vercel.app/posts/learning-sql-select-and-select-distinct/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
