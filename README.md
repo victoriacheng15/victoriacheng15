@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring find - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-find-linux-commands/)
- - 🌮 [September Reflection 2024](https://victoriacheng15.vercel.app/posts/september-reflection-2024/)
+ - 💯 [Learning SQL: WHERE](https://victoriacheng15.vercel.app/posts/learning-sql-where/)
+ - 🌮 [Exploring find - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-find-linux-commands/)
+ - 💫 [September Reflection 2024](https://victoriacheng15.vercel.app/posts/september-reflection-2024/)
  - 💫 [Exploring awk - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-awk-linux-commands/)
- - 💫 [Learning SQL: Column Alias](https://victoriacheng15.vercel.app/posts/learning-sql-column-alias/)
- - 🌮 [Exploring sed - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-sed-linux-commands/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Learning SQL: Column Alias](https://victoriacheng15.vercel.app/posts/learning-sql-column-alias/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
