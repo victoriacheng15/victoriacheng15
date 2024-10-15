@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Learning SQL: ORDER BY](https://victoriacheng15.vercel.app/posts/learning-sql-order-by/)
- - 🌮 [Exploring chgrp - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chgrp-linux-commands/)
+ - 💯 [Exploring chown - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chown-linux-commands/)
+ - 🌮 [Learning SQL: ORDER BY](https://victoriacheng15.vercel.app/posts/learning-sql-order-by/)
+ - 💫 [Exploring chgrp - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chgrp-linux-commands/)
  - 💫 [Learning SQL: WHERE](https://victoriacheng15.vercel.app/posts/learning-sql-where/)
- - 💫 [Exploring find - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-find-linux-commands/)
- - 🌮 [September Reflection 2024](https://victoriacheng15.vercel.app/posts/september-reflection-2024/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring find - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-find-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
