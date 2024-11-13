@@ -31,11 +31,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring chmod - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chmod-linux-commands/)
- - 🌮 [Understanding the TCP Three-Way Handshake](https://victoriacheng15.vercel.app/posts/understanding-the-tcp-three-way-handshake/)
+ - 💯 [Learning SQL: LIMIT and OFFSET](https://victoriacheng15.vercel.app/posts/learning-sql-limit-and-offset/)
+ - 🌮 [Exploring chmod - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chmod-linux-commands/)
+ - 💫 [Understanding the TCP Three-Way Handshake](https://victoriacheng15.vercel.app/posts/understanding-the-tcp-three-way-handshake/)
  - 💫 [Exploring chown - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chown-linux-commands/)
- - 💫 [Learning SQL: ORDER BY](https://victoriacheng15.vercel.app/posts/learning-sql-order-by/)
- - 🌮 [Exploring chgrp - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chgrp-linux-commands/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Learning SQL: ORDER BY](https://victoriacheng15.vercel.app/posts/learning-sql-order-by/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
