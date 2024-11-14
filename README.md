@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
   ![banner](./banner/banner.png)
 
-</div>
+</div> -->
 
 # Hi 👋 My name is Victoria
 
