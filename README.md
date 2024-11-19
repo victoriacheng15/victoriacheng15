@@ -36,11 +36,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Learning SQL: LIMIT and OFFSET](https://victoriacheng15.vercel.app/posts/learning-sql-limit-and-offset/)
- - 🌮 [Exploring chmod - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chmod-linux-commands/)
+ - 💯 [Learning SQL: INSERT INTO](https://victoriacheng15.vercel.app/posts/learning-sql-insert-into/)
+ - 🌮 [Learning SQL: LIMIT and OFFSET](https://victoriacheng15.vercel.app/posts/learning-sql-limit-and-offset/)
+ - 💫 [Exploring chmod - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chmod-linux-commands/)
  - 💫 [Understanding the TCP Three-Way Handshake](https://victoriacheng15.vercel.app/posts/understanding-the-tcp-three-way-handshake/)
- - 💫 [Exploring chown - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chown-linux-commands/)
- - 🌮 [Learning SQL: ORDER BY](https://victoriacheng15.vercel.app/posts/learning-sql-order-by/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring chown - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chown-linux-commands/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
