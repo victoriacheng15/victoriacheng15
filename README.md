@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#821](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/821) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-5. 🎉 Merged PR [#823](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/823) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/timer/pull/7) in [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/timer/pull/7) in [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+4. ✌️ Released [v1.0.0](https://github.com/victoriacheng15/timer/releases/tag/v1.0.0) in [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
