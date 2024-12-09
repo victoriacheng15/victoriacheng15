@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [victoriacheng15/data-engineer-handbook](https://github.com/victoriacheng15/data-engineer-handbook)
-2. ⬆️ Pushed 12 commit(s) to [victoriacheng15/coding-interview-university](https://github.com/victoriacheng15/coding-interview-university)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 🎉 Merged PR [#38](https://github.com/victoriacheng15/articles-extractor/pull/38) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 💪 Opened PR [#38](https://github.com/victoriacheng15/articles-extractor/pull/38) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+2. 🎉 Merged PR [#842](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/842) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+3. ❌ Closed PR [#839](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/839) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
+5. 🎉 Merged PR [#840](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/840) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
