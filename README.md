@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-2. 🎉 Merged PR [#848](https://github.com/victoriacheng15/victoriacheng15.vercel.app/pull/848) in [victoriacheng15/victoriacheng15.vercel.app](https://github.com/victoriacheng15/victoriacheng15.vercel.app)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/data-engineer-handbook](https://github.com/victoriacheng15/data-engineer-handbook)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 🎉 Merged PR [#153](https://github.com/victoriacheng15/hacker-news-next/pull/153) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+2. 🎉 Merged PR [#8](https://github.com/victoriacheng15/timer/pull/8) in [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+3. 💪 Opened PR [#8](https://github.com/victoriacheng15/timer/pull/8) in [victoriacheng15/timer](https://github.com/victoriacheng15/timer)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shorts-maker](https://github.com/victoriacheng15/shorts-maker)
+5. 📔 Created new repository [victoriacheng15/shorts-maker](https://github.com/victoriacheng15/shorts-maker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
