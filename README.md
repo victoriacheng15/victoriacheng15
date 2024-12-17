@@ -36,11 +36,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [What is a Garbage Collection](https://victoriacheng15.vercel.app/posts/what-is-a-garbage-collection/)
- - 🌮 [November Reflection 2024](https://victoriacheng15.vercel.app/posts/november-reflection-2024/)
+ - 💯 [Learning SQL: UPDATE](https://victoriacheng15.vercel.app/posts/learning-sql-update/)
+ - 🌮 [What is a Garbage Collection](https://victoriacheng15.vercel.app/posts/what-is-a-garbage-collection/)
+ - 💫 [November Reflection 2024](https://victoriacheng15.vercel.app/posts/november-reflection-2024/)
  - 💫 [Learning SQL: INSERT INTO](https://victoriacheng15.vercel.app/posts/learning-sql-insert-into/)
- - 💫 [Learning SQL: LIMIT and OFFSET](https://victoriacheng15.vercel.app/posts/learning-sql-limit-and-offset/)
- - 🌮 [Exploring chmod - Linux Commands](https://victoriacheng15.vercel.app/posts/exploring-chmod-linux-commands/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Learning SQL: LIMIT and OFFSET](https://victoriacheng15.vercel.app/posts/learning-sql-limit-and-offset/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
