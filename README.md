@@ -36,11 +36,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Learning SQL: DELETE](https://victoriacheng15.vercel.app/posts/learning-sql-delete/)
- - 🌮 [Learning SQL: UPDATE](https://victoriacheng15.vercel.app/posts/learning-sql-update/)
- - 💫 [What is a Garbage Collection](https://victoriacheng15.vercel.app/posts/what-is-a-garbage-collection/)
- - 💫 [November Reflection 2024](https://victoriacheng15.vercel.app/posts/november-reflection-2024/)
- - 🌮 [Learning SQL: INSERT INTO](https://victoriacheng15.vercel.app/posts/learning-sql-insert-into/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Reflecting on 2024](https://victoriacheng15.vercel.app/blog/reflecting-on-2024)
+ - 🌮 [Learning SQL: DELETE](https://victoriacheng15.vercel.app/blog/learning-sql-delete)
+ - 💫 [Learning SQL: UPDATE](https://victoriacheng15.vercel.app/blog/learning-sql-update)
+ - 💫 [What is a Garbage Collection](https://victoriacheng15.vercel.app/blog/what-is-a-garbage-collection)
+ - 🌮 [November Reflection 2024](https://victoriacheng15.vercel.app/blog/november-reflection-2024)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
