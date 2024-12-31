@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](https://github.com/victoriacheng15/mehub/pull/27) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. 🎉 Merged PR [#27](https://github.com/victoriacheng15/mehub/pull/27) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#26](https://github.com/victoriacheng15/mehub/pull/26) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#26](https://github.com/victoriacheng15/mehub/pull/26) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed 30 commit(s) to [victoriacheng15/data-engineer-handbook](https://github.com/victoriacheng15/data-engineer-handbook)
+3. 💪 Opened PR [#27](https://github.com/victoriacheng15/mehub/pull/27) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#26](https://github.com/victoriacheng15/mehub/pull/26) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
