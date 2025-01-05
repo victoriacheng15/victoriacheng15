@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#27](https://github.com/codetocloudinc/code-to-cloud-home/pull/27#discussion_r1903165281) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
-2. ⬆️ Pushed 4 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#28](https://github.com/victoriacheng15/mehub/pull/28) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 🎉 Merged PR [#158](https://github.com/victoriacheng15/hacker-news-next/pull/158) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. 💪 Opened PR [#30](https://github.com/codetocloudinc/code-to-cloud-home/pull/30) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+2. 💬 Commented on [#27](https://github.com/codetocloudinc/code-to-cloud-home/pull/27#discussion_r1903165281) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+3. ⬆️ Pushed 4 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#28](https://github.com/victoriacheng15/mehub/pull/28) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
