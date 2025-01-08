@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#159](https://github.com/victoriacheng15/hacker-news-next/pull/159) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 💪 Opened PR [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#33](https://github.com/victoriacheng15/mehub/pull/33) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💪 Opened PR [#33](https://github.com/victoriacheng15/mehub/pull/33) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⭐ Starred [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql)
+2. ❌ Closed PR [#159](https://github.com/victoriacheng15/hacker-news-next/pull/159) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 💪 Opened PR [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#33](https://github.com/victoriacheng15/mehub/pull/33) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
