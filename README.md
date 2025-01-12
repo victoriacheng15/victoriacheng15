@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
-2. ⬆️ Pushed 23 commit(s) to [victoriacheng15/data-engineer-handbook](https://github.com/victoriacheng15/data-engineer-handbook)
-3. ⭐ Starred [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql)
-4. ❌ Closed PR [#159](https://github.com/victoriacheng15/hacker-news-next/pull/159) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 💪 Opened PR [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+1. ⭐ Starred [jasonniebauer/build-a-rasperry-pi-ethical-hacking-computer](https://github.com/jasonniebauer/build-a-rasperry-pi-ethical-hacking-computer)
+2. ⭐ Starred [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
+3. ⬆️ Pushed 23 commit(s) to [victoriacheng15/data-engineer-handbook](https://github.com/victoriacheng15/data-engineer-handbook)
+4. ⭐ Starred [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql)
+5. ❌ Closed PR [#159](https://github.com/victoriacheng15/hacker-news-next/pull/159) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
