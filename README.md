@@ -51,10 +51,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#35](https://github.com/victoriacheng15/mehub/pull/35) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#34](https://github.com/victoriacheng15/mehub/pull/34) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⭐ Starred [jasonniebauer/build-a-rasperry-pi-ethical-hacking-computer](https://github.com/jasonniebauer/build-a-rasperry-pi-ethical-hacking-computer)
+2. 🎉 Merged PR [#36](https://github.com/victoriacheng15/mehub/pull/36) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#36](https://github.com/victoriacheng15/mehub/pull/36) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#35](https://github.com/victoriacheng15/mehub/pull/35) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
