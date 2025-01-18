@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/myCloneApp/pull/2) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-3. 💪 Opened PR [#2](https://github.com/victoriacheng15/myCloneApp/pull/2) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-5. 🎉 Merged PR [#1](https://github.com/victoriacheng15/myCloneApp/pull/1) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+1. 🤝 Became collaborator on [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+2. 🤝 Became collaborator on [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/myCloneApp/pull/2) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+5. 💪 Opened PR [#2](https://github.com/victoriacheng15/myCloneApp/pull/2) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
