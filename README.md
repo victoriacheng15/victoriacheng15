@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-2. ⬆️ Pushed 132 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 🎉 Merged PR [#42](https://github.com/victoriacheng15/articles-extractor/pull/42) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 💪 Opened PR [#42](https://github.com/victoriacheng15/articles-extractor/pull/42) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 3 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/myCloneApp/pull/1) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/myCloneApp/pull/1) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+4. 📔 Created new repository [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+5. ⬆️ Pushed 132 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
