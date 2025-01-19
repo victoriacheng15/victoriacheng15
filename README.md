@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-2. 🤝 Became collaborator on [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-4. 🎉 Merged PR [#2](https://github.com/victoriacheng15/myCloneApp/pull/2) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-5. 💪 Opened PR [#2](https://github.com/victoriacheng15/myCloneApp/pull/2) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cprg306-assignments/pull/3) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cprg306-assignments/pull/3) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. 🔱 Forked [victoriacheng15/webdev2-community-events](https://github.com/victoriacheng15/webdev2-community-events) from [warsylewicz/webdev2-community-events](https://github.com/warsylewicz/webdev2-community-events)
+5. 💪 Opened PR [#3](https://github.com/victoriacheng15/myCloneApp/pull/3) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
