@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/myCloneApp/pull/3) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-4. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cprg306-assignments/pull/3) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-5. 💪 Opened PR [#3](https://github.com/victoriacheng15/cprg306-assignments/pull/3) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#40](https://github.com/victoriacheng15/mehub/pull/40) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#39](https://github.com/victoriacheng15/mehub/pull/39) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
