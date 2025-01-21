@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-2. 🎉 Merged PR [#5](https://github.com/victoriacheng15/myCloneApp/pull/5) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-3. 💪 Opened PR [#5](https://github.com/victoriacheng15/myCloneApp/pull/5) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
-5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/myCloneApp/pull/4) in [victoriacheng15/myCloneApp](https://github.com/victoriacheng15/myCloneApp)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 💪 Opened PR [#42](https://github.com/victoriacheng15/mehub/pull/42) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#41](https://github.com/victoriacheng15/mehub/pull/41) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 💪 Opened PR [#41](https://github.com/victoriacheng15/mehub/pull/41) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
