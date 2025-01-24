@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/3) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-3. 💪 Opened PR [#3](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/3) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-4. 💪 Opened PR [#8](https://github.com/victoriacheng15/cprg306-assignments/pull/8) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-5. 💪 Opened PR [#7](https://github.com/victoriacheng15/cprg306-assignments/pull/7) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)
+2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+3. 🎉 Merged PR [#3](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/3) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+4. 💪 Opened PR [#3](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/3) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+5. 💪 Opened PR [#8](https://github.com/victoriacheng15/cprg306-assignments/pull/8) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
