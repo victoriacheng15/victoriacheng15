@@ -36,11 +36,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Learning SQL: RIGHT JOIN](https://victoriacheng15.vercel.app/blog/learning-sql-right-join)
- - 🌮 [Learning SQL: LEFT JOIN](https://victoriacheng15.vercel.app/blog/learning-sql-left-join)
+ - 💯 [January Reflection 2025](https://victoriacheng15.vercel.app/blog/january-reflection-2025)
+ - 🌮 [Learning SQL: RIGHT JOIN](https://victoriacheng15.vercel.app/blog/learning-sql-right-join)
+ - 💫 [Learning SQL: LEFT JOIN](https://victoriacheng15.vercel.app/blog/learning-sql-left-join)
  - 💫 [Learning SQL: INNER JOIN](https://victoriacheng15.vercel.app/blog/learning-sql-inner-join)
- - 💫 [Reflecting on 2024](https://victoriacheng15.vercel.app/blog/reflecting-on-2024)
- - 🌮 [Learning SQL: DELETE](https://victoriacheng15.vercel.app/blog/learning-sql-delete)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Reflecting on 2024](https://victoriacheng15.vercel.app/blog/reflecting-on-2024)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
