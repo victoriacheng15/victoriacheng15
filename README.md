@@ -50,10 +50,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#45](https://github.com/victoriacheng15/mehub/pull/45) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#45](https://github.com/victoriacheng15/mehub/pull/45) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ❌ Closed PR [#49](https://github.com/victoriacheng15/mehub/pull/49) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. ❌ Closed PR [#46](https://github.com/victoriacheng15/mehub/pull/46) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#51](https://github.com/victoriacheng15/mehub/pull/51) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
