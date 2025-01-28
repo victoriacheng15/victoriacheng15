@@ -50,10 +50,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. 🎉 Merged PR [#8](https://github.com/victoriacheng15/cprg306-assignments/pull/8) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-4. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. 💪 Opened PR [#1](https://github.com/victoriacheng15/shopify-pair-programming/pull/1) in [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
+4. 📔 Created new repository [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
 <!--RECENT_ACTIVITY:end-->
 
