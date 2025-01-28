@@ -51,10 +51,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#52](https://github.com/victoriacheng15/mehub/pull/52) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#52](https://github.com/victoriacheng15/mehub/pull/52) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-5. 💪 Opened PR [#1](https://github.com/victoriacheng15/shopify-pair-programming/pull/1) in [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
+2. 🎉 Merged PR [#55](https://github.com/victoriacheng15/mehub/pull/55) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#55](https://github.com/victoriacheng15/mehub/pull/55) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#54](https://github.com/victoriacheng15/mehub/pull/54) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
