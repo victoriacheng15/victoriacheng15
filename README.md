@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/victoriacheng15/shopify-pair-programming/pull/1) in [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
+1. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+2. 💪 Opened PR [#1](https://github.com/victoriacheng15/shopify-pair-programming/pull/1) in [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
-4. 📔 Created new repository [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
+5. 📔 Created new repository [victoriacheng15/shopify-pair-programming](https://github.com/victoriacheng15/shopify-pair-programming)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
