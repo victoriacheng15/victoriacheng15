@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#10](https://github.com/victoriacheng15/cprg306-assignments/pull/10) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. 🎉 Merged PR [#48](https://github.com/victoriacheng15/articles-extractor/pull/48) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 💪 Opened PR [#48](https://github.com/victoriacheng15/articles-extractor/pull/48) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+2. 💪 Opened PR [#10](https://github.com/victoriacheng15/cprg306-assignments/pull/10) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 🎉 Merged PR [#48](https://github.com/victoriacheng15/articles-extractor/pull/48) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 💪 Opened PR [#48](https://github.com/victoriacheng15/articles-extractor/pull/48) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
