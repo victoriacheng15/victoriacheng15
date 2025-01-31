@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. 💪 Opened PR [#10](https://github.com/victoriacheng15/cprg306-assignments/pull/10) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. 🎉 Merged PR [#48](https://github.com/victoriacheng15/articles-extractor/pull/48) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 💪 Opened PR [#48](https://github.com/victoriacheng15/articles-extractor/pull/48) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 3 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 💬 Commented on [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31#issuecomment-2626118005) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+4. ⬆️ Pushed 19 commit(s) to [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
