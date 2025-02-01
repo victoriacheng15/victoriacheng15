@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. 💬 Commented on [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31#issuecomment-2626118005) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
-4. ⬆️ Pushed 19 commit(s) to [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#164](https://github.com/victoriacheng15/hacker-news-next/pull/164) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 🎉 Merged PR [#163](https://github.com/victoriacheng15/hacker-news-next/pull/163) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
