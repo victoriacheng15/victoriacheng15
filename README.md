@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lynnlangit/learning-cloud](https://github.com/lynnlangit/learning-cloud)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 🎉 Merged PR [#54](https://github.com/victoriacheng15/articles-extractor/pull/54) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 💪 Opened PR [#54](https://github.com/victoriacheng15/articles-extractor/pull/54) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. ❌ Closed PR [#161](https://github.com/victoriacheng15/hacker-news-next/pull/161) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. 💪 Opened PR [#11](https://github.com/victoriacheng15/cprg306-assignments/pull/11) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 🎉 Merged PR [#10](https://github.com/victoriacheng15/cprg306-assignments/pull/10) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. ⬆️ Pushed 3 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
