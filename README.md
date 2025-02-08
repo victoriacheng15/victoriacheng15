@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31#discussion_r1947407416) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
-2. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-4. 🎉 Merged PR [#3](https://github.com/victoriacheng15/rm-devops-lab/pull/3) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-5. 💪 Opened PR [#3](https://github.com/victoriacheng15/rm-devops-lab/pull/3) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/react-jenkins](https://github.com/victoriacheng15/react-jenkins)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/react-jenkins/pull/1) in [victoriacheng15/react-jenkins](https://github.com/victoriacheng15/react-jenkins)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/react-jenkins/pull/1) in [victoriacheng15/react-jenkins](https://github.com/victoriacheng15/react-jenkins)
+4. 📔 Created new repository [victoriacheng15/react-jenkins](https://github.com/victoriacheng15/react-jenkins)
+5. 💬 Commented on [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31#discussion_r1947407416) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
