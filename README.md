@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-3. 🎉 Merged PR [#3](https://github.com/victoriacheng15/rm-devops-lab/pull/3) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-4. 💪 Opened PR [#3](https://github.com/victoriacheng15/rm-devops-lab/pull/3) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-server-performance-stats](https://github.com/victoriacheng15/rm-server-performance-stats)
+1. 💬 Commented on [#31](https://github.com/codetocloudinc/code-to-cloud-home/pull/31#discussion_r1947407416) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+2. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+4. 🎉 Merged PR [#3](https://github.com/victoriacheng15/rm-devops-lab/pull/3) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+5. 💪 Opened PR [#3](https://github.com/victoriacheng15/rm-devops-lab/pull/3) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
