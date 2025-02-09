@@ -51,10 +51,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
-3. 🔱 Forked [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app) from [jenkins-docs/simple-node-js-react-npm-app](https://github.com/jenkins-docs/simple-node-js-react-npm-app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🎉 Merged PR [#70](https://github.com/victoriacheng15/mehub/pull/70) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/simple-node-js-react-npm-app/pull/1) in [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/simple-node-js-react-npm-app/pull/1) in [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
