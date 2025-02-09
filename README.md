@@ -50,10 +50,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/simple-node-js-react-npm-app/pull/1) in [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/simple-node-js-react-npm-app/pull/1) in [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/cc-cut-py/pull/1) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/cc-cut-py/pull/1) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+4. 📔 Created new repository [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/simple-node-js-react-npm-app](https://github.com/victoriacheng15/simple-node-js-react-npm-app)
 <!--RECENT_ACTIVITY:end-->
 
