@@ -51,10 +51,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
-2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/cc-cut-py/pull/10) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
-3. 💪 Opened PR [#10](https://github.com/victoriacheng15/cc-cut-py/pull/10) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
-4. ❌ Closed PR [#76](https://github.com/victoriacheng15/mehub/pull/76) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ❌ Closed PR [#73](https://github.com/victoriacheng15/mehub/pull/73) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/cc-cut-py/pull/11) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+3. 💪 Opened PR [#11](https://github.com/victoriacheng15/cc-cut-py/pull/11) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+5. 🎉 Merged PR [#10](https://github.com/victoriacheng15/cc-cut-py/pull/10) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
