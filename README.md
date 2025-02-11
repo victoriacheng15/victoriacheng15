@@ -50,10 +50,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
-3. 🎉 Merged PR [#11](https://github.com/victoriacheng15/cc-cut-py/pull/11) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
-4. 💪 Opened PR [#11](https://github.com/victoriacheng15/cc-cut-py/pull/11) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/rest-countries-rn/pull/1) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/rest-countries-rn/pull/1) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. 📔 Created new repository [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
 <!--RECENT_ACTIVITY:end-->
 
