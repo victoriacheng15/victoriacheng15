@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#75](https://github.com/victoriacheng15/mehub/pull/75) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 15 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
-5. 🎉 Merged PR [#9](https://github.com/victoriacheng15/cc-cut-py/pull/9) in [victoriacheng15/cc-cut-py](https://github.com/victoriacheng15/cc-cut-py)
+1. ❌ Closed PR [#76](https://github.com/victoriacheng15/mehub/pull/76) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. ❌ Closed PR [#73](https://github.com/victoriacheng15/mehub/pull/73) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#74](https://github.com/victoriacheng15/mehub/pull/74) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
