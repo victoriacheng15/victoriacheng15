@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#459](https://github.com/CodingChallengesFYI/SharedSolutions/pull/459) in [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
-2. 💪 Opened PR [#12](https://github.com/victoriacheng15/cprg306-assignments/pull/12) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 🎉 Merged PR [#55](https://github.com/victoriacheng15/articles-extractor/pull/55) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 💪 Opened PR [#55](https://github.com/victoriacheng15/articles-extractor/pull/55) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
+2. 💪 Opened PR [#459](https://github.com/CodingChallengesFYI/SharedSolutions/pull/459) in [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
+3. 💪 Opened PR [#12](https://github.com/victoriacheng15/cprg306-assignments/pull/12) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 🎉 Merged PR [#55](https://github.com/victoriacheng15/articles-extractor/pull/55) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
