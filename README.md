@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [d3witt/viking](https://github.com/d3witt/viking)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-3. 💪 Opened PR [#459](https://github.com/CodingChallengesFYI/SharedSolutions/pull/459) in [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
-4. 💪 Opened PR [#12](https://github.com/victoriacheng15/cprg306-assignments/pull/12) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#56](https://github.com/victoriacheng15/articles-extractor/pull/56) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 💪 Opened PR [#56](https://github.com/victoriacheng15/articles-extractor/pull/56) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. ⭐ Starred [d3witt/viking](https://github.com/d3witt/viking)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
