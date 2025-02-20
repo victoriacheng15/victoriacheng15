@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-2. 🎉 Merged PR [#4](https://github.com/victoriacheng15/rm-devops-lab/pull/4) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-3. 💪 Opened PR [#4](https://github.com/victoriacheng15/rm-devops-lab/pull/4) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. 📖 Created new wiki page [UIUX](https://github.com/victoriacheng15/rest-countries-rn/wiki/UIUX) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. 📖 Created new wiki page [Home](https://github.com/victoriacheng15/rest-countries-rn/wiki/Home) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+4. 🎉 Merged PR [#4](https://github.com/victoriacheng15/rm-devops-lab/pull/4) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+5. 💪 Opened PR [#4](https://github.com/victoriacheng15/rm-devops-lab/pull/4) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
