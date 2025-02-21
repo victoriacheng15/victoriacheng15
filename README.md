@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cprg306-assignments/pull/12) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-4. 📖 Created new wiki page [UIUX](https://github.com/victoriacheng15/rest-countries-rn/wiki/UIUX) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-5. 📖 Created new wiki page [Home](https://github.com/victoriacheng15/rest-countries-rn/wiki/Home) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ⭐ Starred [kiran199326/devops_practice](https://github.com/kiran199326/devops_practice)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cprg306-assignments/pull/12) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+5. 📖 Created new wiki page [UIUX](https://github.com/victoriacheng15/rest-countries-rn/wiki/UIUX) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
