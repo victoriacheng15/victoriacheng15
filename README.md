@@ -51,10 +51,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-3. 💪 Opened PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/rm-devops-lab/pull/6) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+3. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+4. 💪 Opened PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
