@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#89](https://github.com/victoriacheng15/mehub/pull/89) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#89](https://github.com/victoriacheng15/mehub/pull/89) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⭐ Starred [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript)
-5. ⭐ Starred [kiran199326/devops_practice](https://github.com/kiran199326/devops_practice)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/rm-devops-lab/pull/6) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
