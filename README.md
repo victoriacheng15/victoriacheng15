@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript)
-2. ⭐ Starred [kiran199326/devops_practice](https://github.com/kiran199326/devops_practice)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-4. 🎉 Merged PR [#12](https://github.com/victoriacheng15/cprg306-assignments/pull/12) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-5. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#89](https://github.com/victoriacheng15/mehub/pull/89) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#89](https://github.com/victoriacheng15/mehub/pull/89) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⭐ Starred [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript)
+5. ⭐ Starred [kiran199326/devops_practice](https://github.com/kiran199326/devops_practice)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
