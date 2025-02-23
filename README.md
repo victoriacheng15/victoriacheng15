@@ -50,10 +50,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-3. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
-4. 💪 Opened PR [#7](https://github.com/victoriacheng15/rm-devops-lab/pull/7) in [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
+1. 💪 Opened PR [#5](https://github.com/victoriacheng15/rest-countries-rn/pull/5) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. 🎉 Merged PR [#4](https://github.com/victoriacheng15/rest-countries-rn/pull/4) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. 💪 Opened PR [#4](https://github.com/victoriacheng15/rest-countries-rn/pull/4) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rm-devops-lab](https://github.com/victoriacheng15/rm-devops-lab)
 <!--RECENT_ACTIVITY:end-->
 
