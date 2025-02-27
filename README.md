@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. 💪 Opened PR [#13](https://github.com/victoriacheng15/cprg306-assignments/pull/13) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. 🎉 Merged PR [#93](https://github.com/victoriacheng15/mehub/pull/93) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💪 Opened PR [#93](https://github.com/victoriacheng15/mehub/pull/93) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/7) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+3. 💪 Opened PR [#7](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/7) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+5. 💪 Opened PR [#13](https://github.com/victoriacheng15/cprg306-assignments/pull/13) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
