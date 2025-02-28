@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-2. 🎉 Merged PR [#13](https://github.com/victoriacheng15/cprg306-assignments/pull/13) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-4. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-5. 🎉 Merged PR [#7](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/7) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+1. ⭐ Starred [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 🎉 Merged PR [#13](https://github.com/victoriacheng15/cprg306-assignments/pull/13) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+5. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
