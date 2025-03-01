@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#57](https://github.com/victoriacheng15/articles-extractor/pull/57) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 💪 Opened PR [#57](https://github.com/victoriacheng15/articles-extractor/pull/57) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. ⭐ Starred [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. 🎉 Merged PR [#8](https://github.com/victoriacheng15/rest-countries-rn/pull/8) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
