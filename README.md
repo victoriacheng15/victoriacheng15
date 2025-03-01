@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
-2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/cprg303-assignment3-api/pull/1) in [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/cprg303-assignment3-api/pull/1) in [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
-4. 📔 Created new repository [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
-5. 🎉 Merged PR [#8](https://github.com/victoriacheng15/rest-countries-rn/pull/8) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/rest-countries-rn/pull/9) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. 💪 Opened PR [#9](https://github.com/victoriacheng15/rest-countries-rn/pull/9) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. 🤝 Became collaborator on [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
