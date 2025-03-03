@@ -51,10 +51,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#94](https://github.com/victoriacheng15/mehub/pull/94) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#95](https://github.com/victoriacheng15/mehub/pull/95) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#97](https://github.com/victoriacheng15/mehub/pull/97) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. 🎉 Merged PR [#96](https://github.com/victoriacheng15/mehub/pull/96) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
