@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-2. 🎉 Merged PR [#11](https://github.com/victoriacheng15/rest-countries-rn/pull/11) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-4. 💪 Opened PR [#11](https://github.com/victoriacheng15/rest-countries-rn/pull/11) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+2. 🎉 Merged PR [#14](https://github.com/victoriacheng15/cprg306-assignments/pull/14) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+3. 💪 Opened PR [#14](https://github.com/victoriacheng15/cprg306-assignments/pull/14) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/rest-countries-rn/pull/11) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
