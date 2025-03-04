@@ -50,10 +50,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#98](https://github.com/victoriacheng15/mehub/pull/98) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#95](https://github.com/victoriacheng15/mehub/pull/95) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 7 commit(s) to [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
+2. 🎉 Merged PR [#2](https://github.com/victoriacheng15/cprg303-assignment3-api/pull/2) in [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
+3. 💬 Commented on [#2](https://github.com/victoriacheng15/cprg303-assignment3-api/pull/2#issuecomment-2696098134) in [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
+4. ⬆️ Pushed 4 commit(s) to [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
