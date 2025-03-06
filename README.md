@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/9) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-4. 💪 Opened PR [#9](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/9) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-5. ❗️ Opened issue [#14](https://github.com/victoriacheng15/rest-countries-rn/issues/14) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ⭐ Starred [alibaba/ice](https://github.com/alibaba/ice)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 🎉 Merged PR [#59](https://github.com/victoriacheng15/articles-extractor/pull/59) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 💪 Opened PR [#59](https://github.com/victoriacheng15/articles-extractor/pull/59) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
