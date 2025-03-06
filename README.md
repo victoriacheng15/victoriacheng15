@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#14](https://github.com/victoriacheng15/rest-countries-rn/issues/14) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-2. ❗️ Opened issue [#13](https://github.com/victoriacheng15/rest-countries-rn/issues/13) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-3. ❗️ Opened issue [#12](https://github.com/victoriacheng15/rest-countries-rn/issues/12) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-4. ⬆️ Pushed 16 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-5. ⭐ Starred [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/9) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+4. 💪 Opened PR [#9](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/9) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+5. ❗️ Opened issue [#14](https://github.com/victoriacheng15/rest-countries-rn/issues/14) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
