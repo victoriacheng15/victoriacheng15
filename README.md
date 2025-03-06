@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-2. 🎉 Merged PR [#8](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/8) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-3. 💪 Opened PR [#8](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/8) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
-4. 💪 Opened PR [#58](https://github.com/victoriacheng15/articles-extractor/pull/58) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. ⬆️ Pushed 7 commit(s) to [victoriacheng15/cprg303-assignment3-api](https://github.com/victoriacheng15/cprg303-assignment3-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#58](https://github.com/victoriacheng15/articles-extractor/pull/58) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+4. 🎉 Merged PR [#8](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/8) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+5. 💪 Opened PR [#8](https://github.com/victoriacheng15/cprg303-lab-assignment-2/pull/8) in [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
