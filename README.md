@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-2. 🎉 Merged PR [#18](https://github.com/victoriacheng15/rest-countries-rn/pull/18) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-3. 💪 Opened PR [#18](https://github.com/victoriacheng15/rest-countries-rn/pull/18) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-4. ❗️ Opened issue [#17](https://github.com/victoriacheng15/rest-countries-rn/issues/17) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ✔️ Closed issue [#17](https://github.com/codetocloudinc/code-to-cloud-home/issues/17) in [codetocloudinc/code-to-cloud-home](https://github.com/codetocloudinc/code-to-cloud-home)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. 🎉 Merged PR [#18](https://github.com/victoriacheng15/rest-countries-rn/pull/18) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. 💪 Opened PR [#18](https://github.com/victoriacheng15/rest-countries-rn/pull/18) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. ❗️ Opened issue [#17](https://github.com/victoriacheng15/rest-countries-rn/issues/17) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
