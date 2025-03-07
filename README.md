@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alibaba/ice](https://github.com/alibaba/ice)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 🎉 Merged PR [#59](https://github.com/victoriacheng15/articles-extractor/pull/59) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 💪 Opened PR [#59](https://github.com/victoriacheng15/articles-extractor/pull/59) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-lab-assignment-2](https://github.com/victoriacheng15/cprg303-lab-assignment-2)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. 🎉 Merged PR [#18](https://github.com/victoriacheng15/rest-countries-rn/pull/18) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. 💪 Opened PR [#18](https://github.com/victoriacheng15/rest-countries-rn/pull/18) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. ❗️ Opened issue [#17](https://github.com/victoriacheng15/rest-countries-rn/issues/17) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
