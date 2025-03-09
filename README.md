@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#168](https://github.com/victoriacheng15/hacker-news-next/pull/168) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. ❌ Closed PR [#167](https://github.com/victoriacheng15/hacker-news-next/pull/167) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⭐ Starred [Miraclelucy/dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-5. 🎉 Merged PR [#19](https://github.com/victoriacheng15/rest-countries-rn/pull/19) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#99](https://github.com/victoriacheng15/mehub/pull/99) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#99](https://github.com/victoriacheng15/mehub/pull/99) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ❌ Closed PR [#168](https://github.com/victoriacheng15/hacker-news-next/pull/168) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ❌ Closed PR [#167](https://github.com/victoriacheng15/hacker-news-next/pull/167) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
