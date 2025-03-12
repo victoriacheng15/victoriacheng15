@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#24](https://github.com/victoriacheng15/rest-countries-rn/pull/24) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-3. ✔️ Closed issue [#13](https://github.com/victoriacheng15/rest-countries-rn/issues/13) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-4. 🎉 Merged PR [#20](https://github.com/victoriacheng15/rest-countries-rn/pull/20) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+2. ✔️ Closed issue [#17](https://github.com/victoriacheng15/rest-countries-rn/issues/17) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+3. 🎉 Merged PR [#24](https://github.com/victoriacheng15/rest-countries-rn/pull/24) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. 💪 Opened PR [#24](https://github.com/victoriacheng15/rest-countries-rn/pull/24) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
