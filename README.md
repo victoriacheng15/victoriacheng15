@@ -50,11 +50,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-3. ✔️ Closed issue [#17](https://github.com/victoriacheng15/rest-countries-rn/issues/17) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-4. 🎉 Merged PR [#24](https://github.com/victoriacheng15/rest-countries-rn/pull/24) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
-5. 💪 Opened PR [#24](https://github.com/victoriacheng15/rest-countries-rn/pull/24) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+1. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+4. ✔️ Closed issue [#17](https://github.com/victoriacheng15/rest-countries-rn/issues/17) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
+5. 🎉 Merged PR [#24](https://github.com/victoriacheng15/rest-countries-rn/pull/24) in [victoriacheng15/rest-countries-rn](https://github.com/victoriacheng15/rest-countries-rn)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
