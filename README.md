@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-3. 🎉 Merged PR [#15](https://github.com/victoriacheng15/cprg306-assignments/pull/15) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-4. ✔️ Closed issue [#16](https://github.com/victoriacheng15/cprg306-assignments/issues/16) in [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#105](https://github.com/victoriacheng15/mehub/pull/105) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#105](https://github.com/victoriacheng15/mehub/pull/105) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
