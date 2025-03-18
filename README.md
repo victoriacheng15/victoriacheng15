@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#109](https://github.com/victoriacheng15/mehub/pull/109) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#109](https://github.com/victoriacheng15/mehub/pull/109) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ❌ Closed PR [#108](https://github.com/victoriacheng15/mehub/pull/108) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ❌ Closed PR [#107](https://github.com/victoriacheng15/mehub/pull/107) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 10 commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 🎉 Merged PR [#109](https://github.com/victoriacheng15/mehub/pull/109) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#109](https://github.com/victoriacheng15/mehub/pull/109) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ❌ Closed PR [#108](https://github.com/victoriacheng15/mehub/pull/108) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
