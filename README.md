@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-2. 🎉 Merged PR [#8](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/8) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-3. 💪 Opened PR [#8](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/8) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/oxygen-leak-game](https://github.com/victoriacheng15/oxygen-leak-game)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/9) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+3. 💪 Opened PR [#9](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/9) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+5. 🎉 Merged PR [#8](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/8) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
