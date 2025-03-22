@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack)
-2. ⭐ Starred [JaredC01/LabStack](https://github.com/JaredC01/LabStack)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg306-assignments](https://github.com/victoriacheng15/cprg306-assignments)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+2. 🎉 Merged PR [#31](https://github.com/victoriacheng15/bioHub/pull/31) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+3. 💪 Opened PR [#31](https://github.com/victoriacheng15/bioHub/pull/31) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
+5. 🎉 Merged PR [#30](https://github.com/victoriacheng15/bioHub/pull/30) in [victoriacheng15/bioHub](https://github.com/victoriacheng15/bioHub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
