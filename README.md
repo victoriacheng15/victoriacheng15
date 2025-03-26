@@ -38,11 +38,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring ping - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-ping-linux-commands)
- - 🌮 [Learning SQL: CASE](https://victoriacheng15.vercel.app/blog/learning-sql-case)
+ - 💯 [March Reflection 2025](https://victoriacheng15.vercel.app/blog/march-reflection-2025)
+ - 🌮 [Exploring ping - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-ping-linux-commands)
+ - 💫 [Learning SQL: CASE](https://victoriacheng15.vercel.app/blog/learning-sql-case)
  - 💫 [Learning SQL: HAVING](https://victoriacheng15.vercel.app/blog/learning-sql-having)
- - 💫 [February Reflection 2025](https://victoriacheng15.vercel.app/blog/february-reflection-2025)
- - 🌮 [Learning SQL: GROUP BY](https://victoriacheng15.vercel.app/blog/learning-sql-group-by)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [February Reflection 2025](https://victoriacheng15.vercel.app/blog/february-reflection-2025)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
