@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-2. 🎉 Merged PR [#42](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/42) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-3. 💪 Opened PR [#42](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/42) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+1. 💪 Opened PR [#35](https://github.com/codetocloudinc/platform-engineering/pull/35) in [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
+2. ⬆️ Pushed 1 commit(s) to [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
+3. ❌ Closed PR [#34](https://github.com/codetocloudinc/platform-engineering/pull/34) in [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-5. 🎉 Merged PR [#41](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/41) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+5. 🎉 Merged PR [#42](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/42) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
