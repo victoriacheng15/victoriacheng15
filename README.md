@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/victoriacheng15/the-gopher-learning/issues/2) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/the-gopher-learning/pull/9) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. 💪 Opened PR [#9](https://github.com/victoriacheng15/the-gopher-learning/pull/9) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. 🎉 Merged PR [#180](https://github.com/victoriacheng15/hacker-news-next/pull/180) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+2. 🎉 Merged PR [#53](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/53) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+3. 💪 Opened PR [#53](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/53) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+5. ✔️ Closed issue [#2](https://github.com/victoriacheng15/the-gopher-learning/issues/2) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
