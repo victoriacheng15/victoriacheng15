@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-2. 💪 Opened PR [#1](https://github.com/maximL5/WebDevProject/pull/1) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. 🎉 Merged PR [#181](https://github.com/victoriacheng15/hacker-news-next/pull/181) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. 🔱 Forked [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject) from [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#61](https://github.com/victoriacheng15/articles-extractor/pull/61) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. ❌ Closed PR [#44](https://github.com/victoriacheng15/rest-countries-api-next/pull/44) in [victoriacheng15/rest-countries-api-next](https://github.com/victoriacheng15/rest-countries-api-next)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+5. 🎉 Merged PR [#54](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/54) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
