@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3](https://github.com/victoriacheng15/the-gopher-learning/issues/3) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-3. 🎉 Merged PR [#10](https://github.com/victoriacheng15/the-gopher-learning/pull/10) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. 💪 Opened PR [#10](https://github.com/victoriacheng15/the-gopher-learning/pull/10) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#181](https://github.com/victoriacheng15/hacker-news-next/pull/181) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 🔱 Forked [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject) from [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+4. ✔️ Closed issue [#3](https://github.com/victoriacheng15/the-gopher-learning/issues/3) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
