@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-2. 🎉 Merged PR [#12](https://github.com/maximL5/WebDevProject/pull/12) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-3. 🔴 Requested 1 change(s) for [#12](https://github.com/maximL5/WebDevProject/pull/12#pullrequestreview-2752014085) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-4. ⬆️ Pushed 2 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-5. 🎉 Merged PR [#11](https://github.com/maximL5/WebDevProject/pull/11) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+1. ❌ Closed PR [#13](https://github.com/maximL5/WebDevProject/pull/13) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+2. 💪 Opened PR [#14](https://github.com/maximL5/WebDevProject/pull/14) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+3. ⬆️ Pushed 2 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+4. 🎉 Merged PR [#12](https://github.com/maximL5/WebDevProject/pull/12) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+5. 🔴 Requested 1 change(s) for [#12](https://github.com/maximL5/WebDevProject/pull/12#pullrequestreview-2752014085) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
