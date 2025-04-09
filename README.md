@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 30 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
+2. ⬆️ Pushed 30 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. ✔️ Closed issue [#15](https://github.com/victoriacheng15/the-gopher-learning/issues/15) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. 🎉 Merged PR [#27](https://github.com/victoriacheng15/the-gopher-learning/pull/27) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+5. ✔️ Closed issue [#15](https://github.com/victoriacheng15/the-gopher-learning/issues/15) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
