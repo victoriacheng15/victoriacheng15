@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/maximL5/WebDevProject/pull/2) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#130](https://github.com/victoriacheng15/mehub/pull/130) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#130](https://github.com/victoriacheng15/mehub/pull/130) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ✔️ Closed issue [#14](https://github.com/victoriacheng15/the-gopher-learning/issues/14) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+3. ✔️ Closed issue [#15](https://github.com/victoriacheng15/the-gopher-learning/issues/15) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+4. 🎉 Merged PR [#27](https://github.com/victoriacheng15/the-gopher-learning/pull/27) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
