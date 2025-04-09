@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-2. 🎉 Merged PR [#6](https://github.com/maximL5/WebDevProject/pull/6) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-3. ⬆️ Pushed 10 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
-4. 💪 Opened PR [#5](https://github.com/maximL5/WebDevProject/pull/5) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-5. ⬆️ Pushed 6 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
+2. 🎉 Merged PR [#12](https://github.com/maximL5/WebDevProject/pull/12) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+3. 🔴 Requested 1 change(s) for [#12](https://github.com/maximL5/WebDevProject/pull/12#pullrequestreview-2752014085) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+4. ⬆️ Pushed 2 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+5. 🎉 Merged PR [#11](https://github.com/maximL5/WebDevProject/pull/11) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
