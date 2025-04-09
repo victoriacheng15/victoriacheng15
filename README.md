@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](https://github.com/maximL5/WebDevProject/pull/5) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-2. ⬆️ Pushed 6 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
-3. 💪 Opened PR [#4](https://github.com/maximL5/WebDevProject/pull/4) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
-4. ⬆️ Pushed 12 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
+1. ⬆️ Pushed 2 commit(s) to [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+2. 🎉 Merged PR [#6](https://github.com/maximL5/WebDevProject/pull/6) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+3. ⬆️ Pushed 10 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
+4. 💪 Opened PR [#5](https://github.com/maximL5/WebDevProject/pull/5) in [maximL5/WebDevProject](https://github.com/maximL5/WebDevProject)
+5. ⬆️ Pushed 6 commit(s) to [victoriacheng15/WebDevProject](https://github.com/victoriacheng15/WebDevProject)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
