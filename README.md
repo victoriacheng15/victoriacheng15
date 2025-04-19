@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-2. ✔️ Closed issue [#57](https://github.com/victoriacheng15/cprg303-expense-tracker/issues/57) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-3. 🎉 Merged PR [#58](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/58) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-4. 💪 Opened PR [#58](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/58) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-5. ❗️ Opened issue [#57](https://github.com/victoriacheng15/cprg303-expense-tracker/issues/57) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+1. ⬆️ Pushed 837 commit(s) to [victoriacheng15/github-readme-stats](https://github.com/victoriacheng15/github-readme-stats)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+3. ✔️ Closed issue [#57](https://github.com/victoriacheng15/cprg303-expense-tracker/issues/57) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+4. 🎉 Merged PR [#58](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/58) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+5. 💪 Opened PR [#58](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/58) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
