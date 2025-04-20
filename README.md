@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 837 commit(s) to [victoriacheng15/github-readme-stats](https://github.com/victoriacheng15/github-readme-stats)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-3. ✔️ Closed issue [#57](https://github.com/victoriacheng15/cprg303-expense-tracker/issues/57) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-4. 🎉 Merged PR [#58](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/58) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
-5. 💪 Opened PR [#58](https://github.com/victoriacheng15/cprg303-expense-tracker/pull/58) in [victoriacheng15/cprg303-expense-tracker](https://github.com/victoriacheng15/cprg303-expense-tracker)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#182](https://github.com/victoriacheng15/hacker-news-next/pull/182) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 🎉 Merged PR [#65](https://github.com/victoriacheng15/articles-extractor/pull/65) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 💪 Opened PR [#65](https://github.com/victoriacheng15/articles-extractor/pull/65) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
