@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7](https://github.com/victoriacheng15/school-flask-api/pull/7) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. 🎉 Merged PR [#6](https://github.com/victoriacheng15/school-flask-api/pull/6) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. ⬆️ Pushed 2 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. 💬 Commented on [#6](https://github.com/victoriacheng15/school-flask-api/pull/6#discussion_r2051799999) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+2. ✔️ Closed issue [#34](https://github.com/victoriacheng15/the-gopher-learning/issues/34) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+3. 🎉 Merged PR [#44](https://github.com/victoriacheng15/the-gopher-learning/pull/44) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+4. 💪 Opened PR [#44](https://github.com/victoriacheng15/the-gopher-learning/pull/44) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+5. 🎉 Merged PR [#7](https://github.com/victoriacheng15/school-flask-api/pull/7) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
