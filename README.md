@@ -38,11 +38,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Exploring ssh - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-ssh-linux-commands)
- - 🌮 [Learning SQL: Subqueries](https://victoriacheng15.vercel.app/blog/learning-sql-subqueries)
+ - 💯 [Learning SQL: UNION and UNION ALL](https://victoriacheng15.vercel.app/blog/learning-sql-union-and-union-all)
+ - 🌮 [Exploring ssh - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-ssh-linux-commands)
+ - 💫 [Learning SQL: Subqueries](https://victoriacheng15.vercel.app/blog/learning-sql-subqueries)
  - 💫 [SSL and TLS Explained for Secure Communication](https://victoriacheng15.vercel.app/blog/ssl-and-tls-explained-for-secure-communication)
- - 💫 [March Reflection 2025](https://victoriacheng15.vercel.app/blog/march-reflection-2025)
- - 🌮 [Exploring ping - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-ping-linux-commands)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [March Reflection 2025](https://victoriacheng15.vercel.app/blog/march-reflection-2025)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
