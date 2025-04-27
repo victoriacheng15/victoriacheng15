@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#147](https://github.com/victoriacheng15/mehub/pull/147) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#147](https://github.com/victoriacheng15/mehub/pull/147) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 👍 Approved [#56](https://github.com/codetocloudinc/platform-engineering/pull/56#pullrequestreview-2795337880) in [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. 💬 Commented on [#10](https://github.com/codetocloudinc/platform-engineering/issues/10#issuecomment-2832547011) in [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 🎉 Merged PR [#147](https://github.com/victoriacheng15/mehub/pull/147) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#147](https://github.com/victoriacheng15/mehub/pull/147) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 👍 Approved [#56](https://github.com/codetocloudinc/platform-engineering/pull/56#pullrequestreview-2795337880) in [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
