@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](https://github.com/victoriacheng15/school-flask-api/pull/17) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 🎉 Merged PR [#16](https://github.com/victoriacheng15/school-flask-api/pull/16) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. 💬 Commented on [#16](https://github.com/victoriacheng15/school-flask-api/pull/16#issuecomment-2832786839) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#67](https://github.com/victoriacheng15/articles-extractor/pull/67) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 💪 Opened PR [#67](https://github.com/victoriacheng15/articles-extractor/pull/67) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 🎉 Merged PR [#66](https://github.com/victoriacheng15/articles-extractor/pull/66) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
