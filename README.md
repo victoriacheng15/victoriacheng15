@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#149](https://github.com/victoriacheng15/mehub/pull/149) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#149](https://github.com/victoriacheng15/mehub/pull/149) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#148](https://github.com/victoriacheng15/mehub/pull/148) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💬 Commented on [#65](https://github.com/codetocloudinc/platform-engineering/pull/65#discussion_r2062788887) in [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering)
+4. 💪 Opened PR [#149](https://github.com/victoriacheng15/mehub/pull/149) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 2 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
