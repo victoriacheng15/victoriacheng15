@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#48](https://github.com/victoriacheng15/the-gopher-learning/issues/48) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-3. ✔️ Closed issue [#37](https://github.com/victoriacheng15/the-gopher-learning/issues/37) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. 🎉 Merged PR [#47](https://github.com/victoriacheng15/the-gopher-learning/pull/47) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. 💪 Opened PR [#47](https://github.com/victoriacheng15/the-gopher-learning/pull/47) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#72](https://github.com/victoriacheng15/articles-extractor/pull/72) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 💬 Commented on [#72](https://github.com/victoriacheng15/articles-extractor/pull/72#discussion_r2072488172) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 💪 Opened PR [#72](https://github.com/victoriacheng15/articles-extractor/pull/72) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
