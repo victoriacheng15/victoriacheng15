@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#161](https://github.com/victoriacheng15/mehub/pull/161) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#161](https://github.com/victoriacheng15/mehub/pull/161) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🔱 Forked [victoriacheng15/learning-jenkins-3003221](https://github.com/victoriacheng15/learning-jenkins-3003221) from [LinkedInLearning/learning-jenkins-3003221](https://github.com/LinkedInLearning/learning-jenkins-3003221)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/rails-todo/pull/1) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+4. 📔 Created new repository [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
