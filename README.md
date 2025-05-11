@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-3. 💪 Opened PR [#1](https://github.com/victoriacheng15/rails-todo/pull/1) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-4. 📔 Created new repository [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/rails-todo/pull/1) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+4. 💬 Commented on [#1](https://github.com/victoriacheng15/rails-todo/pull/1#issuecomment-2870052710) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+5. 💬 Commented on [#1](https://github.com/victoriacheng15/rails-todo/pull/1#issuecomment-2870052102) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
