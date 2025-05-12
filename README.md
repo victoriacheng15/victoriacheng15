@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
+1. ❌ Closed PR [#164](https://github.com/victoriacheng15/mehub/pull/164) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#162](https://github.com/victoriacheng15/mehub/pull/162) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#162](https://github.com/victoriacheng15/mehub/pull/162) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+3. 🎉 Merged PR [#166](https://github.com/victoriacheng15/mehub/pull/166) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💬 Commented on [#166](https://github.com/victoriacheng15/mehub/pull/166#issuecomment-2872351019) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 💪 Opened PR [#166](https://github.com/victoriacheng15/mehub/pull/166) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
