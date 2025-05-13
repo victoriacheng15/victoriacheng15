@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#169](https://github.com/victoriacheng15/mehub/pull/169) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#168](https://github.com/victoriacheng15/mehub/pull/168) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⭐ Starred [LinkedInLearning/learning-jenkins-3003221](https://github.com/LinkedInLearning/learning-jenkins-3003221)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#170](https://github.com/victoriacheng15/mehub/pull/170) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💬 Commented on [#170](https://github.com/victoriacheng15/mehub/pull/170#issuecomment-2876018261) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#170](https://github.com/victoriacheng15/mehub/pull/170) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
