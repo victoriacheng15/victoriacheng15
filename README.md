@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#165](https://github.com/victoriacheng15/mehub/pull/165) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#167](https://github.com/victoriacheng15/mehub/pull/167) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💬 Commented on [#167](https://github.com/victoriacheng15/mehub/pull/167#issuecomment-2874372034) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⭐ Starred [LinkedInLearning/learning-jenkins-3003221](https://github.com/LinkedInLearning/learning-jenkins-3003221)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 🎉 Merged PR [#165](https://github.com/victoriacheng15/mehub/pull/165) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#167](https://github.com/victoriacheng15/mehub/pull/167) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
