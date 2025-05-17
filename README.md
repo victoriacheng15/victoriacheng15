@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-3. 🎉 Merged PR [#5](https://github.com/victoriacheng15/rails-todo/pull/5) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-4. ✔️ Closed issue [#40](https://github.com/victoriacheng15/the-gopher-learning/issues/40) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+1. ⭐ Starred [LinkedInLearning/essential-jenkins-2468076](https://github.com/LinkedInLearning/essential-jenkins-2468076)
+2. ⬆️ Pushed 6 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+4. 🎉 Merged PR [#5](https://github.com/victoriacheng15/rails-todo/pull/5) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+5. ✔️ Closed issue [#40](https://github.com/victoriacheng15/the-gopher-learning/issues/40) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
