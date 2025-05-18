@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/rails-todo/pull/6) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-3. ⭐ Starred [LinkedInLearning/essential-jenkins-2468076](https://github.com/LinkedInLearning/essential-jenkins-2468076)
-4. ⬆️ Pushed 6 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+3. 📔 Created new repository [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+4. 👍 Approved [#69](https://github.com/codetocloudorg/platform-engineering/pull/69#pullrequestreview-2848341446) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+5. 💬 Commented on [#69](https://github.com/codetocloudorg/platform-engineering/pull/69#issuecomment-2888474472) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
