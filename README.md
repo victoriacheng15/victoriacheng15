@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3](https://github.com/victoriacheng15/ruby-cli-learning/issues/3) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-3. 🎉 Merged PR [#4](https://github.com/victoriacheng15/ruby-cli-learning/pull/4) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-4. 💪 Opened PR [#4](https://github.com/victoriacheng15/ruby-cli-learning/pull/4) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+1. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891249031) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891248380) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891247300) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891246274) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
