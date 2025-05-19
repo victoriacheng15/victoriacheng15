@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891249031) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891248380) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891247300) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💬 Commented on [#174](https://github.com/victoriacheng15/mehub/pull/174#issuecomment-2891246274) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#175](https://github.com/victoriacheng15/mehub/pull/175) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💬 Commented on [#175](https://github.com/victoriacheng15/mehub/pull/175#issuecomment-2891327573) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#176](https://github.com/victoriacheng15/mehub/pull/176) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
