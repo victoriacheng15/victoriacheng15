@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#179](https://github.com/victoriacheng15/mehub/pull/179) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-5. 🎉 Merged PR [#6](https://github.com/victoriacheng15/ruby-cli-learning/pull/6) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+2. 🎉 Merged PR [#7](https://github.com/victoriacheng15/rails-todo/pull/7) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+4. 💪 Opened PR [#7](https://github.com/victoriacheng15/rails-todo/pull/7) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
