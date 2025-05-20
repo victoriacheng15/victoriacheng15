@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iam-veeramalla/ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#175](https://github.com/victoriacheng15/mehub/pull/175) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💬 Commented on [#175](https://github.com/victoriacheng15/mehub/pull/175#issuecomment-2891327573) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🎉 Merged PR [#176](https://github.com/victoriacheng15/mehub/pull/176) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. 💪 Opened PR [#5](https://github.com/victoriacheng15/ruby-cli-learning/pull/5) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+2. ⭐ Starred [iam-veeramalla/ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#175](https://github.com/victoriacheng15/mehub/pull/175) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 💬 Commented on [#175](https://github.com/victoriacheng15/mehub/pull/175#issuecomment-2891327573) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
