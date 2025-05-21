@@ -38,11 +38,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Learning SQL: PRIMARY VS FOREGIN KEYS](https://victoriacheng15.vercel.app/blog/learning-sql-primary-vs-foregin-keys)
- - 🌮 [Exploring scp - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-scp-linux-commands)
+ - 💯 [Learning SQL: Constraints – Ensuring Data Integrity](https://victoriacheng15.vercel.app/blog/learning-sql-constraints-ensuring-data-integrity)
+ - 🌮 [Learning SQL: PRIMARY VS FOREGIN KEYS](https://victoriacheng15.vercel.app/blog/learning-sql-primary-vs-foregin-keys)
+ - 💫 [Exploring scp - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-scp-linux-commands)
  - 💫 [April Reflection 2025](https://victoriacheng15.vercel.app/blog/april-reflection-2025)
- - 💫 [Learning SQL: UNION and UNION ALL](https://victoriacheng15.vercel.app/blog/learning-sql-union-and-union-all)
- - 🌮 [Exploring ssh - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-ssh-linux-commands)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Learning SQL: UNION and UNION ALL](https://victoriacheng15.vercel.app/blog/learning-sql-union-and-union-all)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
