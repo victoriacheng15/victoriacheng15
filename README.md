@@ -54,9 +54,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-3. 🎉 Merged PR [#8](https://github.com/victoriacheng15/ruby-cli-learning/pull/8) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-4. 💪 Opened PR [#8](https://github.com/victoriacheng15/ruby-cli-learning/pull/8) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-5. ⬆️ Pushed 3 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
