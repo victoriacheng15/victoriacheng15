@@ -52,7 +52,7 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+1. 💪 Opened PR [#180](https://github.com/victoriacheng15/mehub/pull/180) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
