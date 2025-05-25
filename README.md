@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#52](https://github.com/victoriacheng15/the-gopher-learning/issues/52) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-3. ✔️ Closed issue [#48](https://github.com/victoriacheng15/the-gopher-learning/issues/48) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. 🎉 Merged PR [#51](https://github.com/victoriacheng15/the-gopher-learning/pull/51) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. 💪 Opened PR [#51](https://github.com/victoriacheng15/the-gopher-learning/pull/51) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+3. 💪 Opened PR [#10](https://github.com/victoriacheng15/ruby-cli-learning/pull/10) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+4. ❗️ Opened issue [#52](https://github.com/victoriacheng15/the-gopher-learning/issues/52) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
