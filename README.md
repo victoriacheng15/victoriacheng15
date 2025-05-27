@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#181](https://github.com/victoriacheng15/mehub/pull/181) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+2. 🎉 Merged PR [#8](https://github.com/victoriacheng15/rails-todo/pull/8) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#180](https://github.com/victoriacheng15/mehub/pull/180) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💪 Opened PR [#180](https://github.com/victoriacheng15/mehub/pull/180) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#181](https://github.com/victoriacheng15/mehub/pull/181) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
