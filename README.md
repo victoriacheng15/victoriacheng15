@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#182](https://github.com/victoriacheng15/mehub/pull/182#issuecomment-2930092778) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 💬 Commented on [#182](https://github.com/victoriacheng15/mehub/pull/182#issuecomment-2930090082) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💬 Commented on [#182](https://github.com/victoriacheng15/mehub/pull/182#issuecomment-2930089364) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#185](https://github.com/victoriacheng15/mehub/pull/185) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#182](https://github.com/victoriacheng15/mehub/pull/182) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ❌ Closed PR [#182](https://github.com/victoriacheng15/mehub/pull/182) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
