@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 🎉 Merged PR [#194](https://github.com/victoriacheng15/hacker-news-next/pull/194) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-4. 🎉 Merged PR [#11](https://github.com/victoriacheng15/ruby-cli-learning/pull/11) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+1. 💬 Commented on [#182](https://github.com/victoriacheng15/mehub/pull/182#issuecomment-2930092778) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 💬 Commented on [#182](https://github.com/victoriacheng15/mehub/pull/182#issuecomment-2930090082) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💬 Commented on [#182](https://github.com/victoriacheng15/mehub/pull/182#issuecomment-2930089364) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
