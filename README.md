@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 39 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-3. 🎉 Merged PR [#9](https://github.com/victoriacheng15/rails-todo/pull/9) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🎉 Merged PR [#190](https://github.com/victoriacheng15/mehub/pull/190) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/ruby-cli-learning/pull/12) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+4. 💪 Opened PR [#12](https://github.com/victoriacheng15/ruby-cli-learning/pull/12) in [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+5. ⬆️ Pushed 39 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
