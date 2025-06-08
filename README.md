@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#203](https://github.com/victoriacheng15/mehub/pull/203) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#203](https://github.com/victoriacheng15/mehub/pull/203) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⭐ Starred [cli/cli](https://github.com/cli/cli)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-cli-learning](https://github.com/victoriacheng15/ruby-cli-learning)
+1. ⭐ Starred [czhu12/canine](https://github.com/czhu12/canine)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 🎉 Merged PR [#203](https://github.com/victoriacheng15/mehub/pull/203) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#203](https://github.com/victoriacheng15/mehub/pull/203) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⭐ Starred [cli/cli](https://github.com/cli/cli)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
