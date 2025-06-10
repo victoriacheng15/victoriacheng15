@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#18](https://github.com/victoriacheng15/ruby-learning/issues/18) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-2. ❗️ Opened issue [#17](https://github.com/victoriacheng15/ruby-learning/issues/17) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-3. ❗️ Opened issue [#16](https://github.com/victoriacheng15/ruby-learning/issues/16) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-4. ⭐ Starred [czhu12/canine](https://github.com/czhu12/canine)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+2. 🎉 Merged PR [#10](https://github.com/victoriacheng15/rails-todo/pull/10) in [victoriacheng15/rails-todo](https://github.com/victoriacheng15/rails-todo)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#244](https://github.com/victoriacheng15/mehub/pull/244) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
