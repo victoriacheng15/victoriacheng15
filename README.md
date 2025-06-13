@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15-hub/.github](https://github.com/victoriacheng15-hub/.github)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15-hub/.github](https://github.com/victoriacheng15-hub/.github)
-3. 📔 Created new repository [victoriacheng15-hub/.github](https://github.com/victoriacheng15-hub/.github)
-4. 👍 Approved [#90](https://github.com/codetocloudorg/platform-engineering/pull/90#pullrequestreview-2922837136) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
-5. 💪 Opened PR [#21](https://github.com/victoriacheng15/ruby-learning/pull/21) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+1. ❌ Closed PR [#199](https://github.com/victoriacheng15hub/hacker-news-next/pull/199) in [victoriacheng15hub/hacker-news-next](https://github.com/victoriacheng15hub/hacker-news-next)
+2. ❌ Closed PR [#198](https://github.com/victoriacheng15hub/hacker-news-next/pull/198) in [victoriacheng15hub/hacker-news-next](https://github.com/victoriacheng15hub/hacker-news-next)
+3. ❌ Closed PR [#197](https://github.com/victoriacheng15hub/hacker-news-next/pull/197) in [victoriacheng15hub/hacker-news-next](https://github.com/victoriacheng15hub/hacker-news-next)
+4. ❌ Closed PR [#196](https://github.com/victoriacheng15hub/hacker-news-next/pull/196) in [victoriacheng15hub/hacker-news-next](https://github.com/victoriacheng15hub/hacker-news-next)
+5. ❌ Closed PR [#195](https://github.com/victoriacheng15hub/hacker-news-next/pull/195) in [victoriacheng15hub/hacker-news-next](https://github.com/victoriacheng15hub/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
