@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-2. ✔️ Closed issue [#18](https://github.com/victoriacheng15/ruby-learning/issues/18) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-3. 🎉 Merged PR [#19](https://github.com/victoriacheng15/ruby-learning/pull/19) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-4. ❗️ Opened issue [#20](https://github.com/victoriacheng15/ruby-learning/issues/20) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15-hub/.github](https://github.com/victoriacheng15-hub/.github)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15-hub/.github](https://github.com/victoriacheng15-hub/.github)
+3. 📔 Created new repository [victoriacheng15-hub/.github](https://github.com/victoriacheng15-hub/.github)
+4. 👍 Approved [#90](https://github.com/codetocloudorg/platform-engineering/pull/90#pullrequestreview-2922837136) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+5. 💪 Opened PR [#21](https://github.com/victoriacheng15/ruby-learning/pull/21) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
