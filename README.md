@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-2. ✔️ Closed issue [#20](https://github.com/victoriacheng15/ruby-learning/issues/20) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-3. 🎉 Merged PR [#21](https://github.com/victoriacheng15/ruby-learning/pull/21) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+1. ❗️ Opened issue [#22](https://github.com/victoriacheng15/ruby-learning/issues/22) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+2. ⬆️ Pushed 47 commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+4. ✔️ Closed issue [#20](https://github.com/victoriacheng15/ruby-learning/issues/20) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+5. 🎉 Merged PR [#21](https://github.com/victoriacheng15/ruby-learning/pull/21) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
