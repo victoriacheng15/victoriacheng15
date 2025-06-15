@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#pullrequestreview-2928886731) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
-2. 👍 Approved [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#pullrequestreview-2928886726) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
-3. 💬 Commented on [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#discussion_r2147030156) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
-4. 💬 Commented on [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#discussion_r2147029864) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
-5. ⬆️ Pushed 53 commit(s) to [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+1. ⭐ Starred [rootusercop/Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1)
+2. 👍 Approved [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#pullrequestreview-2928886731) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+3. 👍 Approved [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#pullrequestreview-2928886726) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+4. 💬 Commented on [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#discussion_r2147030156) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+5. 💬 Commented on [#93](https://github.com/codetocloudorg/platform-engineering/pull/93#discussion_r2147029864) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
