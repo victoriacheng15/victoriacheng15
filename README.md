@@ -53,9 +53,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#269](https://github.com/victoriacheng15/mehub/pull/269) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#269](https://github.com/victoriacheng15/mehub/pull/269) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⭐ Starred [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool)
+2. 🎉 Merged PR [#270](https://github.com/victoriacheng15/mehub/pull/270) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#270](https://github.com/victoriacheng15/mehub/pull/270) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
