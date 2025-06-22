@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
-2. ⭐ Starred [fendouai/PyTorchDocs](https://github.com/fendouai/PyTorchDocs)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💪 Opened PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. 💪 Opened PR [#23](https://github.com/victoriacheng15/ruby-learning/pull/23) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+3. ⭐ Starred [fendouai/PyTorchDocs](https://github.com/fendouai/PyTorchDocs)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
