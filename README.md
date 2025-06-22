@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fendouai/PyTorchDocs](https://github.com/fendouai/PyTorchDocs)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed 30 commit(s) to [victoriacheng15/data-engineer-handbook](https://github.com/victoriacheng15/data-engineer-handbook)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+2. ⭐ Starred [fendouai/PyTorchDocs](https://github.com/fendouai/PyTorchDocs)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 💪 Opened PR [#271](https://github.com/victoriacheng15/mehub/pull/271) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
