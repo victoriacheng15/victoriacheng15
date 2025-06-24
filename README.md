@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. ✔️ Closed issue [#194](https://github.com/victoriacheng15/mehub/issues/194) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 🎉 Merged PR [#273](https://github.com/victoriacheng15/mehub/pull/273) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💬 Commented on [#273](https://github.com/victoriacheng15/mehub/pull/273#discussion_r2160444583) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⭐ Starred [EbodShojaei/bake](https://github.com/EbodShojaei/bake)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ✔️ Closed issue [#194](https://github.com/victoriacheng15/mehub/issues/194) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#273](https://github.com/victoriacheng15/mehub/pull/273) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
