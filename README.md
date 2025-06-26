@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EbodShojaei/bake](https://github.com/EbodShojaei/bake)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ✔️ Closed issue [#194](https://github.com/victoriacheng15/mehub/issues/194) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#273](https://github.com/victoriacheng15/mehub/pull/273) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+4. ⭐ Starred [EbodShojaei/bake](https://github.com/EbodShojaei/bake)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
