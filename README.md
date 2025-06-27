@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. ❗️ Opened issue [#282](https://github.com/victoriacheng15/mehub/issues/282) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+1. ⭐ Starred [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. ❗️ Opened issue [#282](https://github.com/victoriacheng15/mehub/issues/282) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
