@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
-4. ⭐ Starred [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-5. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. 🎉 Merged PR [#20](https://github.com/victoriacheng15/school-flask-api/pull/20) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. ⬆️ Pushed 2 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. 💪 Opened PR [#20](https://github.com/victoriacheng15/school-flask-api/pull/20) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
