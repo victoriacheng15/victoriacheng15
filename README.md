@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#289](https://github.com/victoriacheng15/mehub/pull/289) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. ⭐ Starred [octelium/octelium](https://github.com/octelium/octelium)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-5. ✔️ Closed issue [#52](https://github.com/victoriacheng15/the-gopher-learning/issues/52) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 🎉 Merged PR [#295](https://github.com/victoriacheng15/mehub/pull/295) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#295](https://github.com/victoriacheng15/mehub/pull/295) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ❌ Closed PR [#289](https://github.com/victoriacheng15/mehub/pull/289) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⭐ Starred [octelium/octelium](https://github.com/octelium/octelium)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
