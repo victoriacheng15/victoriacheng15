@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#295](https://github.com/victoriacheng15/mehub/pull/295) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#295](https://github.com/victoriacheng15/mehub/pull/295) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ❌ Closed PR [#289](https://github.com/victoriacheng15/mehub/pull/289) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⭐ Starred [octelium/octelium](https://github.com/octelium/octelium)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#204](https://github.com/victoriacheng15/hacker-news-next/pull/204) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. 🎉 Merged PR [#203](https://github.com/victoriacheng15/hacker-news-next/pull/203) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
