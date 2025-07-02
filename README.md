@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. 🎉 Merged PR [#208](https://github.com/victoriacheng15/hacker-news-next/pull/208) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. 🎉 Merged PR [#210](https://github.com/victoriacheng15/hacker-news-next/pull/210) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ✔️ Closed issue [#22](https://github.com/victoriacheng15/ruby-learning/issues/22) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+3. 🎉 Merged PR [#23](https://github.com/victoriacheng15/ruby-learning/pull/23) in [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/ruby-learning](https://github.com/victoriacheng15/ruby-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
