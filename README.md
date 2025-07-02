@@ -38,11 +38,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [June Reflection 2025](https://victoriacheng15.vercel.app/blog/june-reflection-2025)
- - 🌮 [Automate Cleanup With Python Contexts](https://victoriacheng15.vercel.app/blog/automate-cleanup-with-python-contexts)
+ - 💯 [Python Orderability Dunder Methods Revealed](https://victoriacheng15.vercel.app/blog/python-orderability-dunder-methods-revealed)
+ - 🌮 [June Reflection 2025](https://victoriacheng15.vercel.app/blog/june-reflection-2025)
+ - 💫 [Automate Cleanup With Python Contexts](https://victoriacheng15.vercel.app/blog/automate-cleanup-with-python-contexts)
  - 💫 [Python Secret Double Underscore Tricks](https://victoriacheng15.vercel.app/blog/python-secret-double-underscore-tricks)
- - 💫 [Exploring wget - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-wget-linux-commands)
- - 🌮 [May Reflection 2025](https://victoriacheng15.vercel.app/blog/may-reflection-2025)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Exploring wget - Linux Commands](https://victoriacheng15.vercel.app/blog/exploring-wget-linux-commands)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
