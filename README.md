@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#301](https://github.com/victoriacheng15/mehub/pull/301) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. 🔱 Forked [victoriacheng15/hexo](https://github.com/victoriacheng15/hexo) from [hexojs/hexo](https://github.com/hexojs/hexo)
+2. ⭐ Starred [hexojs/hexo](https://github.com/hexojs/hexo)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💬 Commented on [#301](https://github.com/victoriacheng15/mehub/pull/301#discussion_r2187445512) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#301](https://github.com/victoriacheng15/mehub/pull/301) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
