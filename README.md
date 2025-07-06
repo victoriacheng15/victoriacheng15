@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#54](https://github.com/victoriacheng15/the-gopher-learning/issues/54) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
-2. 🔱 Forked [victoriacheng15/hexo](https://github.com/victoriacheng15/hexo) from [hexojs/hexo](https://github.com/hexojs/hexo)
-3. ⭐ Starred [hexojs/hexo](https://github.com/hexojs/hexo)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🎉 Merged PR [#301](https://github.com/victoriacheng15/mehub/pull/301) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. 🎉 Merged PR [#27](https://github.com/victoriacheng15/school-flask-api/pull/27) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. 💪 Opened PR [#27](https://github.com/victoriacheng15/school-flask-api/pull/27) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. ❗️ Opened issue [#54](https://github.com/victoriacheng15/the-gopher-learning/issues/54) in [victoriacheng15/the-gopher-learning](https://github.com/victoriacheng15/the-gopher-learning)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
