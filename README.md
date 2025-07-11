@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. 💪 Opened PR [#33](https://github.com/victoriacheng15/school-flask-api/pull/33) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. 📔 Created new repository [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+2. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cs-video-courses](https://github.com/victoriacheng15/cs-video-courses)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 🎉 Merged PR [#32](https://github.com/victoriacheng15/school-flask-api/pull/32) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. 💪 Opened PR [#33](https://github.com/victoriacheng15/school-flask-api/pull/33) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
