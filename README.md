@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#513](https://github.com/CodingChallengesFYI/SharedSolutions/pull/513) in [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-3. ⬆️ Pushed 78 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-4. 📔 Created new repository [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-5. ⬆️ Pushed 2 commit(s) to [victoriacheng15/cs-video-courses](https://github.com/victoriacheng15/cs-video-courses)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+2. 🎉 Merged PR [#3](https://github.com/victoriacheng15/dev-language-practice/pull/3) in [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+4. 💪 Opened PR [#3](https://github.com/victoriacheng15/dev-language-practice/pull/3) in [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+5. 💪 Opened PR [#513](https://github.com/CodingChallengesFYI/SharedSolutions/pull/513) in [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
