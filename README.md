@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CannyChiu/TechnicalTalentPartnerHub](https://github.com/CannyChiu/TechnicalTalentPartnerHub)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. 🎉 Merged PR [#36](https://github.com/victoriacheng15/school-flask-api/pull/36) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+2. 🎉 Merged PR [#1](https://github.com/victoriacheng15/coding-challenges-lab/pull/1) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+3. 💪 Opened PR [#1](https://github.com/victoriacheng15/coding-challenges-lab/pull/1) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+5. 🎉 Merged PR [#4](https://github.com/victoriacheng15/dev-language-practice/pull/4) in [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
