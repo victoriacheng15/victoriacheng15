@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. 🎉 Merged PR [#36](https://github.com/victoriacheng15/school-flask-api/pull/36) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⭐ Starred [CannyChiu/TechnicalTalentPartnerHub](https://github.com/CannyChiu/TechnicalTalentPartnerHub)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. 🎉 Merged PR [#36](https://github.com/victoriacheng15/school-flask-api/pull/36) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. 🔱 Forked [victoriacheng15/complete-guide-to-ruby-5911065](https://github.com/victoriacheng15/complete-guide-to-ruby-5911065) from [LinkedInLearning/complete-guide-to-ruby-5911065](https://github.com/LinkedInLearning/complete-guide-to-ruby-5911065)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
