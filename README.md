@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. 🎉 Merged PR [#39](https://github.com/victoriacheng15/school-flask-api/pull/39) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 💪 Opened PR [#39](https://github.com/victoriacheng15/school-flask-api/pull/39) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. 🎉 Merged PR [#40](https://github.com/victoriacheng15/school-flask-api/pull/40) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. 💪 Opened PR [#40](https://github.com/victoriacheng15/school-flask-api/pull/40) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. 🎉 Merged PR [#39](https://github.com/victoriacheng15/school-flask-api/pull/39) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
