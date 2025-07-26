@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#49](https://github.com/victoriacheng15/school-flask-api/pull/49) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. 🎉 Merged PR [#48](https://github.com/victoriacheng15/school-flask-api/pull/48) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 💬 Commented on [#120](https://github.com/codetocloudorg/platform-engineering/pull/120#discussion_r2228328092) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
-5. 💪 Opened PR [#48](https://github.com/victoriacheng15/school-flask-api/pull/48) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. 💪 Opened PR [#50](https://github.com/victoriacheng15/school-flask-api/pull/50) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. 🎉 Merged PR [#49](https://github.com/victoriacheng15/school-flask-api/pull/49) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
