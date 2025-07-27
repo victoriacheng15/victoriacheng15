@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. 🎉 Merged PR [#54](https://github.com/victoriacheng15/school-flask-api/pull/54) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. 🎉 Merged PR [#55](https://github.com/victoriacheng15/school-flask-api/pull/55) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. 💪 Opened PR [#54](https://github.com/victoriacheng15/school-flask-api/pull/54) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. 💪 Opened PR [#55](https://github.com/victoriacheng15/school-flask-api/pull/55) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
