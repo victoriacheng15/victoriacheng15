@@ -52,10 +52,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. 🎉 Merged PR [#60](https://github.com/victoriacheng15/school-flask-api/pull/60) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. 💪 Opened PR [#61](https://github.com/victoriacheng15/school-flask-api/pull/61) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. 🎉 Merged PR [#60](https://github.com/victoriacheng15/school-flask-api/pull/60) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
