@@ -54,9 +54,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#328](https://github.com/victoriacheng15/mehub/pull/328) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 💪 Opened PR [#328](https://github.com/victoriacheng15/mehub/pull/328) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#328](https://github.com/victoriacheng15/mehub/pull/328) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
