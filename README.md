@@ -54,9 +54,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-3. 💬 Commented on [#2](https://github.com/victoriacheng15/coding-challenges-lab/pull/2#issuecomment-3151472156) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+4. 💬 Commented on [#2](https://github.com/victoriacheng15/coding-challenges-lab/pull/2#issuecomment-3151472156) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
