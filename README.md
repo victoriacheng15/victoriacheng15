@@ -38,11 +38,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [July Reflection 2025](https://victoriacheng15.vercel.app/blog/july-reflection-2025)
- - 🌮 [Python Dunder Methods: Arithmetic operators](https://victoriacheng15.vercel.app/blog/python-dunder-methods-arithmetic-operators)
+ - 💯 [From Pi to Cloud Automation](https://victoriacheng15.vercel.app/blog/from-pi-to-cloud-automation)
+ - 🌮 [July Reflection 2025](https://victoriacheng15.vercel.app/blog/july-reflection-2025)
+ - 💫 [Python Dunder Methods: Arithmetic operators](https://victoriacheng15.vercel.app/blog/python-dunder-methods-arithmetic-operators)
  - 💫 [Python Orderability Dunder Methods Revealed](https://victoriacheng15.vercel.app/blog/python-orderability-dunder-methods-revealed)
- - 💫 [June Reflection 2025](https://victoriacheng15.vercel.app/blog/june-reflection-2025)
- - 🌮 [Automate Cleanup With Python Contexts](https://victoriacheng15.vercel.app/blog/automate-cleanup-with-python-contexts)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [June Reflection 2025](https://victoriacheng15.vercel.app/blog/june-reflection-2025)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
