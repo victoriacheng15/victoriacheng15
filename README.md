@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#344](https://github.com/victoriacheng15/mehub/pull/344) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#344](https://github.com/victoriacheng15/mehub/pull/344) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🎉 Merged PR [#343](https://github.com/victoriacheng15/mehub/pull/343) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+2. 🎉 Merged PR [#5](https://github.com/victoriacheng15/dev-language-practice/pull/5) in [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
+5. 💪 Opened PR [#5](https://github.com/victoriacheng15/dev-language-practice/pull/5) in [victoriacheng15/dev-language-practice](https://github.com/victoriacheng15/dev-language-practice)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
