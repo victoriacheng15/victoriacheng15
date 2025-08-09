@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-2. 💪 Opened PR [#4](https://github.com/victoriacheng15/coding-challenges-lab/pull/4) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-4. 🎉 Merged PR [#3](https://github.com/victoriacheng15/coding-challenges-lab/pull/3) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-5. 💪 Opened PR [#3](https://github.com/victoriacheng15/coding-challenges-lab/pull/3) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+3. 💪 Opened PR [#4](https://github.com/victoriacheng15/coding-challenges-lab/pull/4) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+5. 🎉 Merged PR [#3](https://github.com/victoriacheng15/coding-challenges-lab/pull/3) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
