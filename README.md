@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. 🎉 Merged PR [#62](https://github.com/victoriacheng15/school-flask-api/pull/62) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. 💪 Opened PR [#2](https://github.com/victoriacheng15hub/platform-actions/pull/2) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. 🎉 Merged PR [#62](https://github.com/victoriacheng15/school-flask-api/pull/62) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
