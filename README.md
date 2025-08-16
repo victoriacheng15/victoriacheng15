@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-2. 🎉 Merged PR [#3](https://github.com/victoriacheng15hub/platform-actions/pull/3) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-3. 💪 Opened PR [#3](https://github.com/victoriacheng15hub/platform-actions/pull/3) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-5. 🎉 Merged PR [#2](https://github.com/victoriacheng15hub/platform-actions/pull/2) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+1. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+3. 🎉 Merged PR [#3](https://github.com/victoriacheng15hub/platform-actions/pull/3) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+4. 💪 Opened PR [#3](https://github.com/victoriacheng15hub/platform-actions/pull/3) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
