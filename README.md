@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#352](https://github.com/victoriacheng15/mehub/pull/352) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#352](https://github.com/victoriacheng15/mehub/pull/352) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)
+1. 👍 Approved [#112](https://github.com/codetocloudorg/platform-engineering/pull/112#pullrequestreview-3126347978) in [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 🎉 Merged PR [#352](https://github.com/victoriacheng15/mehub/pull/352) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 💪 Opened PR [#352](https://github.com/victoriacheng15/mehub/pull/352) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
