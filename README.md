@@ -52,11 +52,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](https://github.com/victoriacheng15/profilehub/pull/11) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+1. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
 2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-3. 🎉 Merged PR [#10](https://github.com/victoriacheng15/profilehub/pull/10) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-4. 💪 Opened PR [#10](https://github.com/victoriacheng15/profilehub/pull/10) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+3. 🎉 Merged PR [#11](https://github.com/victoriacheng15/profilehub/pull/11) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+5. 💪 Opened PR [#11](https://github.com/victoriacheng15/profilehub/pull/11) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
