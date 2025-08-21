@@ -53,7 +53,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/profilehub/pull/12) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+2. 🎉 Merged PR [#13](https://github.com/victoriacheng15/profilehub/pull/13) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
