@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-2. 💪 Opened PR [#12](https://github.com/victoriacheng15/profilehub/pull/12) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-3. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
+2. 🎉 Merged PR [#12](https://github.com/victoriacheng15/profilehub/pull/12) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
-5. 🎉 Merged PR [#11](https://github.com/victoriacheng15/profilehub/pull/11) in [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
+5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/profilehub](https://github.com/victoriacheng15/profilehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
