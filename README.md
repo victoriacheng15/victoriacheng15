@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-2. 🎉 Merged PR [#6](https://github.com/victoriacheng15/coding-challenges-lab/pull/6) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#78](https://github.com/victoriacheng15/articles-extractor/pull/78) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 💪 Opened PR [#78](https://github.com/victoriacheng15/articles-extractor/pull/78) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 🎉 Merged PR [#77](https://github.com/victoriacheng15/articles-extractor/pull/77) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
