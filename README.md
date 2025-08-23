@@ -49,10 +49,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 🎉 Merged PR [#78](https://github.com/victoriacheng15/articles-extractor/pull/78) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 💪 Opened PR [#78](https://github.com/victoriacheng15/articles-extractor/pull/78) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+2. 🎉 Merged PR [#79](https://github.com/victoriacheng15/articles-extractor/pull/79) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. 💪 Opened PR [#79](https://github.com/victoriacheng15/articles-extractor/pull/79) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. 🎉 Merged PR [#77](https://github.com/victoriacheng15/articles-extractor/pull/77) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+5. 🎉 Merged PR [#78](https://github.com/victoriacheng15/articles-extractor/pull/78) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
