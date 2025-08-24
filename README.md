@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Dannny-Babs/Canadian-Tech-Internships-2025](https://github.com/Dannny-Babs/Canadian-Tech-Internships-2025)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. 🎉 Merged PR [#63](https://github.com/victoriacheng15/school-flask-api/pull/63) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 💪 Opened PR [#63](https://github.com/victoriacheng15/school-flask-api/pull/63) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. ⬆️ Pushed 10 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+1. ⭐ Starred [panphora/overtype](https://github.com/panphora/overtype)
+2. ⭐ Starred [Dannny-Babs/Canadian-Tech-Internships-2025](https://github.com/Dannny-Babs/Canadian-Tech-Internships-2025)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. 🎉 Merged PR [#63](https://github.com/victoriacheng15/school-flask-api/pull/63) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. 💪 Opened PR [#63](https://github.com/victoriacheng15/school-flask-api/pull/63) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
