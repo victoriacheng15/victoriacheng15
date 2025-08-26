@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#356](https://github.com/victoriacheng15/mehub/pull/356) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⭐ Starred [panphora/overtype](https://github.com/panphora/overtype)
-4. ⭐ Starred [Dannny-Babs/Canadian-Tech-Internships-2025](https://github.com/Dannny-Babs/Canadian-Tech-Internships-2025)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+2. 🎉 Merged PR [#9](https://github.com/victoriacheng15/coding-challenges-lab/pull/9) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+3. 💪 Opened PR [#9](https://github.com/victoriacheng15/coding-challenges-lab/pull/9) in [victoriacheng15/coding-challenges-lab](https://github.com/victoriacheng15/coding-challenges-lab)
+4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 🎉 Merged PR [#356](https://github.com/victoriacheng15/mehub/pull/356) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
