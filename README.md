@@ -34,11 +34,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Understanding Data Modeling](https://victoriacheng15.vercel.app/blog/understanding-data-modeling)
- - 🌮 [Understanding HTTP Methods and Status](https://victoriacheng15.vercel.app/blog/understanding-http-methods-and-status)
+ - 💯 [August Reflection 2025](https://victoriacheng15.vercel.app/blog/august-reflection-2025)
+ - 🌮 [Understanding Data Modeling](https://victoriacheng15.vercel.app/blog/understanding-data-modeling)
+ - 💫 [Understanding HTTP Methods and Status](https://victoriacheng15.vercel.app/blog/understanding-http-methods-and-status)
  - 💫 [From Pi to Cloud Automation](https://victoriacheng15.vercel.app/blog/from-pi-to-cloud-automation)
- - 💫 [July Reflection 2025](https://victoriacheng15.vercel.app/blog/july-reflection-2025)
- - 🌮 [Python Dunder Methods: Arithmetic operators](https://victoriacheng15.vercel.app/blog/python-dunder-methods-arithmetic-operators)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [July Reflection 2025](https://victoriacheng15.vercel.app/blog/july-reflection-2025)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
