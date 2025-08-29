@@ -48,10 +48,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. ❗️ Opened issue [#364](https://github.com/victoriacheng15/mehub/issues/364) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. 💬 Commented on [#364](https://github.com/victoriacheng15/mehub/issues/364#issuecomment-3234886993) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. ✔️ Closed issue [#364](https://github.com/victoriacheng15/mehub/issues/364) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 🎉 Merged PR [#362](https://github.com/victoriacheng15/mehub/pull/362) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#381](https://github.com/victoriacheng15/mehub/pull/381) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
