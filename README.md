@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-2. 🎉 Merged PR [#7](https://github.com/victoriacheng15hub/platform-actions/pull/7) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-3. 💪 Opened PR [#7](https://github.com/victoriacheng15hub/platform-actions/pull/7) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+1. ⭐ Starred [InternalDeveloperPlatform/Platform-Engineering-Community](https://github.com/InternalDeveloperPlatform/Platform-Engineering-Community)
+2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. 🎉 Merged PR [#219](https://github.com/victoriacheng15/hacker-news-next/pull/219) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 4. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-5. 🎉 Merged PR [#6](https://github.com/victoriacheng15hub/platform-actions/pull/6) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+5. 🎉 Merged PR [#7](https://github.com/victoriacheng15hub/platform-actions/pull/7) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
