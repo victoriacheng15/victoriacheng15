@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 🎉 Merged PR [#386](https://github.com/victoriacheng15/mehub/pull/386) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. 💪 Opened PR [#386](https://github.com/victoriacheng15/mehub/pull/386) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. 🎉 Merged PR [#385](https://github.com/victoriacheng15/mehub/pull/385) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed 1 commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. 🎉 Merged PR [#218](https://github.com/victoriacheng15/hacker-news-next/pull/218) in [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 🎉 Merged PR [#386](https://github.com/victoriacheng15/mehub/pull/386) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. 💪 Opened PR [#386](https://github.com/victoriacheng15/mehub/pull/386) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
