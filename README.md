@@ -34,11 +34,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Understanding APIs: REST vs GraphQL](https://victoriacheng15.vercel.app/blog/understanding-apis-rest-vs-graphql)
- - 🌮 [August Reflection 2025](https://victoriacheng15.vercel.app/blog/august-reflection-2025)
+ - 💯 [Astro Builds with Mermaid Diagrams](https://victoriacheng15.vercel.app/blog/astro-builds-with-mermaid-diagrams)
+ - 🌮 [Understanding APIs: REST vs GraphQL](https://victoriacheng15.vercel.app/blog/understanding-apis-rest-vs-graphql)
+ - 💫 [August Reflection 2025](https://victoriacheng15.vercel.app/blog/august-reflection-2025)
  - 💫 [Understanding Data Modeling](https://victoriacheng15.vercel.app/blog/understanding-data-modeling)
- - 💫 [Understanding HTTP Methods and Status](https://victoriacheng15.vercel.app/blog/understanding-http-methods-and-status)
- - 🌮 [From Pi to Cloud Automation](https://victoriacheng15.vercel.app/blog/from-pi-to-cloud-automation)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Understanding HTTP Methods and Status](https://victoriacheng15.vercel.app/blog/understanding-http-methods-and-status)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
