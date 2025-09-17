@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brandonleegit/homelabexplorers](https://github.com/brandonleegit/homelabexplorers)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. 🎉 Merged PR [#82](https://github.com/victoriacheng15/articles-extractor/pull/82) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-4. 💪 Opened PR [#82](https://github.com/victoriacheng15/articles-extractor/pull/82) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-5. ⬆️ Pushed 1 commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ❗️ Opened issue [#103](https://github.com/victoriacheng15/school-flask-api/issues/103) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. ❗️ Opened issue [#102](https://github.com/victoriacheng15/school-flask-api/issues/102) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. ❗️ Opened issue [#101](https://github.com/victoriacheng15/school-flask-api/issues/101) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. ❗️ Opened issue [#100](https://github.com/victoriacheng15/school-flask-api/issues/100) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. ⭐ Starred [brandonleegit/homelabexplorers](https://github.com/brandonleegit/homelabexplorers)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
