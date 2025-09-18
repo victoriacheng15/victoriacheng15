@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#109](https://github.com/victoriacheng15/school-flask-api/issues/109) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. ✔️ Closed issue [#108](https://github.com/victoriacheng15/school-flask-api/issues/108) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. ✔️ Closed issue [#107](https://github.com/victoriacheng15/school-flask-api/issues/107) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. ⬆️ Pushed 1 commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-5. ✔️ Closed issue [#106](https://github.com/victoriacheng15/school-flask-api/issues/106) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ✔️ Closed issue [#108](https://github.com/victoriacheng15/school-flask-api/issues/108) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. ✔️ Closed issue [#107](https://github.com/victoriacheng15/school-flask-api/issues/107) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+3. ✔️ Closed issue [#109](https://github.com/victoriacheng15/school-flask-api/issues/109) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. ✔️ Closed issue [#106](https://github.com/victoriacheng15/school-flask-api/issues/106) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
