@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#14](https://github.com/victoriacheng15hub/platform-actions/pull/14) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-2. ⬆️ Pushed 1 commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-3. 🎉 Merged PR [#13](https://github.com/victoriacheng15hub/platform-actions/pull/13) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-4. 💪 Opened PR [#13](https://github.com/victoriacheng15hub/platform-actions/pull/13) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-5. 🎉 Merged PR [#128](https://github.com/victoriacheng15/school-flask-api/pull/128) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. 💪 Opened PR [#14](undefined) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
