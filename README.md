@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [Jessie-Tang-Iu/assignment_2](https://github.com/Jessie-Tang-Iu/assignment_2)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
-3. 🔱 Forked [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2) from [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
-4. ⭐ Starred [Jessie-Tang-Iu/assignment_2](https://github.com/Jessie-Tang-Iu/assignment_2)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
+2. ⬆️ Pushed undefined commit(s) to [Jessie-Tang-Iu/assignment_2](https://github.com/Jessie-Tang-Iu/assignment_2)
+3. 💪 Opened PR [#2](undefined) in [Jessie-Tang-Iu/assignment_2](https://github.com/Jessie-Tang-Iu/assignment_2)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/SharedSolutions](https://github.com/victoriacheng15/SharedSolutions)
+5. 🔱 Forked [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2) from [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
