@@ -49,9 +49,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-2. 💪 Opened PR [#136](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. 💪 Opened PR [#140](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 💪 Opened PR [#135](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. 💪 Opened PR [#139](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
