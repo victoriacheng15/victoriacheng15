@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#131](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+1. 💪 Opened PR [#133](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-3. 💪 Opened PR [#130](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. ⭐ Starred [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+5. 💪 Opened PR [#132](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
