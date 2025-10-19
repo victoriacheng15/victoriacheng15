@@ -49,9 +49,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-2. 💪 Opened PR [#83](undefined) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
-4. 💪 Opened PR [#140](undefined) in [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
+2. 💪 Opened PR [#84](undefined) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+4. 💪 Opened PR [#83](undefined) in [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-flask-api](https://github.com/victoriacheng15/school-flask-api)
 <!--RECENT_ACTIVITY:end-->
 
