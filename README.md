@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#9](https://github.com/victoriacheng15/cover-craft/issues/9) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. ✔️ Closed issue [#5](https://github.com/victoriacheng15/cover-craft/issues/5) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-3. ✔️ Closed issue [#4](https://github.com/victoriacheng15/cover-craft/issues/4) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-4. ✔️ Closed issue [#3](https://github.com/victoriacheng15/cover-craft/issues/3) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/articles-extractor](https://github.com/victoriacheng15/articles-extractor)
+1. ❗️ Opened issue [#10](https://github.com/victoriacheng15/cover-craft/issues/10) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. ❗️ Opened issue [#9](https://github.com/victoriacheng15/cover-craft/issues/9) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. ✔️ Closed issue [#5](https://github.com/victoriacheng15/cover-craft/issues/5) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ✔️ Closed issue [#4](https://github.com/victoriacheng15/cover-craft/issues/4) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. ✔️ Closed issue [#3](https://github.com/victoriacheng15/cover-craft/issues/3) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
