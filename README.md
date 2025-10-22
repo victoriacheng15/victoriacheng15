@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
+2. ⭐ Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/assignment_2](https://github.com/victoriacheng15/assignment_2)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
-5. 💪 Opened PR [#11](undefined) in [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
