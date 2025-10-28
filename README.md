@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#458](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
-3. 💪 Opened PR [#143](undefined) in [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+3. 💪 Opened PR [#458](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. 💪 Opened PR [#143](undefined) in [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
