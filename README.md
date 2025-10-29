@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
-2. 💪 Opened PR [#30](undefined) in [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
-5. 💪 Opened PR [#29](undefined) in [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. 💪 Opened PR [#38](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ✔️ Closed issue [#32](https://github.com/victoriacheng15/cover-craft/issues/32) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
