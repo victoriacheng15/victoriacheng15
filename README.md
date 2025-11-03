@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+2. 👍 Approved [#1](https://github.com/victoriacheng15/home-server/pull/1#pullrequestreview-3409145875) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. 💪 Opened PR [#40](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/hacker-news-next](https://github.com/victoriacheng15/hacker-news-next)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
