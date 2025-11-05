@@ -48,10 +48,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-2. 💪 Opened PR [#6](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-4. 💪 Opened PR [#5](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+1. 💬 Commented on [#2](https://github.com/victoriacheng15/cover-craft/issues/2#issuecomment-3488885877) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
