@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/victoriacheng15/cover-craft/issues/2#issuecomment-3488885877) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. 💪 Opened PR [#45](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. 💪 Opened PR [#44](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
