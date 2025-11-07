@@ -48,11 +48,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 💪 Opened PR [#468](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+2. 💪 Opened PR [#87](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#467](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ✔️ Closed issue [#2](https://github.com/victoriacheng15/cover-craft/issues/2) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. 💪 Opened PR [#468](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
