@@ -49,9 +49,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-2. 💪 Opened PR [#8](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+2. 💪 Opened PR [#9](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-4. 💪 Opened PR [#7](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+4. 💪 Opened PR [#8](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 <!--RECENT_ACTIVITY:end-->
 
