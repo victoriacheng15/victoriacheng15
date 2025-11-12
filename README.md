@@ -34,11 +34,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [October Reflection 2025](https://victoriacheng15.vercel.app/blog/october-reflection-2025)
- - 🌮 [🌩️ Cloud – Elasticity vs Scalability](https://victoriacheng15.vercel.app/blog/cloud-elasticity-vs-scalability)
+ - 💯 [🌩️ Cloud: What Is High Availability](https://victoriacheng15.vercel.app/blog/cloud-what-is-high-availability)
+ - 🌮 [October Reflection 2025](https://victoriacheng15.vercel.app/blog/october-reflection-2025)
+ - 💫 [🌩️ Cloud – Elasticity vs Scalability](https://victoriacheng15.vercel.app/blog/cloud-elasticity-vs-scalability)
  - 💫 [How to Trigger Workflows Between Repos](https://victoriacheng15.vercel.app/blog/how-to-trigger-workflows-between-repos)
- - 💫 [Python zip Explained with Examples](https://victoriacheng15.vercel.app/blog/python-zip-explained-with-examples)
- - 🌮 [Astro Builds with Mermaid Diagrams](https://victoriacheng15.vercel.app/blog/astro-builds-with-mermaid-diagrams)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Python zip Explained with Examples](https://victoriacheng15.vercel.app/blog/python-zip-explained-with-examples)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
