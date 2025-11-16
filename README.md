@@ -49,10 +49,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-2. 💪 Opened PR [#10](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-3. ⭐ Starred [microsoft/qlib](https://github.com/microsoft/qlib)
-4. ⭐ Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+2. 💪 Opened PR [#11](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+4. 💪 Opened PR [#10](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+5. ⭐ Starred [microsoft/qlib](https://github.com/microsoft/qlib)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
