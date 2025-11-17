@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-2. 💪 Opened PR [#12](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-4. 💪 Opened PR [#93](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/victoriacheng15](https://github.com/victoriacheng15/victoriacheng15)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+3. 💪 Opened PR [#12](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+5. 💪 Opened PR [#93](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
