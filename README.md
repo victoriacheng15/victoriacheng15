@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-2. 💪 Opened PR [#97](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-4. 💪 Opened PR [#96](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+2. 💪 Opened PR [#33](undefined) in [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+4. 💪 Opened PR [#32](undefined) in [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
