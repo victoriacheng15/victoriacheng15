@@ -30,11 +30,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [🌩️ Cloud: What Is High Availability](https://victoriacheng15.vercel.app/blog/cloud-what-is-high-availability)
- - 🌮 [October Reflection 2025](https://victoriacheng15.vercel.app/blog/october-reflection-2025)
+ - 💯 [Single-Stage or Multi-Stage Docker Builds](https://victoriacheng15.vercel.app/blog/single-stage-or-multi-stage-docker-builds)
+ - 🌮 [🌩️ Cloud: What Is High Availability](https://victoriacheng15.vercel.app/blog/cloud-what-is-high-availability)
+ - 💫 [October Reflection 2025](https://victoriacheng15.vercel.app/blog/october-reflection-2025)
  - 💫 [🌩️ Cloud – Elasticity vs Scalability](https://victoriacheng15.vercel.app/blog/cloud-elasticity-vs-scalability)
- - 💫 [How to Trigger Workflows Between Repos](https://victoriacheng15.vercel.app/blog/how-to-trigger-workflows-between-repos)
- - 🌮 [Python zip Explained with Examples](https://victoriacheng15.vercel.app/blog/python-zip-explained-with-examples)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [How to Trigger Workflows Between Repos](https://victoriacheng15.vercel.app/blog/how-to-trigger-workflows-between-repos)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
