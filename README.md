@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
-2. 💪 Opened PR [#151](undefined) in [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
-3. 💪 Opened PR [#491](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
-5. 💪 Opened PR [#37](undefined) in [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
+3. 💪 Opened PR [#151](undefined) in [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
+4. 💪 Opened PR [#491](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cloud-powered-nutritional-insights](https://github.com/victoriacheng15/cloud-powered-nutritional-insights)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
