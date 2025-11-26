@@ -30,11 +30,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Single-Stage or Multi-Stage Docker Builds](https://victoriacheng15.vercel.app/blog/single-stage-or-multi-stage-docker-builds)
- - 🌮 [🌩️ Cloud: What Is High Availability](https://victoriacheng15.vercel.app/blog/cloud-what-is-high-availability)
+ - 💯 [Cloud - What Is Fault Tolerance?](https://victoriacheng15.vercel.app/blog/cloud-what-is-fault-tolerance)
+ - 🌮 [Single-Stage or Multi-Stage Docker Builds](https://victoriacheng15.vercel.app/blog/single-stage-or-multi-stage-docker-builds)
+ - 💫 [🌩️ Cloud: What Is High Availability](https://victoriacheng15.vercel.app/blog/cloud-what-is-high-availability)
  - 💫 [October Reflection 2025](https://victoriacheng15.vercel.app/blog/october-reflection-2025)
- - 💫 [🌩️ Cloud – Elasticity vs Scalability](https://victoriacheng15.vercel.app/blog/cloud-elasticity-vs-scalability)
- - 🌮 [How to Trigger Workflows Between Repos](https://victoriacheng15.vercel.app/blog/how-to-trigger-workflows-between-repos)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [🌩️ Cloud – Elasticity vs Scalability](https://victoriacheng15.vercel.app/blog/cloud-elasticity-vs-scalability)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
