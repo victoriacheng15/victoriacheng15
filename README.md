@@ -45,10 +45,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-2. 💪 Opened PR [#105](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#492](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+2. 💪 Opened PR [#107](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+4. 💪 Opened PR [#106](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
