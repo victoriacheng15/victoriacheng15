@@ -45,9 +45,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-3. 💪 Opened PR [#109](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+2. ❌ Closed PR [#114](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
+4. 💪 Opened PR [#113](undefined) in [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/article-extractor](https://github.com/victoriacheng15/article-extractor)
 <!--RECENT_ACTIVITY:end-->
 
