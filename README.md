@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#499](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 💪 Opened PR [#132](undefined) in [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#493](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/school-management-api](https://github.com/victoriacheng15/school-management-api)
+1. ⭐ Starred [moloch--/RootTheBox](https://github.com/moloch--/RootTheBox)
+2. ⭐ Starred [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)
+3. 💪 Opened PR [#499](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#132](undefined) in [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
