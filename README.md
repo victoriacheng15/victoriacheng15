@@ -45,10 +45,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. 💪 Opened PR [#63](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-4. 💪 Opened PR [#24](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-5. ⭐ Starred [antonmedv/gitmal](https://github.com/antonmedv/gitmal)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. 💪 Opened PR [#63](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+5. 💪 Opened PR [#24](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
