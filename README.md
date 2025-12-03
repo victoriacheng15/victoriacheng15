@@ -44,10 +44,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [antonmedv/gitmal](https://github.com/antonmedv/gitmal)
-2. ⭐ Starred [basecamp/fizzy](https://github.com/basecamp/fizzy)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
-4. 💪 Opened PR [#23](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+2. 💪 Opened PR [#24](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+3. ⭐ Starred [antonmedv/gitmal](https://github.com/antonmedv/gitmal)
+4. ⭐ Starred [basecamp/fizzy](https://github.com/basecamp/fizzy)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 <!--RECENT_ACTIVITY:end-->
 
