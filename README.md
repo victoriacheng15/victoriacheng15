@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
-2. 💪 Opened PR [#142](undefined) in [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
-4. 💪 Opened PR [#141](undefined) in [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
-5. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+2. 💪 Opened PR [#27](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
+5. 💪 Opened PR [#26](undefined) in [victoriacheng15/home-server](https://github.com/victoriacheng15/home-server)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
