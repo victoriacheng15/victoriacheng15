@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
-2. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+1. 💪 Opened PR [#96](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/platform-engineering](https://github.com/victoriacheng15/platform-engineering)
+3. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. 💪 Opened PR [#95](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
