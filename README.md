@@ -30,11 +30,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [What I Learned About Python Decorators?](https://victoriacheng15.vercel.app/blog/what-i-learned-about-python-decorators)
- - 🌮 [November Reflection 2025](https://victoriacheng15.vercel.app/blog/november-reflection-2025)
- - 💫 [Cloud - What Is Fault Tolerance?](https://victoriacheng15.vercel.app/blog/cloud-what-is-fault-tolerance)
- - 💫 [Single-Stage or Multi-Stage Docker Builds](https://victoriacheng15.vercel.app/blog/single-stage-or-multi-stage-docker-builds)
- - 🌮 [🌩️ Cloud: What Is High Availability](https://victoriacheng15.vercel.app/blog/cloud-what-is-high-availability)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Trying Azure Container Registry](https://victoriacheng15.vercel.app/blog/trying-azure-container-registry)
+ - 🌮 [Use Azure Key Vault for Secrets](https://victoriacheng15.vercel.app/blog/use-azure-key-vault-for-secrets)
+ - 💫 [What I Learned About Python Decorators?](https://victoriacheng15.vercel.app/blog/what-i-learned-about-python-decorators)
+ - 💫 [November Reflection 2025](https://victoriacheng15.vercel.app/blog/november-reflection-2025)
+ - 🌮 [Cloud - What Is Fault Tolerance?](https://victoriacheng15.vercel.app/blog/cloud-what-is-fault-tolerance)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
