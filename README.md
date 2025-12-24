@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fatedier/frp](https://github.com/fatedier/frp)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
-3. 💪 Opened PR [#43](undefined) in [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
+2. 💪 Opened PR [#44](undefined) in [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
+3. ⭐ Starred [fatedier/frp](https://github.com/fatedier/frp)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
-5. 💪 Opened PR [#42](undefined) in [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
+5. 💪 Opened PR [#43](undefined) in [victoriacheng15/homelab](https://github.com/victoriacheng15/homelab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
