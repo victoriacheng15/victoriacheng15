@@ -45,10 +45,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. 💪 Opened PR [#103](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-3. 💪 Opened PR [#538](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
-5. 💪 Opened PR [#186](undefined) in [victoriacheng15/personal-reading-analytics-dashboard](https://github.com/victoriacheng15/personal-reading-analytics-dashboard)
+2. 💪 Opened PR [#105](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. 💪 Opened PR [#104](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
