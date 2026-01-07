@@ -30,11 +30,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Reflecting on the 2025](https://victoriacheng15.vercel.app/blog/reflecting-on-the-2025)
- - 🌮 [Trying Azure Blob Storage](https://victoriacheng15.vercel.app/blog/trying-azure-blob-storage)
+ - 💯 [From Links to Reading Insights](https://victoriacheng15.vercel.app/blog/from-links-to-reading-insights)
+ - 🌮 [Reflecting on the 2025](https://victoriacheng15.vercel.app/blog/reflecting-on-the-2025)
+ - 💫 [Trying Azure Blob Storage](https://victoriacheng15.vercel.app/blog/trying-azure-blob-storage)
  - 💫 [Trying Azure Container Registry](https://victoriacheng15.vercel.app/blog/trying-azure-container-registry)
- - 💫 [Use Azure Key Vault for Secrets](https://victoriacheng15.vercel.app/blog/use-azure-key-vault-for-secrets)
- - 🌮 [What I Learned About Python Decorators?](https://victoriacheng15.vercel.app/blog/what-i-learned-about-python-decorators)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Use Azure Key Vault for Secrets](https://victoriacheng15.vercel.app/blog/use-azure-key-vault-for-secrets)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
