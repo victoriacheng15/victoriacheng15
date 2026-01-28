@@ -45,10 +45,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. 💪 Opened PR [#154](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-3. ⭐ Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-5. 💪 Opened PR [#31](undefined) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. 💪 Opened PR [#155](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. 💪 Opened PR [#154](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
