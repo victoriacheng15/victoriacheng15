@@ -44,11 +44,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-3. 💪 Opened PR [#31](undefined) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. 💪 Opened PR [#154](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. ⭐ Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
-5. 💪 Opened PR [#30](undefined) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+5. 💪 Opened PR [#31](undefined) in [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
