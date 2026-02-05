@@ -42,9 +42,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-4. 💪 Opened PR [#127](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
