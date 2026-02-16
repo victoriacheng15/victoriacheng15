@@ -44,10 +44,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thanos-io/thanos](https://github.com/thanos-io/thanos)
-2. ⭐ Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
-4. 💪 Opened PR [#274](undefined) in [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+2. 💪 Opened PR [#275](undefined) in [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+3. ⭐ Starred [thanos-io/thanos](https://github.com/thanos-io/thanos)
+4. ⭐ Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 <!--RECENT_ACTIVITY:end-->
 
