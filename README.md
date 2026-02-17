@@ -45,10 +45,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-2. 💪 Opened PR [#184](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-4. 💪 Opened PR [#588](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15hub/platform-actions](https://github.com/victoriacheng15hub/platform-actions)
+2. 💪 Opened PR [#185](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+4. 💪 Opened PR [#184](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
