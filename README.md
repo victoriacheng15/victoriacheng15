@@ -30,11 +30,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Scaling with Systemd Template Units](https://victoriacheng15.vercel.app/blog/scaling-with-systemd-template-units.html)
- - 🌮 [[Engineering Log] Cron vs. Systemd: A Deep Dive](https://victoriacheng15.vercel.app/blog/engineering-log-cron-vs-systemd-a-deep-dive.html)
+ - 💯 [GitOps: From Timers to Webhooks](https://victoriacheng15.vercel.app/blog/gitops-from-timers-to-webhooks.html)
+ - 🌮 [Scaling with Systemd Template Units](https://victoriacheng15.vercel.app/blog/scaling-with-systemd-template-units.html)
+ - 💫 [[Engineering Log] Cron vs. Systemd: A Deep Dive](https://victoriacheng15.vercel.app/blog/engineering-log-cron-vs-systemd-a-deep-dive.html)
  - 💫 [January Reflection 2026](https://victoriacheng15.vercel.app/blog/january-reflection-2026.html)
- - 💫 [From Metrics to Milestones](https://victoriacheng15.vercel.app/blog/from-metrics-to-milestones.html)
- - 🌮 [[Engineering Log] Why Not Index Everything?](https://victoriacheng15.vercel.app/blog/engineering-log-why-not-index-everything.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [From Metrics to Milestones](https://victoriacheng15.vercel.app/blog/from-metrics-to-milestones.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
