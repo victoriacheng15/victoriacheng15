@@ -61,11 +61,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#3](https://github.com/codetocloudorg/kodra/pull/3#pullrequestreview-3858064384) in [codetocloudorg/kodra](https://github.com/codetocloudorg/kodra)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-3. 💪 Opened PR [#195](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. 💪 Opened PR [#194](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+2. 💬 Commented on [#287](https://github.com/victoriacheng15/personal-reading-analytics/pull/287#issuecomment-3967120531) in [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
