@@ -61,11 +61,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+2. 💪 Opened PR [#11](undefined) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
