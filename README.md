@@ -47,11 +47,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [GitOps: From Timers to Webhooks](https://victoriacheng15.vercel.app/blog/gitops-from-timers-to-webhooks.html)
- - 🌮 [Scaling with Systemd Template Units](https://victoriacheng15.vercel.app/blog/scaling-with-systemd-template-units.html)
- - 💫 [[Engineering Log] Cron vs. Systemd: A Deep Dive](https://victoriacheng15.vercel.app/blog/engineering-log-cron-vs-systemd-a-deep-dive.html)
- - 💫 [January Reflection 2026](https://victoriacheng15.vercel.app/blog/january-reflection-2026.html)
- - 🌮 [From Metrics to Milestones](https://victoriacheng15.vercel.app/blog/from-metrics-to-milestones.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 [[Engineering Log] Killing the Static .env with OpenBao](https://victoriacheng15.vercel.app/blog/engineering-log-killing-the-static-env-with-openbao.html)
+ - 🌮 [[Engineering Log] Migrating Python CLI to Serverless](https://victoriacheng15.vercel.app/blog/engineering-log-migrating-python-cli-to-serverless.html)
+ - 💫 [GitOps: From Timers to Webhooks](https://victoriacheng15.vercel.app/blog/gitops-from-timers-to-webhooks.html)
+ - 💫 [Scaling with Systemd Template Units](https://victoriacheng15.vercel.app/blog/scaling-with-systemd-template-units.html)
+ - 🌮 [[Engineering Log] Cron vs. Systemd: A Deep Dive](https://victoriacheng15.vercel.app/blog/engineering-log-cron-vs-systemd-a-deep-dive.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
