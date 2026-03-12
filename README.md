@@ -56,11 +56,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-3. ⭐ Starred [siderolabs/talos](https://github.com/siderolabs/talos)
+1. 💪 Opened PR [#300](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-5. 💪 Opened PR [#299](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
