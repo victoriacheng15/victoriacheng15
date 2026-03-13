@@ -57,9 +57,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-2. 💪 Opened PR [#308](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-4. 💪 Opened PR [#10](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+2. 💪 Opened PR [#309](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+4. 💪 Opened PR [#308](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
 <!--RECENT_ACTIVITY:end-->
 
