@@ -56,11 +56,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-2. 💪 Opened PR [#36](undefined) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-4. 💪 Opened PR [#35](undefined) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+2. 💪 Opened PR [#329](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+4. ⭐ Starred [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
