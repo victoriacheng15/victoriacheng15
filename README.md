@@ -57,10 +57,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+2. 💪 Opened PR [#40](undefined) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-4. 💪 Opened PR [#39](undefined) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
