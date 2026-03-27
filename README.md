@@ -56,9 +56,9 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-2. 💬 Commented on [#45](https://github.com/victoriacheng15/echo/pull/45#issuecomment-4143503038) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+1. 💪 Opened PR [#375](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
+3. 💬 Commented on [#45](https://github.com/victoriacheng15/echo/pull/45#issuecomment-4143503038) in [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/echo](https://github.com/victoriacheng15/echo)
 <!--RECENT_ACTIVITY:end-->
