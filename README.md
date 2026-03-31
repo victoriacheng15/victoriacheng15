@@ -62,10 +62,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-2. 💪 Opened PR [#405](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+1. 💬 Commented on [#407](https://github.com/victoriacheng15/observability-hub/pull/407#issuecomment-4159398475) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+2. ❌ Closed PR [#407](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-4. 💪 Opened PR [#404](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+4. 💪 Opened PR [#408](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 <!--RECENT_ACTIVITY:end-->
 
