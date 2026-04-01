@@ -48,11 +48,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [The SRE Era: Standardizing OpenTelemetry](https://victoriacheng15.vercel.app/blog/the-sre-era-standardizing-opentelemetry.html)
- - 🌮 [[Engineering Log] The Phased Migration to Kubernetes](https://victoriacheng15.vercel.app/blog/engineering-log-the-phased-migration-to-kubernetes.html)
+ - 💯 [MCP-Ready Ecosystem Refactor](https://victoriacheng15.vercel.app/blog/refactoring-for-an-mcp-ready-ecosystem.html)
+ - 🌮 [The SRE Era: Standardizing OpenTelemetry](https://victoriacheng15.vercel.app/blog/the-sre-era-standardizing-opentelemetry.html)
+ - 💫 [[Engineering Log] The Phased Migration to Kubernetes](https://victoriacheng15.vercel.app/blog/engineering-log-the-phased-migration-to-kubernetes.html)
  - 💫 [[Engineering Log] The Migration Strangler: Promtail to Alloy](https://victoriacheng15.vercel.app/blog/engineering-log-the-migration-strangler-promtail-to-alloy.html)
- - 💫 [[Engineering Log] Killing the Static .env with OpenBao](https://victoriacheng15.vercel.app/blog/engineering-log-killing-the-static-env-with-openbao.html)
- - 🌮 [[Engineering Log] Migrating Python CLI to Serverless](https://victoriacheng15.vercel.app/blog/engineering-log-migrating-python-cli-to-serverless.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [[Engineering Log] Killing the Static .env with OpenBao](https://victoriacheng15.vercel.app/blog/engineering-log-killing-the-static-env-with-openbao.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
