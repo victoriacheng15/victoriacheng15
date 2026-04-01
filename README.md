@@ -62,10 +62,10 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-2. 💪 Opened PR [#624](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
-4. 💬 Commented on [#324](https://github.com/victoriacheng15/personal-reading-analytics/pull/324#issuecomment-4172278692) in [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+4. 💪 Opened PR [#624](undefined) in [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 <!--RECENT_ACTIVITY:end-->
 
