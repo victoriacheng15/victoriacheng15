@@ -63,10 +63,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-2. 💪 Opened PR [#14](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-3. 🔱 Forked [victoriacheng15/argo-cd](https://github.com/victoriacheng15/argo-cd) from [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/mehub](https://github.com/victoriacheng15/mehub)
+2. 💪 Opened PR [#16](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+4. 💪 Opened PR [#15](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
