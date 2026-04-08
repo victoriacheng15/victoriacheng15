@@ -48,11 +48,11 @@
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [MCP-Ready Ecosystem Refactor](https://victoriacheng15.vercel.app/blog/refactoring-for-an-mcp-ready-ecosystem.html)
- - 🌮 [The SRE Era: Standardizing OpenTelemetry](https://victoriacheng15.vercel.app/blog/the-sre-era-standardizing-opentelemetry.html)
+ - 💯 [[Engineering Log] The Brittle JSON: Grafana Provisioning Failure](https://victoriacheng15.vercel.app/blog/engineering-log-the-brittle-json-grafana-provisioning-failure.html)
+ - 🌮 [MCP-Ready Ecosystem Refactor](https://victoriacheng15.vercel.app/blog/refactoring-for-an-mcp-ready-ecosystem.html)
+ - 💫 [The SRE Era: Standardizing OpenTelemetry](https://victoriacheng15.vercel.app/blog/the-sre-era-standardizing-opentelemetry.html)
  - 💫 [[Engineering Log] The Phased Migration to Kubernetes](https://victoriacheng15.vercel.app/blog/engineering-log-the-phased-migration-to-kubernetes.html)
- - 💫 [[Engineering Log] The Migration Strangler: Promtail to Alloy](https://victoriacheng15.vercel.app/blog/engineering-log-the-migration-strangler-promtail-to-alloy.html)
- - 🌮 [[Engineering Log] Killing the Static .env with OpenBao](https://victoriacheng15.vercel.app/blog/engineering-log-killing-the-static-env-with-openbao.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [[Engineering Log] The Migration Strangler: Promtail to Alloy](https://victoriacheng15.vercel.app/blog/engineering-log-the-migration-strangler-promtail-to-alloy.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
