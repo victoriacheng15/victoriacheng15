@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-3. 💪 Opened PR [#451](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+2. 💪 Opened PR [#452](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+3. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
 4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
-5. 💪 Opened PR [#450](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+5. 💪 Opened PR [#451](undefined) in [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
