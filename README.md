@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/personal-reading-analytics](https://github.com/victoriacheng15/personal-reading-analytics)
 2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
-3. 🔱 Forked [victoriacheng15/contribute-site](https://github.com/victoriacheng15/contribute-site) from [cncf/contribute-site](https://github.com/cncf/contribute-site)
-4. 💪 Opened PR [#4](undefined) in [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/observability-hub](https://github.com/victoriacheng15/observability-hub)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
+4. 🔱 Forked [victoriacheng15/contribute-site](https://github.com/victoriacheng15/contribute-site) from [cncf/contribute-site](https://github.com/cncf/contribute-site)
+5. 💪 Opened PR [#4](undefined) in [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
