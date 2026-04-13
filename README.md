@@ -28,7 +28,7 @@
 ### ⚙️ Infrastructure & Security
 
 ![Cilium](https://img.shields.io/badge/Cilium-60BAE3.svg?style=for-the-badge&logo=Cilium&logoColor=white)
-![OpenTofu (Terraform)](https://img.shields.io/badge/OpenTofu%20(Terraform)-FFDA18.svg?style=for-the-badge&logo=OpenTofu&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
