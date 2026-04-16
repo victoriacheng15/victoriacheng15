@@ -63,9 +63,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-2. 💪 Opened PR [#20](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
-4. 💪 Opened PR [#7](undefined) in [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
+2. 💪 Opened PR [#21](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+4. 💪 Opened PR [#20](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
 <!--RECENT_ACTIVITY:end-->
 
