@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
-2. 💪 Opened PR [#8](undefined) in [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-5. 💬 Commented on [#262](https://github.com/victoriacheng15/cover-craft/pull/262#issuecomment-4261861130) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+1. 💪 Opened PR [#22](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
+4. 💪 Opened PR [#9](undefined) in [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/carbonops](https://github.com/victoriacheng15/carbonops)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
