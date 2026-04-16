@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#254](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-2. ❌ Closed PR [#250](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-3. ❌ Closed PR [#249](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
-4. ⭐ Starred [richlamdev/vim-cheatsheet](https://github.com/richlamdev/vim-cheatsheet)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+2. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. 💪 Opened PR [#258](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
