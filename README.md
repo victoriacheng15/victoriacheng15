@@ -62,11 +62,11 @@
 <summary>See activities!</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-2. 💪 Opened PR [#33](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
+2. 💪 Opened PR [#6](undefined) in [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+4. 💪 Opened PR [#268](undefined) in [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
+5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/cover-craft](https://github.com/victoriacheng15/cover-craft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
