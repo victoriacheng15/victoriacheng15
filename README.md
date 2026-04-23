@@ -63,9 +63,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
-2. 💪 Opened PR [#7](undefined) in [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
-3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
-4. 💪 Opened PR [#34](undefined) in [victoriacheng15/30-days-of-terraform](https://github.com/victoriacheng15/30-days-of-terraform)
+2. 💪 Opened PR [#14](undefined) in [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
+3. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
+4. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
 5. ⬆️ Pushed undefined commit(s) to [victoriacheng15/rust-systems-lab](https://github.com/victoriacheng15/rust-systems-lab)
 <!--RECENT_ACTIVITY:end-->
 
