@@ -1,9 +1,9 @@
 # Hi 👋 My name is Victoria
 
-Software Developer focused on full-stack and cloud-native systems:
+Software Developer focused on full-stack development with a backend emphasis:
 
+- Backend Development
 - Kubernetes
-- Observability
 - Distributed Systems
 
 ## 💼 Tech Stacks
@@ -20,6 +20,7 @@ Software Developer focused on full-stack and cloud-native systems:
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
