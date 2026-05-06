@@ -51,10 +51,10 @@ Software Developer focused on full-stack development with a backend emphasis:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [[Engineering Log] Swapping Vue for Go](https://victoriacheng15.vercel.app/blog/engineering-log-why-i-swapped-vue-for-go.html)
- - 🌮 [[Engineering Log] Persistent AI Memory with Echo](https://victoriacheng15.vercel.app/blog/engineering-log-persistent-ai-memory-with-echo.html)
- - 💫 [[Engineering Log] The Brittle JSON: Grafana Provisioning Failure](https://victoriacheng15.vercel.app/blog/engineering-log-the-brittle-json-grafana-provisioning-failure.html)
- - 💫 [MCP-Ready Ecosystem Refactor](https://victoriacheng15.vercel.app/blog/refactoring-for-an-mcp-ready-ecosystem.html)
- - 🌮 [The SRE Era: Standardizing OpenTelemetry](https://victoriacheng15.vercel.app/blog/the-sre-era-standardizing-opentelemetry.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Unified Intelligence for Observability Hub](https://victoriacheng15.vercel.app/blog/unified-intelligence-for-observability-hub.html)
+ - 🌮 [The Terraform Era: Declarative Automation](https://victoriacheng15.vercel.app/blog/the-terraform-era-declarative-automation.html)
+ - 💫 [[Engineering Log] Swapping Vue for Go](https://victoriacheng15.vercel.app/blog/engineering-log-why-i-swapped-vue-for-go.html)
+ - 💫 [[Engineering Log] Persistent AI Memory with Echo](https://victoriacheng15.vercel.app/blog/engineering-log-persistent-ai-memory-with-echo.html)
+ - 🌮 [[Engineering Log] The Brittle JSON: Grafana Provisioning Failure](https://victoriacheng15.vercel.app/blog/engineering-log-the-brittle-json-grafana-provisioning-failure.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
