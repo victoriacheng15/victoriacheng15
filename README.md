@@ -52,10 +52,10 @@ Software Developer focused on full-stack development with a backend emphasis:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Unified Intelligence for Observability Hub](https://victoriacheng15.vercel.app/blog/unified-intelligence-for-observability-hub.html)
- - 🌮 [The Terraform Era: Declarative Automation](https://victoriacheng15.vercel.app/blog/the-terraform-era-declarative-automation.html)
+ - 💯 [Building a GitOps Homelab Platform Pipeline](https://victoriacheng15.vercel.app/blog/building-a-gitops-homelab-platform-pipeline.html)
+ - 🌮 [Unified Intelligence for Observability Hub](https://victoriacheng15.vercel.app/blog/unified-intelligence-for-observability-hub.html)
+ - 💫 [The Terraform Era: Declarative Automation](https://victoriacheng15.vercel.app/blog/the-terraform-era-declarative-automation.html)
  - 💫 [[Engineering Log] Swapping Vue for Go](https://victoriacheng15.vercel.app/blog/engineering-log-why-i-swapped-vue-for-go.html)
- - 💫 [[Engineering Log] Persistent AI Memory with Echo](https://victoriacheng15.vercel.app/blog/engineering-log-persistent-ai-memory-with-echo.html)
- - 🌮 [[Engineering Log] The Brittle JSON: Grafana Provisioning Failure](https://victoriacheng15.vercel.app/blog/engineering-log-the-brittle-json-grafana-provisioning-failure.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [[Engineering Log] Persistent AI Memory with Echo](https://victoriacheng15.vercel.app/blog/engineering-log-persistent-ai-memory-with-echo.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
