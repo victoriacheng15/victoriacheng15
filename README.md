@@ -1,10 +1,10 @@
 # Hi 👋 My name is Victoria
 
-Software Developer focused on full-stack development with a backend emphasis:
+Software Developer focused on backend and DevOps:
 
 - Backend Development
-- Kubernetes
-- Distributed Systems
+- Kubernetes & Infrastructure
+- Distributed Systems & Observability
 
 ## 💼 Tech Stacks
 
