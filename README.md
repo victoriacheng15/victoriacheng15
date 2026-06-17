@@ -52,10 +52,10 @@ Software Developer focused on backend and DevOps:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Optimizing Kubernetes Telemetry via eBPF](https://victoriacheng15.vercel.app/blog/optimizing-kubernetes-telemetry-via-ebpf.html)
- - 🌮 [Systemic Reliability: SLI vs SLO Patterns](https://victoriacheng15.vercel.app/blog/systemic-reliability-sli-vs-slo-patterns.html)
+ - 💯 [[Engineering Log] Measuring Memory Value in Echo](https://victoriacheng15.vercel.app/blog/engineering-log-measuring-memory-value-in-echo.html)
+ - 🌮 [Optimizing Kubernetes Telemetry via eBPF](https://victoriacheng15.vercel.app/blog/optimizing-kubernetes-telemetry-via-ebpf.html)
+ - 💫 [Systemic Reliability: SLI vs SLO Patterns](https://victoriacheng15.vercel.app/blog/systemic-reliability-sli-vs-slo-patterns.html)
  - 💫 [Building a GitOps Homelab Platform Pipeline](https://victoriacheng15.vercel.app/blog/building-a-gitops-homelab-platform-pipeline.html)
- - 💫 [Unified Intelligence for Observability Hub](https://victoriacheng15.vercel.app/blog/unified-intelligence-for-observability-hub.html)
- - 🌮 [The Terraform Era: Declarative Automation](https://victoriacheng15.vercel.app/blog/the-terraform-era-declarative-automation.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Unified Intelligence for Observability Hub](https://victoriacheng15.vercel.app/blog/unified-intelligence-for-observability-hub.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
