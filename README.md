@@ -52,10 +52,10 @@ Software Developer focused on backend and DevOps:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [[Engineering Log] Fixing DuckDB File Locks](https://victoriacheng15.vercel.app/blog/engineering-log-fixing-duckdb-file-locks.html)
- - 🌮 [[Engineering Log] Measuring Memory Value in Echo](https://victoriacheng15.vercel.app/blog/engineering-log-measuring-memory-value-in-echo.html)
- - 💫 [Optimizing Kubernetes Telemetry via eBPF](https://victoriacheng15.vercel.app/blog/optimizing-kubernetes-telemetry-via-ebpf.html)
- - 💫 [Systemic Reliability: SLI vs SLO Patterns](https://victoriacheng15.vercel.app/blog/systemic-reliability-sli-vs-slo-patterns.html)
- - 🌮 [Building a GitOps Homelab Platform Pipeline](https://victoriacheng15.vercel.app/blog/building-a-gitops-homelab-platform-pipeline.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 [[Engineering Log] Safer ID-Based Memory Deletion](https://victoriacheng15.dev/blog/engineering-log-safer-id-based-memory-deletion.html)
+ - 🌮 [[Engineering Log] Fixing DuckDB File Locks](https://victoriacheng15.dev/blog/engineering-log-fixing-duckdb-file-locks.html)
+ - 💫 [[Engineering Log] Measuring Memory Value in Echo](https://victoriacheng15.dev/blog/engineering-log-measuring-memory-value-in-echo.html)
+ - 💫 [Optimizing Kubernetes Telemetry via eBPF](https://victoriacheng15.dev/blog/optimizing-kubernetes-telemetry-via-ebpf.html)
+ - 🌮 [Systemic Reliability: SLI vs SLO Patterns](https://victoriacheng15.dev/blog/systemic-reliability-sli-vs-slo-patterns.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
