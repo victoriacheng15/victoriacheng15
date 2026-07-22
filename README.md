@@ -52,10 +52,10 @@ Software Developer focused on backend and DevOps:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Merged the First Chaos Mesh PR](https://victoriacheng15.dev/blog/merged-the-first-chaos-mesh-pr.html)
- - 🌮 [[Engineering Log] Building Echo Dual Interface](https://victoriacheng15.dev/blog/engineering-log-building-echo-dual-interface.html)
+ - 💯 [[Engineering Log] HTML Minification Network Savings](https://victoriacheng15.dev/blog/engineering-log-html-minification-network-savings.html)
+ - 🌮 [Merged the First Chaos Mesh PR](https://victoriacheng15.dev/blog/merged-the-first-chaos-mesh-pr.html)
+ - 💫 [[Engineering Log] Building Echo Dual Interface](https://victoriacheng15.dev/blog/engineering-log-building-echo-dual-interface.html)
  - 💫 [[Engineering Log] Safer ID-Based Memory Deletion](https://victoriacheng15.dev/blog/engineering-log-safer-id-based-memory-deletion.html)
- - 💫 [[Engineering Log] Fixing DuckDB File Locks](https://victoriacheng15.dev/blog/engineering-log-fixing-duckdb-file-locks.html)
- - 🌮 [[Engineering Log] Measuring Memory Value in Echo](https://victoriacheng15.dev/blog/engineering-log-measuring-memory-value-in-echo.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [[Engineering Log] Fixing DuckDB File Locks](https://victoriacheng15.dev/blog/engineering-log-fixing-duckdb-file-locks.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
