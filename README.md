@@ -52,10 +52,10 @@ Software Developer focused on backend and DevOps:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Resolving a Dashboard Lockout Issue](https://victoriacheng15.dev/blog/resolving-a-dashboard-lockout-issue.html)
- - 🌮 [Comparing Multistage and Single Container Builds](https://victoriacheng15.dev/blog/comparing-multistage-and-single-container-builds.html)
+ - 💯 [My LFX Mentorship With Chaos Mesh](https://victoriacheng15.dev/blog/my-lfx-mentorship-with-chaos-mesh.html)
+ - 🌮 [Resolving a Dashboard Lockout Issue](https://victoriacheng15.dev/blog/resolving-a-dashboard-lockout-issue.html)
+ - 💫 [Comparing Multistage and Single Container Builds](https://victoriacheng15.dev/blog/comparing-multistage-and-single-container-builds.html)
  - 💫 [[Engineering Log] Accessibility as System Constraint](https://victoriacheng15.dev/blog/engineering-log-accessibility-as-system-constraint.html)
- - 💫 [Kubernetes Placement and Network Controls](https://victoriacheng15.dev/blog/kubernetes-placement-and-network-controls.html)
- - 🌮 [Kubernetes Quotas and Limits](https://victoriacheng15.dev/blog/kubernetes-quotas-and-limits.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Kubernetes Placement and Network Controls](https://victoriacheng15.dev/blog/kubernetes-placement-and-network-controls.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
