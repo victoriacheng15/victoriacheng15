@@ -52,10 +52,10 @@ Software Developer focused on backend and DevOps:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [[Engineering Log] Building Product Observability](https://victoriacheng15.dev/blog/engineering-log-building-product-observability.html)
- - 🌮 [My LFX Mentorship With Chaos Mesh](https://victoriacheng15.dev/blog/my-lfx-mentorship-with-chaos-mesh.html)
+ - 💯 [Automated Tag Validation for Static Blogs](https://victoriacheng15.dev/blog/never-manually-check-blog-tags-again.html)
+ - 🌮 [[Engineering Log] Building Product Observability](https://victoriacheng15.dev/blog/engineering-log-building-product-observability.html)
+ - 💫 [My LFX Mentorship With Chaos Mesh](https://victoriacheng15.dev/blog/my-lfx-mentorship-with-chaos-mesh.html)
  - 💫 [Resolving a Dashboard Lockout Issue](https://victoriacheng15.dev/blog/resolving-a-dashboard-lockout-issue.html)
- - 💫 [Comparing Multistage and Single Container Builds](https://victoriacheng15.dev/blog/comparing-multistage-and-single-container-builds.html)
- - 🌮 [[Engineering Log] Accessibility as System Constraint](https://victoriacheng15.dev/blog/engineering-log-accessibility-as-system-constraint.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Comparing Multistage and Single Container Builds](https://victoriacheng15.dev/blog/comparing-multistage-and-single-container-builds.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
