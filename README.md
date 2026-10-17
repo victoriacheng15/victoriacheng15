@@ -6,6 +6,8 @@ Software Developer focused on backend and DevOps:
 - Kubernetes & Infrastructure
 - Distributed Systems & Observability
 
+[Website](https://victoriacheng15.dev) · [Upstream Work](https://victoriacheng15.dev/work) · [Blog](https://victoriacheng15.dev/blog)
+
 ## 💼 Tech Stacks
 
 ### Languages
