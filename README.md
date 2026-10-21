@@ -55,10 +55,10 @@ I'm Victoria. Software Developer focused on:
 <summary>See blogs!</summary>
   
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Migrating Azure Infrastructure to OpenTofu](https://victoriacheng15.dev/blog/migrating-azure-infrastructure-to-opentofu.html)
- - 🌮 [Automated Tag Validation for Static Blogs](https://victoriacheng15.dev/blog/never-manually-check-blog-tags-again.html)
+ - 💯 [Automating My Local Dev Env](https://victoriacheng15.dev/blog/automating-my-local-dev-env.html)
+ - 🌮 [Migrating Azure Infrastructure to OpenTofu](https://victoriacheng15.dev/blog/migrating-azure-infrastructure-to-opentofu.html)
+ - 💫 [Automated Tag Validation for Static Blogs](https://victoriacheng15.dev/blog/never-manually-check-blog-tags-again.html)
  - 💫 [[Engineering Log] Building Product Observability](https://victoriacheng15.dev/blog/engineering-log-building-product-observability.html)
- - 💫 [My LFX Mentorship With Chaos Mesh](https://victoriacheng15.dev/blog/my-lfx-mentorship-with-chaos-mesh.html)
- - 🌮 [Resolving a Dashboard Lockout Issue](https://victoriacheng15.dev/blog/resolving-a-dashboard-lockout-issue.html)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [My LFX Mentorship With Chaos Mesh](https://victoriacheng15.dev/blog/my-lfx-mentorship-with-chaos-mesh.html)<!-- BLOG-POST-LIST:END -->
 
 </details>
